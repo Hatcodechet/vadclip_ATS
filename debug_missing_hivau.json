@@ -1,0 +1,276 @@
+{
+  "Abuse030_x264": {
+    "n_frames": 1544,
+    "fps": 30.0,
+    "label": [
+      "Abuse"
+    ],
+    "events": [
+      [
+        5.0,
+        12.0
+      ]
+    ],
+    "clips": [
+      [
+        [
+          5.0,
+          9.279
+        ],
+        [
+          9.279,
+          12.0
+        ]
+      ]
+    ],
+    "clips_caption": [
+      [
+        "A man beats a black dog on the roadside.",
+        "The dog recoils while the man continues the attack."
+      ]
+    ],
+    "events_summary": [
+      "An anomaly exists, specifically Abuse. A man physically abuses a black dog on the roadside during the event. The intentional violent harm toward the animal deviates from normal and acceptable behavior."
+    ],
+    "video_summary": "An anomaly exists, specifically Abuse. The video shows a man repeatedly beating a black dog on the roadside from start to end. The deliberate physical harm inflicted on the dog is a clear anomaly and a form of animal abuse.",
+    "events_summary_split": [
+      {
+        "judgement": "An anomaly exists, specifically Abuse.",
+        "description": "A man physically abuses a black dog on the roadside during the event.",
+        "analysis": "The intentional violent harm toward the animal deviates from normal and acceptable behavior."
+      }
+    ],
+    "video_summary_split": {
+      "judgement": "An anomaly exists, specifically Abuse.",
+      "description": "The video shows a man repeatedly beating a black dog on the roadside from start to end.",
+      "analysis": "The deliberate physical harm inflicted on the dog is a clear anomaly and a form of animal abuse."
+    }
+  },
+  "Assault011_x264": {
+    "n_frames": 2288,
+    "fps": 30.0,
+    "label": [
+      "Assault"
+    ],
+    "events": [],
+    "clips": [],
+    "clips_caption": [],
+    "events_summary": [],
+    "video_summary": "In the yard where many motorcycles are parked, three men beat a man in a pink shirt with a stick.",
+    "events_summary_split": [],
+    "video_summary_split": {
+      "judgement": "",
+      "description": "",
+      "analysis": ""
+    }
+  },
+  "Explosion027_x264": {
+    "n_frames": 776,
+    "fps": 30.0,
+    "label": [
+      "Explosion"
+    ],
+    "events": [
+      [
+        8.0,
+        16.0
+      ]
+    ],
+    "clips": [
+      [
+        [
+          8.0,
+          11.05
+        ],
+        [
+          11.05,
+          16.0
+        ]
+      ]
+    ],
+    "clips_caption": [
+      [
+        "",
+        ""
+      ]
+    ],
+    "events_summary": [
+      ""
+    ],
+    "video_summary": "The mobile phone in the hands of a sitting man in the house suddenly caught fire and gave out white smoke.",
+    "events_summary_split": [
+      {
+        "judgement": "",
+        "description": "",
+        "analysis": ""
+      }
+    ],
+    "video_summary_split": {
+      "judgement": "",
+      "description": "",
+      "analysis": ""
+    }
+  },
+  "Explosion029_x264": {
+    "n_frames": 2410,
+    "fps": 30.0,
+    "label": [
+      "Explosion"
+    ],
+    "events": [],
+    "clips": [],
+    "clips_caption": [],
+    "events_summary": [],
+    "video_summary": "At the gas station, the car behind the woman in the blue shirt burst into flames.",
+    "events_summary_split": [],
+    "video_summary_split": {
+      "judgement": "",
+      "description": "",
+      "analysis": ""
+    }
+  },
+  "Explosion036_x264": {
+    "n_frames": 5327,
+    "fps": 30.0,
+    "label": [
+      "Explosion"
+    ],
+    "events": [],
+    "clips": [],
+    "clips_caption": [],
+    "events_summary": [],
+    "video_summary": "A group of children threw firecrackers into the sewer and exploded, producing huge shock waves and smoke.",
+    "events_summary_split": [],
+    "video_summary_split": {
+      "judgement": "",
+      "description": "",
+      "analysis": ""
+    }
+  },
+  "Explosion039_x264": {
+    "n_frames": 998,
+    "fps": 30.0,
+    "label": [
+      "Explosion"
+    ],
+    "events": [],
+    "clips": [],
+    "clips_caption": [],
+    "events_summary": [],
+    "video_summary": "There was a small explosion in a restaurant with some smoke.",
+    "events_summary_split": [],
+    "video_summary_split": {
+      "judgement": "",
+      "description": "",
+      "analysis": ""
+    }
+  },
+  "Explosion043_x264": {
+    "n_frames": 7646,
+    "fps": 30.0,
+    "label": [
+      "Explosion"
+    ],
+    "events": [],
+    "clips": [],
+    "clips_caption": [],
+    "events_summary": [],
+    "video_summary": "The far part of the alley suddenly exploded, producing a fireball. The explosion destroyed the surrounding things. Pedestrians and dogs run away.",
+    "events_summary_split": [],
+    "video_summary_split": {
+      "judgement": "",
+      "description": "",
+      "analysis": ""
+    }
+  },
+  "RoadAccidents002_x264": {
+    "n_frames": 347,
+    "fps": 30.0,
+    "label": [
+      "RoadAccidents"
+    ],
+    "events": [],
+    "clips": [],
+    "clips_caption": [],
+    "events_summary": [],
+    "video_summary": "A bus rushed to the side of the road and crashed a pillar and then stopped.",
+    "events_summary_split": [],
+    "video_summary_split": {
+      "judgement": "",
+      "description": "",
+      "analysis": ""
+    }
+  },
+  "Shooting002_x264": {
+    "n_frames": 1206,
+    "fps": 30.0,
+    "label": [
+      "Shooting"
+    ],
+    "events": [],
+    "clips": [],
+    "clips_caption": [],
+    "events_summary": [],
+    "video_summary": "In the parking lot at night, a man shot at several others.",
+    "events_summary_split": [],
+    "video_summary_split": {
+      "judgement": "",
+      "description": "",
+      "analysis": ""
+    }
+  },
+  "Shooting007_x264": {
+    "n_frames": 1430,
+    "fps": 30.0,
+    "label": [
+      "Shooting"
+    ],
+    "events": [],
+    "clips": [],
+    "clips_caption": [],
+    "events_summary": [],
+    "video_summary": "On the grass, a man in a blue shirt was holding a gun, and many people shot each other and ran.",
+    "events_summary_split": [],
+    "video_summary_split": {
+      "judgement": "",
+      "description": "",
+      "analysis": ""
+    }
+  },
+  "Shooting019_x264": {
+    "n_frames": 2756,
+    "fps": 30.0,
+    "label": [
+      "Shooting"
+    ],
+    "events": [],
+    "clips": [],
+    "clips_caption": [],
+    "events_summary": [],
+    "video_summary": "At night, two car robbers were scared away by a man who opened fire.",
+    "events_summary_split": [],
+    "video_summary_split": {
+      "judgement": "",
+      "description": "",
+      "analysis": ""
+    }
+  },
+  "Shoplifting037_x264": {
+    "n_frames": 1386,
+    "fps": 30.0,
+    "label": [
+      "Shoplifting"
+    ],
+    "events": [],
+    "clips": [],
+    "clips_caption": [],
+    "events_summary": [],
+    "video_summary": "A man snatched the gold jewelry from the counter while the two shop assistants were not paying attention, and then ran away.",
+    "events_summary_split": [],
+    "video_summary_split": {
+      "judgement": "",
+      "description": "",
+      "analysis": ""
+    }
+  }
+}

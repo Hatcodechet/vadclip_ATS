@@ -1,0 +1,590 @@
+{
+  "missing_in_hivau": [
+    {
+      "video_name": "Arrest/Arrest010_x264.mp4",
+      "normalized_name": "Arrest010_x264",
+      "video_description": "On the construction site, several police officers arrested a man wearing a hat."
+    },
+    {
+      "video_name": "Arrest/Arrest035_x264.mp4",
+      "normalized_name": "Arrest035_x264",
+      "video_description": "A man who robbed a supermarket was arrested by multiple policemen."
+    },
+    {
+      "video_name": "Arson/Arson005_x264.mp4",
+      "normalized_name": "Arson005_x264",
+      //"video_description": "A man poured gasoline on a car and lit it."
+    },
+    {
+      "video_name": "Arson/Arson019_x264.mp4",
+      "normalized_name": "Arson019_x264", 
+      //"video_description": "A black car on the side of the road suddenly caught fire late at night, the driver quickly fled, and then firefighters extinguished the flames."
+    },
+    {
+      "video_name": "Arson/Arson020_x264.mp4",
+      "normalized_name": "Arson020_x264",
+      "video_description": "A white car parked on the side of the road was ignited by two people in a passing car, and then the two men drove away."
+    },
+    {
+      "video_name": "Arson/Arson048_x264.mp4",
+      "normalized_name": "Arson048_x264",
+      //"video_description": "A restaurant was dumped with gasoline and ignited."
+    },
+    {
+      "video_name": "Assault/Assault031_x264.mp4",
+      "normalized_name": "Assault031_x264",
+      //"video_description": "Many men beat each other in a square during the day."
+    },
+    {
+      "video_name": "Assault/Assault038_x264.mp4",
+      "normalized_name": "Assault038_x264",
+      "video_description": "At a party the yellow-haired man suddenly attacked a man opposite him."
+    },
+    {
+      "video_name": "Assault/Assault039_x264.mp4",
+      "normalized_name": "Assault039_x264",
+      //"video_description": "During the day, a man drove to a laundry room, beat a staff member and drove away."
+    },
+    {
+      "video_name": "Assault/Assault045_x264.mp4",
+      "normalized_name": "Assault045_x264",
+      "video_description": "A man at the station pushed another man, causing the man to be hit by a train."
+    },
+    {
+      "video_name": "Assault/Assault046_x264.mp4",
+      "normalized_name": "Assault046_x264",
+     // "video_description": "Multiple men attacked one man and two women on the sidewalk at night."
+    },
+    {
+      "video_name": "Burglary/Burglary008_x264.mp4",
+      "normalized_name": "Burglary008_x264",
+     // "video_description": "Two men stole the cash machine in the restaurant and drove away in a black truck."
+    },
+    {
+      "video_name": "Burglary/Burglary045_x264.mp4",
+      "normalized_name": "Burglary045_x264",
+     // "video_description": "Two men in black tried to steal the ATM after prying the door of the store."
+    },
+    {
+      "video_name": "Explosion/Explosion012_x264.mp4",
+      "normalized_name": "Explosion012_x264",
+     // "video_description": "The store at the crossroads suddenly exploded, injuring the driving car."
+    },
+    {
+      "video_name": "Explosion/Explosion037_x264.mp4",
+      "normalized_name": "Explosion037_x264",
+      //"video_description": "There was an explosion in the grove, and the leaves were shaken off."
+    },
+    {
+      "video_name": "Explosion/Explosion046_x264.mp4",
+      "normalized_name": "Explosion046_x264",
+      //"video_description": "At night, the truck in the parking plant suddenly spontaneously ignited, and firefighters rushed to fight the fire."
+    },
+    {
+      "video_name": "Fighting/Fighting005_x264.mp4",
+      "normalized_name": "Fighting005_x264",
+      //"video_description": "Two men entered the room to rob, and then the owner beat him up."
+    },
+    {
+      "video_name": "Fighting/Fighting035_x264.mp4",
+      "normalized_name": "Fighting035_x264",
+     // "video_description": "A black-clothed man and a red-clothed man in a fight on the bus."
+    },
+    {
+      "video_name": "RoadAccidents/RoadAccidents003_x264.mp4",
+      "normalized_name": "RoadAccidents003_x264",
+      "video_description": "Two children lost control of their bicycles and fell on the side of the road."
+    },
+    {
+      "video_name": "RoadAccidents/RoadAccidents032_x264.mp4",
+      "normalized_name": "RoadAccidents032_x264",
+      "video_description": "A high-speed white car knocked over a black car that was about to turn."
+    },
+    {
+      "video_name": "RoadAccidents/RoadAccidents047_x264.mp4",
+      "normalized_name": "RoadAccidents047_x264",
+      "video_description": "A big gray truck hit a three-wheeled motorcycle that was waiting."
+    },
+    {
+      "video_name": "RoadAccidents/RoadAccidents057_x264.mp4",
+      "normalized_name": "RoadAccidents057_x264",
+      "video_description": "A car overturned due to a collision at night."
+    },
+    {
+      "video_name": "RoadAccidents/RoadAccidents058_x264.mp4",
+      "normalized_name": "RoadAccidents058_x264",
+      "video_description": "A motorcyclist hit the suddenly opened door and fell into the middle of the road, and then were run over by a van."
+    },
+    {
+      "video_name": "RoadAccidents/RoadAccidents061_x264.mp4",
+      "normalized_name": "RoadAccidents061_x264",
+      "video_description": "During the day, a high-speed white car rolled over on the grass on the side of the road when it turned a corner."
+    },
+    {
+      "video_name": "RoadAccidents/RoadAccidents063_x264.mp4",
+      "normalized_name": "RoadAccidents063_x264",
+      "video_description": "A fast car knocked over pedestrians on the road at night."
+    },
+    {
+      "video_name": "RoadAccidents/RoadAccidents068_x264.mp4",
+      "normalized_name": "RoadAccidents068_x264",
+      "video_description": "A white van rolled over a child during the day."
+    },
+    {
+      "video_name": "RoadAccidents/RoadAccidents074_x264.mp4",
+      "normalized_name": "RoadAccidents074_x264",
+      "video_description": "A white motorcycle collided with the side of the white car. The motorcycle behind it collided. A man in a yellow shirt collided with the white car on the side of the motorcycle."
+    },
+    {
+      "video_name": "RoadAccidents/RoadAccidents077_x264.mp4",
+      "normalized_name": "RoadAccidents077_x264",
+      "video_description": "A car left after knocking down a pedestrian at a turn at night."
+    },
+    {
+      "video_name": "RoadAccidents/RoadAccidents088_x264.mp4",
+      "normalized_name": "RoadAccidents088_x264",
+      "video_description": "A black car collided with a white bus at the crossroad in the evening."
+    },
+    {
+      "video_name": "RoadAccidents/RoadAccidents093_x264.mp4",
+      "normalized_name": "RoadAccidents093_x264",
+      "video_description": "A khaki car collided with a blue truck at an intersection."
+    },
+    {
+      "video_name": "RoadAccidents/RoadAccidents096_x264.mp4",
+      "normalized_name": "RoadAccidents096_x264",
+      "video_description": "A black car crashed into a parked gray car during the day."
+    },
+    {
+      "video_name": "RoadAccidents/RoadAccidents102_x264.mp4",
+      "normalized_name": "RoadAccidents102_x264",
+      "video_description": "During the day, a black car sprinted through obstacles."
+    },
+    {
+      "video_name": "RoadAccidents/RoadAccidents110_x264.mp4",
+      "normalized_name": "RoadAccidents110_x264",
+      "video_description": "During the day, a fast-moving truck overturned after knocking down a pedestrian on the roadside."
+    },
+    {
+      "video_name": "RoadAccidents/RoadAccidents114_x264.mp4",
+      "normalized_name": "RoadAccidents114_x264",
+      "video_description": "A white van knocked down a passerby at a turn."
+    },
+    {
+      "video_name": "RoadAccidents/RoadAccidents130_x264.mp4",
+      "normalized_name": "RoadAccidents130_x264",
+      "video_description": "During the day, a red car crashed into a parked vehicle on the opposite side."
+    },
+    {
+      "video_name": "RoadAccidents/RoadAccidents141_x264.mp4",
+      "normalized_name": "RoadAccidents141_x264",
+      "video_description": "A motorcycle collided with a truck and rolled over to the ground."
+    },
+    {
+      "video_name": "RoadAccidents/RoadAccidents144_x264.mp4",
+      "normalized_name": "RoadAccidents144_x264",
+      "video_description": "A white bus collided with a small car at an intersection."
+    },
+    {
+      "video_name": "Robbery/Robbery004_x264.mp4",
+      "normalized_name": "Robbery004_x264",
+      "video_description": "A man wearing a black hat and mask threatened the cashier in the store with a gun and snatched the money."
+    },
+    {
+      "video_name": "Robbery/Robbery018_x264.mp4",
+      "normalized_name": "Robbery018_x264",
+      "video_description": "Two men in white clothes with knives broke into a store, controlled the clerk, and snatched a bag full of items."
+    },
+    {
+      "video_name": "Robbery/Robbery040_x264.mp4",
+      "normalized_name": "Robbery040_x264",
+      "video_description": "A man broke into a store and threatened a female clerk, then took a sum of money."
+    },
+    {
+      "video_name": "Robbery/Robbery072_x264.mp4",
+      "normalized_name": "Robbery072_x264",
+      "video_description": "In the evening, a man violently snatched a person's bag and mobile phone on the side of the road, and got on his accomplice's motorcycle and left."
+    },
+    {
+      "video_name": "Robbery/Robbery096_x264.mp4",
+      "normalized_name": "Robbery096_x264",
+      "video_description": "Three men in white clothes drove a white car and trailed into the garage to commit robbery."
+    },
+    {
+      "video_name": "Robbery/Robbery112_x264.mp4",
+      "normalized_name": "Robbery112_x264",
+      "video_description": "Three men who got off the car robbed a man and a woman behind a white car, and were subsequently driven away by the gunman."
+    },
+    {
+      "video_name": "Robbery/Robbery121_x264.mp4",
+      "normalized_name": "Robbery121_x264",
+      "video_description": "A man in a black shirt and black hat attacked the brown-haired female clerk behind the counter and snatched the contents of the cash register."
+    },
+    {
+      "video_name": "Robbery/Robbery139_x264.mp4",
+      "normalized_name": "Robbery139_x264",
+      "video_description": "A man threatened the clerk with a spear in front of the counter, snatched the clerk's wallet and fled."
+    },
+    {
+      "video_name": "Robbery/Robbery143_x264.mp4",
+      "normalized_name": "Robbery143_x264",
+      "video_description": "A man wearing a black shirt, black hat and black mask broke into the shop with a knife and threatened the clerk, took the money from the clerk and fled."
+    },
+    {
+      "video_name": "Shooting/Shooting017_x264.mp4",
+      "normalized_name": "Shooting017_x264",
+      "video_description": "Three men were suddenly shot while working in the office."
+    },
+    {
+      "video_name": "Shooting/Shooting039_x264.mp4",
+      "normalized_name": "Shooting039_x264",
+      "video_description": "At a gas station, a man threatened a man with a gun and was shot to the ground by a man in blue."
+    },
+    {
+      "video_name": "Shoplifting/Shoplifting026_x264.mp4",
+      "normalized_name": "Shoplifting026_x264",
+      "video_description": "A woman wearing a headscarf hides some fabrics from the fabric shop in her bag."
+    },
+    {
+      "video_name": "Stealing/Stealing066_x264.mp4",
+      "normalized_name": "Stealing066_x264",
+      "video_description": "Two men got off the white van and dragged the motorcycle parked on the side of the road into the car and stole it."
+    },
+    {
+      "video_name": "Stealing/Stealing113_x264.mp4",
+      "normalized_name": "Stealing113_x264",
+      "video_description": "During the day, a thief stuffed a black cow into a car and transported the cow away."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos136_x264.mp4",
+      "normalized_name": "Normal_Videos136_x264",
+      "video_description": "At an entrance, a group of people lined up to enter."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos137_x264.mp4",
+      "normalized_name": "Normal_Videos137_x264",
+      "video_description": "On a sidewalk, people come and go, and many people rest under the trees."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos138_x264.mp4",
+      "normalized_name": "Normal_Videos138_x264",
+      "video_description": "On the bus, people are sitting in their seats."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos153_x264.mp4",
+      "normalized_name": "Normal_Videos153_x264",
+      "video_description": "In a company, a woman is consulting another man."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos154_x264.mp4",
+      "normalized_name": "Normal_Videos154_x264",
+      "video_description": "In the parking lot, a car is parking, and a person passes in front."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos155_x264.mp4",
+      "normalized_name": "Normal_Videos155_x264",
+      "video_description": "On a construction site, the workers perform their duties."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos161_x264.mp4",
+      "normalized_name": "Normal_Videos161_x264",
+      "video_description": "On the side of the street, people kept walking by."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos163_x264.mp4",
+      "normalized_name": "Normal_Videos163_x264",
+      "video_description": "Four children playing at the table."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos164_x264.mp4",
+      "normalized_name": "Normal_Videos164_x264",
+      "video_description": "Many men in the classroom."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos193_x264.mp4",
+      "normalized_name": "Normal_Videos193_x264",
+      "video_description": "Pedestrians pass by at the entrance of the store where the discarded cardboard boxes are piled up."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos211_x264.mp4",
+      "normalized_name": "Normal_Videos211_x264",
+      "video_description": "A woman in red sorts clothes in a clothing store."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos304_x264.mp4",
+      "normalized_name": "Normal_Videos304_x264",
+      "video_description": "The staff of the weeding company is removing the equipment from the car, and the employer is watching."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos307_x264.mp4",
+      "normalized_name": "Normal_Videos307_x264",
+      "video_description": "People brought in various musical instruments and performed many concerts."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos308_x264.mp4",
+      "normalized_name": "Normal_Videos308_x264",
+      "video_description": "People brought in various musical instruments and performed many concerts."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos316_x264.mp4",
+      "normalized_name": "Normal_Videos316_x264",
+      "video_description": "A man took out a magazine from the bookshelf and sat on the sofa to look at it for a while, then put the magazine back and left."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos326_x264.mp4",
+      "normalized_name": "Normal_Videos326_x264",
+      "video_description": "In the office, several employees talk to each other in their spare time."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos328_x264.mp4",
+      "normalized_name": "Normal_Videos328_x264",
+      "video_description": "Two men in red and white shirts walked around the desk and left."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos329_x264.mp4",
+      "normalized_name": "Normal_Videos329_x264",
+      "video_description": "Two men in red and white shirts walked around the desk and left."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos330_x264.mp4",
+      "normalized_name": "Normal_Videos330_x264",
+      "video_description": "A female employee went out to fetch water with a tea cup, and two men in red and white shirts walked around the desk."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos331_x264.mp4",
+      "normalized_name": "Normal_Videos331_x264",
+      "video_description": "On rainy days, many vehicles are parked in the parking lot, outside is a highway with vehicles passing by from time to time."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos353_x264.mp4",
+      "normalized_name": "Normal_Videos353_x264",
+      "video_description": "There is a man in a hat talking with a man in the mall, and others are shopping."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos367_x264.mp4",
+      "normalized_name": "Normal_Videos367_x264",
+      "video_description": "In the restaurant, everyone is buying things, there are also vehicles buying at the window, and many workers in the kitchen backstage are making food."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos390_x264.mp4",
+      "normalized_name": "Normal_Videos390_x264",
+      "video_description": "A T-junction is constantly passing by vehicles."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos408_x264.mp4",
+      "normalized_name": "Normal_Videos408_x264",
+      "video_description": "Fast food restaurant staff making fast food."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos425_x264.mp4",
+      "normalized_name": "Normal_Videos425_x264",
+      "video_description": "Many people attend a huge dinner."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos428_x264.mp4",
+      "normalized_name": "Normal_Videos428_x264",
+      "video_description": "A chef in white clothes is cutting things with a knife, and another chef in white clothes is carrying things."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos429_x264.mp4",
+      "normalized_name": "Normal_Videos429_x264",
+      "video_description": "People get off at the airport gate; cars drive on city roads at night."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos431_x264.mp4",
+      "normalized_name": "Normal_Videos431_x264",
+      "video_description": "A woman with a backpack walks into a clothing store to buy clothes."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos435_x264.mp4",
+      "normalized_name": "Normal_Videos435_x264",
+      "video_description": "A man in a black hat walked into the restaurant and then went out."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos437_x264.mp4",
+      "normalized_name": "Normal_Videos437_x264",
+      "video_description": "A shirtless man is carrying a gas tank."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos445_x264.mp4",
+      "normalized_name": "Normal_Videos445_x264",
+      "video_description": "A man in red and a man in white in the supermarket check out and leave."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos446_x264.mp4",
+      "normalized_name": "Normal_Videos446_x264",
+      "video_description": "Two men in brown clothes walk into the drink shop."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos449_x264.mp4",
+      "normalized_name": "Normal_Videos449_x264",
+      "video_description": "There are a lot of people shopping in the supermarket, yellow and green balloons are floating."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos450_x264.mp4",
+      "normalized_name": "Normal_Videos450_x264",
+      "video_description": "There are a lot of people shopping in the supermarket, yellow and green balloons are floating."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos468_x264.mp4",
+      "normalized_name": "Normal_Videos468_x264",
+      "video_description": "A man in white clothes on the phone walks out the door."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos471_x264.mp4",
+      "normalized_name": "Normal_Videos471_x264",
+      "video_description": "At night  there is constant traffic at traffic light intersections."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos472_x264.mp4",
+      "normalized_name": "Normal_Videos472_x264",
+      "video_description": "There is constant traffic on the road at night."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos507_x264.mp4",
+      "normalized_name": "Normal_Videos507_x264",
+      "video_description": "A red truck drove out. A man got into a blue car and parked beside it. A truck is reversing."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos523_x264.mp4",
+      "normalized_name": "Normal_Videos523_x264",
+      "video_description": "Two men lined up to check out in a shop."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos528_x264.mp4",
+      "normalized_name": "Normal_Videos528_x264",
+      "video_description": "At an intersection in the evening, cars passed the zebra crossing one after another."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos529_x264.mp4",
+      "normalized_name": "Normal_Videos529_x264",
+      "video_description": "In a supermarket with a few balloons, people kept coming in and out from the door."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos530_x264.mp4",
+      "normalized_name": "Normal_Videos530_x264",
+      "video_description": "Customers are constantly coming in and out of the supermarket, and two cashiers check in at the counter."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos543_x264.mp4",
+      "normalized_name": "Normal_Videos543_x264",
+      "video_description": "There was a constant flow of people in the mall, and several security guards were patrolling."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos547_x264.mp4",
+      "normalized_name": "Normal_Videos547_x264",
+      "video_description": "There are occasional purchases in the mall, and the red clothes staff are working."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos595_x264.mp4",
+      "normalized_name": "Normal_Videos595_x264",
+      "video_description": "A woman in a restaurant with no guests resting at the counter."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos596_x264.mp4",
+      "normalized_name": "Normal_Videos596_x264",
+      "video_description": "Several large people are working in the kitchen."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos607_x264.mp4",
+      "normalized_name": "Normal_Videos607_x264",
+      "video_description": "On a rainy day, a group of people with umbrellas and some without umbrellas passed by the shelves full of clothes, and there was constant traffic on the road."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos633_x264.mp4",
+      "normalized_name": "Normal_Videos633_x264",
+      "video_description": "Several cars parked side by side on the side of the road, and there was constant traffic on the road."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos642_x264.mp4",
+      "normalized_name": "Normal_Videos642_x264",
+      "video_description": "There was constant traffic on the road down the mountain."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos666_x264.mp4",
+      "normalized_name": "Normal_Videos666_x264",
+      "video_description": "People come and go in the supermarket, employees in yellow and green clothes are working, and women with turbans are shopping."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos688_x264.mp4",
+      "normalized_name": "Normal_Videos688_x264",
+      "video_description": "Men in light-colored shirts chat with their companions at the checkout counter and help customers check out."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos690_x264.mp4",
+      "normalized_name": "Normal_Videos690_x264",
+      "video_description": "At the supermarket checkout counter, customers check out from time to time."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos716_x264.mp4",
+      "normalized_name": "Normal_Videos716_x264",
+      "video_description": "A few people bought things in front of the store and then rode away on their motorcycles."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos755_x264.mp4",
+      "normalized_name": "Normal_Videos755_x264",
+      "video_description": "In the cake shop, the staff packs and settles the bill for the customer."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos785_x264.mp4",
+      "normalized_name": "Normal_Videos785_x264",
+      "video_description": "During the day, traffic jams at the crossroads, making it difficult for cars to move forward."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos805_x264.mp4",
+      "normalized_name": "Normal_Videos805_x264",
+      "video_description": "In the bustling commercial street, many yellow taxis pass by, and there are many pedestrians on the side of the road."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos808_x264.mp4",
+      "normalized_name": "Normal_Videos808_x264",
+      "video_description": "In the mall, customers are walking around to select goods. The fish in the aquarium are swimming in the water."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos812_x264.mp4",
+      "normalized_name": "Normal_Videos812_x264",
+      "video_description": "In the hall, tourists are playing and taking pictures."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos823_x264.mp4",
+      "normalized_name": "Normal_Videos823_x264",
+      "video_description": "In the hotel, the cleaning staff is pushing the cleaning truck to prepare for cleaning."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos832_x264.mp4",
+      "normalized_name": "Normal_Videos832_x264",
+      "video_description": "Some staff are decorating the house."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos837_x264.mp4",
+      "normalized_name": "Normal_Videos837_x264",
+      "video_description": "There are many white cars in the parking lot, and a man and a woman are chatting next to them."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos847_x264.mp4",
+      "normalized_name": "Normal_Videos847_x264",
+      "video_description": "A man in a black suit came to the front desk, then shook hands with a staff member and went upstairs."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos946_x264.mp4",
+      "normalized_name": "Normal_Videos946_x264",
+      "video_description": "Many people visited and exchanged in the Hikvision exhibition area."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos947_x264.mp4",
+      "normalized_name": "Normal_Videos947_x264",
+      "video_description": "In an exhibition area of the exhibition, people come to visit, and people sit and communicate with each other from time to time."
+    },
+    {
+      "video_name": "Training_Normal_Videos_Anomaly/Normal_Videos950_x264.mp4",
+      "normalized_name": "Normal_Videos950_x264",
+      "video_description": "At night, there are a few people working at the workstations."
+    },
+    {
+      "video_name": "Vandalism/Vandalism037_x264.mp4",
+      "normalized_name": "Vandalism037_x264",
+      "video_description": "Many people flooded into the store and threw the goods on the shelves to the ground."
+    }
+  ],
+  "extra_in_hivau": []
+}

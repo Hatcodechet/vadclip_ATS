@@ -1,0 +1,3911 @@
+{
+    "Abuse028_x264": {
+        "n_frames": 1412,
+        "fps": 30.0,
+        "label": [
+            "Abuse"
+        ],
+        "events": [
+            [
+                5.5,
+                8.0
+            ]
+        ],
+        "video_summary": "a man in a blue shirt and black pants approaching the gate, and then suddenly running towards the gate, suggesting a potential burglary or theft attempt"
+    },
+    "Abuse030_x264": {
+        "n_frames": 1544,
+        "fps": 30.0,
+        "label": [
+            "Abuse"
+        ],
+        "events": [],
+        "video_summary": "a man in blue clothes walking towards the camera, and then a man in black clothes walking towards the camera, suggesting a potential robbery or theft"
+    },
+    "Arrest001_x264": {
+        "n_frames": 2374,
+        "fps": 30.0,
+        "label": [
+            "Arrest"
+        ],
+        "events": [
+            [
+                39.5,
+                49.5
+            ]
+        ],
+        "video_summary": "a man in black and white clothes running towards the door, and then a man in blue clothes running towards the door, suggesting a potential threat or disturbance"
+    },
+    "Arrest007_x264": {
+        "n_frames": 3144,
+        "fps": 30.0,
+        "label": [
+            "Arrest"
+        ],
+        "events": [
+            [
+                51.0,
+                72.0
+            ]
+        ],
+        "video_summary": "a man in a white shirt and black pants entering the room, approaching the man in black pants, and then grabbing him by the neck, suggesting a potential physical altercation or restraint"
+    },
+    "Arrest024_x264": {
+        "n_frames": 3629,
+        "fps": 30.0,
+        "label": [
+            "Arrest"
+        ],
+        "events": [
+            [
+                33.5,
+                103.5
+            ]
+        ],
+        "video_summary": "a white car colliding with another vehicle, resulting in a significant impact and subsequent explosion, which is a sudden and unexpected occurrence that disrupts the normal flow of traffic and pedestrian activity"
+    },
+    "Arrest030_x264": {
+        "n_frames": 8642,
+        "fps": 30.0,
+        "label": [
+            "Arrest"
+        ],
+        "events": [
+            [
+                184.5,
+                240.0
+            ]
+        ],
+        "video_summary": "a man in white clothes and a man in black clothes entering the room, and then a man in black clothes and a man in white clothes entering the room, with the man in black clothes and the man in white clothes engaging in a physical altercation, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and the man in black clothes and the man in white clothes fighting, and"
+    },
+    "Arrest039_x264": {
+        "n_frames": 15835,
+        "fps": 30.0,
+        "label": [
+            "Arrest"
+        ],
+        "events": [
+            [
+                240.5,
+                344.5
+            ]
+        ],
+        "video_summary": "a man in black walking into the room, and then a man in black and red clothes running out of the room, followed by a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in black and red clothes running out of the room, and then a man in"
+    },
+    "Arson007_x264": {
+        "n_frames": 6252,
+        "fps": 30.0,
+        "label": [
+            "Arson"
+        ],
+        "events": [
+            [
+                75.0,
+                190.0
+            ]
+        ],
+        "video_summary": "a man in a white shirt and black pants entering the house and walking to the front door, suggesting a potential burglary or theft"
+    },
+    "Arson009_x264": {
+        "n_frames": 743,
+        "fps": 30.0,
+        "label": [
+            "Arson"
+        ],
+        "events": [
+            [
+                7.333,
+                10.5
+            ]
+        ],
+        "video_summary": "a man in white clothes and a helmet approaching the white van, and then a man in white clothes and a helmet is seen running away from the van, suggesting a potential theft or robbery"
+    },
+    "Arson010_x264": {
+        "n_frames": 3159,
+        "fps": 30.0,
+        "label": [
+            "Arson"
+        ],
+        "events": [
+            [
+                29.5,
+                41.0
+            ]
+        ],
+        "video_summary": "a man in black clothes and a helmet approaching the white van, and then a man in black clothes and a helmet approaches the white van, followed by a man in black clothes and a helmet approaching the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and then a man in black clothes and a helmet approaches the white van, and"
+    },
+    "Arson011_x264": {
+        "n_frames": 1266,
+        "fps": 30.0,
+        "label": [
+            "Arson"
+        ],
+        "events": [
+            [
+                5.0,
+                14.0
+            ]
+        ],
+        "video_summary": "a man in a dark jacket and a woman in a blue jacket engaging in a physical altercation, with the man holding a gun and the woman attempting to defend herself, resulting in a tense and potentially violent confrontation"
+    },
+    "Arson016_x264": {
+        "n_frames": 1795,
+        "fps": 30.0,
+        "label": [
+            "Arson"
+        ],
+        "events": [
+            [
+                33.333,
+                59.867
+            ],
+            [
+                33.333,
+                59.8
+            ]
+        ],
+        "video_summary": "a sudden and unexpected occurrence of a fire burning in the middle of the bus, which is an unusual and potentially hazardous event that disrupts the normal flow of the video"
+    },
+    "Arson018_x264": {
+        "n_frames": 842,
+        "fps": 30.0,
+        "label": [
+            "Arson"
+        ],
+        "events": [
+            [
+                9.0,
+                20.0
+            ]
+        ],
+        "video_summary": "a man in a white shirt and black pants walking towards the camera, and then a car suddenly appears and crashes into the road, causing a large amount of smoke to rise from the ground"
+    },
+    "Arson022_x264": {
+        "n_frames": 8640,
+        "fps": 30.0,
+        "label": [
+            "Arson"
+        ],
+        "events": [
+            [
+                116.667,
+                133.333
+            ]
+        ],
+        "video_summary": "a man in black entering the room, opening the door, and then leaving the room, which is a suspicious and unusual behavior that may indicate a potential burglary or theft"
+    },
+    "Arson035_x264": {
+        "n_frames": 1437,
+        "fps": 30.0,
+        "label": [
+            "Arson"
+        ],
+        "events": [
+            [
+                20.0,
+                30.0
+            ]
+        ],
+        "video_summary": "a man in a dark jacket and hat running across the road, followed by a white van driving towards the man, and then a black car driving towards the man, suggesting a potential car accident or collision"
+    },
+    "Arson041_x264": {
+        "n_frames": 3754,
+        "fps": 30.0,
+        "label": [
+            "Arson"
+        ],
+        "events": [
+            [
+                71.0,
+                120.5
+            ]
+        ],
+        "video_summary": "the man in white clothes and black pants taking out a white bag from the door and putting it on the floor, which is a suspicious and potentially illegal activity"
+    },
+    "Assault006_x264": {
+        "n_frames": 8096,
+        "fps": 30.0,
+        "label": [
+            "Assault"
+        ],
+        "events": [
+            [
+                39.5,
+                269.867
+            ],
+            [
+                39.5,
+                269.833
+            ]
+        ],
+        "video_summary": "a group of people engaging in a physical altercation, with individuals pushing, shoving, and grappling with each other, and some individuals attempting to intervene or separate the group"
+    },
+    "Assault010_x264": {
+        "n_frames": 16177,
+        "fps": 30.0,
+        "label": [
+            "Assault"
+        ],
+        "events": [
+            [
+                377.667,
+                389.333
+            ],
+            [
+                408.667,
+                431.0
+            ]
+        ],
+        "video_summary": "a man in striped clothes engaging in a physical altercation with another individual, which is a violent and harmful behavior that violates the norms of peaceful human interaction and respect for others' safety and well-being."
+    },
+    "Assault011_x264": {
+        "n_frames": 2288,
+        "fps": 30.0,
+        "label": [
+            "Assault"
+        ],
+        "events": [],
+        "video_summary": "a man in a pink shirt and black pants approaching a motorcycle, and then taking it from the man in a blue shirt, who is holding a black object, possibly a gun, and appears to be in a defensive stance"
+    },
+    "Burglary005_x264": {
+        "n_frames": 7729,
+        "fps": 30.0,
+        "label": [
+            "Burglary"
+        ],
+        "events": [
+            [
+                157.0,
+                168.0
+            ]
+        ],
+        "video_summary": "the man in white entering the house and then leaving, suggesting a possible burglary or theft"
+    },
+    "Burglary017_x264": {
+        "n_frames": 2113,
+        "fps": 30.0,
+        "label": [
+            "Burglary"
+        ],
+        "events": [
+            [
+                5.0,
+                20.0
+            ]
+        ],
+        "video_summary": "a man in a white shirt and black pants entering the room, opening a drawer, and then leaving the room, suggesting a potential theft or unauthorized access"
+    },
+    "Burglary018_x264": {
+        "n_frames": 1125,
+        "fps": 30.0,
+        "label": [
+            "Burglary"
+        ],
+        "events": [
+            [
+                24.0,
+                35.0
+            ]
+        ],
+        "video_summary": "the man in white clothes and black pants breaking into the house and taking out a gun, which is a suspicious and potentially violent act"
+    },
+    "Burglary021_x264": {
+        "n_frames": 1537,
+        "fps": 30.0,
+        "label": [
+            "Burglary"
+        ],
+        "events": [
+            [
+                2.0,
+                6.667
+            ],
+            [
+                28.0,
+                44.667
+            ]
+        ],
+        "video_summary": "a man in white clothes and a helmet opening the door of the truck, and then the man in white clothes and a helmet is seen opening the door of the truck again, suggesting a potential theft or unauthorized access to the truck"
+    },
+    "Burglary024_x264": {
+        "n_frames": 3605,
+        "fps": 30.0,
+        "label": [
+            "Burglary"
+        ],
+        "events": [
+            [
+                2.0,
+                41.0
+            ]
+        ],
+        "video_summary": "The video depicts a mundane scene where a man in white clothes is seen sitting on the floor, looking at a computer, and then standing up to take out a bottle from the table, with no unusual or out-of-the-ordinary events occurring."
+    },
+    "Burglary032_x264": {
+        "n_frames": 15795,
+        "fps": 30.0,
+        "label": [
+            "Burglary"
+        ],
+        "events": [
+            [
+                43.0,
+                123.0
+            ]
+        ],
+        "video_summary": "a man in white clothes running across the room, which is unusual and suspicious behavior in a typical office setting"
+    },
+    "Burglary033_x264": {
+        "n_frames": 1259,
+        "fps": 30.0,
+        "label": [
+            "Burglary"
+        ],
+        "events": [
+            [
+                2.0,
+                11.0
+            ]
+        ],
+        "video_summary": "The video depicts a person opening a door in a dimly lit outdoor setting, with the door being ajar and the person's actions being deliberate and intentional, suggesting a normal and expected behavior. The video then transitions to a normal sequence of events where the person opens the door, and the door is closed, with no unusual or anomalous events occurring."
+    },
+    "Burglary035_x264": {
+        "n_frames": 4050,
+        "fps": 30.0,
+        "label": [
+            "Burglary"
+        ],
+        "events": [
+            [
+                0.033,
+                58.0
+            ]
+        ],
+        "video_summary": "a man in a white shirt and black pants entering the house through the door, and then leaving the house through the door, suggesting a potential burglary or unauthorized entry"
+    },
+    "Burglary037_x264": {
+        "n_frames": 1920,
+        "fps": 30.0,
+        "label": [
+            "Burglary"
+        ],
+        "events": [
+            [
+                8.0,
+                13.0
+            ],
+            [
+                18.0,
+                60.0
+            ]
+        ],
+        "video_summary": "the man in white putting a box on the table, which may be a suspicious or illegal act, and later, the man in white and the man in black are seen taking out a box from the table, which may be a suspicious or illegal act"
+    },
+    "Burglary061_x264": {
+        "n_frames": 8990,
+        "fps": 30.0,
+        "label": [
+            "Burglary"
+        ],
+        "events": [
+            [
+                140.0,
+                190.0
+            ]
+        ],
+        "video_summary": "The video depicts a mundane scene where a man in a blue shirt enters the room, walks to the counter, and then leaves the room, with no unusual or out-of-the-ordinary events occurring throughout the entire sequence."
+    },
+    "Burglary076_x264": {
+        "n_frames": 12923,
+        "fps": 30.0,
+        "label": [
+            "Burglary"
+        ],
+        "events": [
+            [
+                53.0,
+                143.333
+            ]
+        ],
+        "video_summary": "a man in black walking towards the house, and then a man in black and white clothes walking towards the house, suggesting a potential burglary or theft"
+    },
+    "Burglary079_x264": {
+        "n_frames": 14853,
+        "fps": 30.0,
+        "label": [
+            "Burglary"
+        ],
+        "events": [
+            [
+                258.333,
+                357.0
+            ]
+        ],
+        "video_summary": "a group of individuals breaking into a car, which is a suspicious and illegal activity that violates the privacy and security of the car's owner"
+    },
+    "Burglary092_x264": {
+        "n_frames": 625,
+        "fps": 30.0,
+        "label": [
+            "Burglary"
+        ],
+        "events": [
+            [
+                8.0,
+                14.0
+            ]
+        ],
+        "video_summary": "a man in blue clothes walking towards the camera, and then a man in blue clothes and a red hat walks towards the camera, suggesting a potential theft or suspicious behavior"
+    },
+    "Explosion002_x264": {
+        "n_frames": 4013,
+        "fps": 30.0,
+        "label": [
+            "Explosion"
+        ],
+        "events": [
+            [
+                50.0,
+                70.0
+            ]
+        ],
+        "video_summary": "a man in blue entering the gas station, using the phone, and then leaving the gas station, which is a suspicious and potentially illegal activity"
+    },
+    "Explosion004_x264": {
+        "n_frames": 1902,
+        "fps": 30.0,
+        "label": [
+            "Explosion"
+        ],
+        "events": [
+            [
+                2.5,
+                7.5
+            ]
+        ],
+        "video_summary": "the two individuals in the video engaging in a physical altercation, with one person holding a gun and the other using a hose to spray water, suggesting a potential shooting incident"
+    },
+    "Explosion007_x264": {
+        "n_frames": 16289,
+        "fps": 30.0,
+        "label": [
+            "Explosion"
+        ],
+        "events": [
+            [
+                53.0,
+                76.0
+            ]
+        ],
+        "video_summary": "a man in a striped shirt and jeans running across the screen, and later, a man in a striped shirt and jeans running across the screen, suggesting a potential theft or suspicious activity"
+    },
+    "Explosion008_x264": {
+        "n_frames": 1748,
+        "fps": 30.0,
+        "label": [
+            "Explosion"
+        ],
+        "events": [
+            [
+                33.5,
+                41.5
+            ]
+        ],
+        "video_summary": "a sudden and intense release of energy, characterized by a large plume of dark smoke rising into the sky, which is a common indicator of a fire or explosion"
+    },
+    "Explosion010_x264": {
+        "n_frames": 2498,
+        "fps": 30.0,
+        "label": [
+            "Explosion"
+        ],
+        "events": [
+            [
+                9.5,
+                36.0
+            ]
+        ],
+        "video_summary": "a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire or explosion, which is followed by a sudden and intense release of energy, likely a fire"
+    },
+    "Explosion011_x264": {
+        "n_frames": 1571,
+        "fps": 30.0,
+        "label": [
+            "Explosion"
+        ],
+        "events": [
+            [
+                26.5,
+                31.5
+            ]
+        ],
+        "video_summary": "a sudden and unexpected occurrence of a fire, which is a sudden and intense release of energy, often accompanied by loud noise and smoke, and can be a source of panic and confusion among people"
+    },
+    "Explosion013_x264": {
+        "n_frames": 3317,
+        "fps": 30.0,
+        "label": [
+            "Explosion"
+        ],
+        "events": [
+            [
+                84.0,
+                99.0
+            ]
+        ],
+        "video_summary": "a person in white clothes and a red cap walking towards the camera, and then a person in white clothes and a red cap walking towards the camera, with a fire burning in the background, suggesting a potential explosion or fire"
+    },
+    "Explosion016_x264": {
+        "n_frames": 963,
+        "fps": 30.0,
+        "label": [
+            "Explosion"
+        ],
+        "events": [
+            [
+                6.0,
+                15.0
+            ]
+        ],
+        "video_summary": "A sudden and unexpected release of energy, characterized by a sudden and intense release of energy, which is a sudden and intense release of energy, often accompanied by a loud noise or a bright flash of light, and may be accompanied by a loud noise or a bright flash of light"
+    },
+    "Explosion017_x264": {
+        "n_frames": 1643,
+        "fps": 30.0,
+        "label": [
+            "Explosion"
+        ],
+        "events": [
+            [
+                33.0,
+                48.0
+            ]
+        ],
+        "video_summary": "a man in white clothes and a woman in red clothes engaging in a physical altercation with a man in black clothes, resulting in the man in black clothes being knocked to the ground"
+    },
+    "Explosion020_x264": {
+        "n_frames": 1291,
+        "fps": 30.0,
+        "label": [
+            "Explosion"
+        ],
+        "events": [
+            [
+                2.0,
+                9.0
+            ]
+        ],
+        "video_summary": "a man in a white shirt and black pants engaging in a physical altercation with another man in a black shirt and white pants, resulting in the man in the white shirt being knocked to the ground, and the man in the black shirt and white pants running away from the scene"
+    },
+    "Explosion021_x264": {
+        "n_frames": 782,
+        "fps": 30.0,
+        "label": [
+            "Explosion"
+        ],
+        "events": [
+            [
+                4.5,
+                9.0
+            ]
+        ],
+        "video_summary": "a series of chaotic and destructive scenes, including a fire, debris, and smoke, with people running away from the scene, suggesting a violent and destructive event"
+    },
+    "Explosion022_x264": {
+        "n_frames": 3594,
+        "fps": 30.0,
+        "label": [
+            "Explosion"
+        ],
+        "events": [
+            [
+                74.333,
+                80.667
+            ]
+        ],
+        "video_summary": "a man in a white shirt and black pants walking towards the camera, and then a man in a white shirt and black pants walking towards the camera, with a fire burning in the background, suggesting a potential explosion or fire"
+    },
+    "Explosion025_x264": {
+        "n_frames": 505,
+        "fps": 30.0,
+        "label": [
+            "Explosion"
+        ],
+        "events": [
+            [
+                8.667,
+                14.0
+            ]
+        ],
+        "video_summary": "The video depicts a mundane scene where a man in a black hat and a woman in a black dress are seen walking down a street, with no unusual or out-of-the-ordinary events occurring. The scene then transitions to a black screen, indicating the end of the video."
+    },
+    "Explosion027_x264": {
+        "n_frames": 776,
+        "fps": 30.0,
+        "label": [
+            "Explosion"
+        ],
+        "events": [],
+        "video_summary": "the man in black throwing a white object, possibly a piece of paper or a box, at the man in black, which is a violent and potentially harmful act"
+    },
+    "Explosion028_x264": {
+        "n_frames": 1705,
+        "fps": 30.0,
+        "label": [
+            "Explosion"
+        ],
+        "events": [
+            [
+                9.333,
+                23.333
+            ]
+        ],
+        "video_summary": "a man in white clothes and a helmet running towards the camera, and then a man in white clothes and a helmet running towards the camera, suggesting a potential shooting incident"
+    },
+    "Explosion029_x264": {
+        "n_frames": 2410,
+        "fps": 30.0,
+        "label": [
+            "Explosion"
+        ],
+        "events": [],
+        "video_summary": "a woman in white clothes and blue jeans attempting to light a fire on the ground, which is a potentially dangerous and illegal activity"
+    },
+    "Explosion033_x264": {
+        "n_frames": 3154,
+        "fps": 30.0,
+        "label": [
+            "Explosion"
+        ],
+        "events": [
+            [
+                32.333,
+                45.0
+            ],
+            [
+                51.667,
+                105.2
+            ],
+            [
+                51.667,
+                105.1
+            ]
+        ],
+        "video_summary": "a sudden and intense release of energy, characterized by a large plume of smoke and fire, which is a sudden and unexpected occurrence in the video, deviating from the normal and calm atmosphere of the surrounding industrial area"
+    },
+    "Explosion035_x264": {
+        "n_frames": 2865,
+        "fps": 30.0,
+        "label": [
+            "Explosion"
+        ],
+        "events": [
+            [
+                8.333,
+                11.667
+            ]
+        ],
+        "video_summary": "a man in a white shirt and black pants entering the room, and then a man in a black shirt and black pants entering the room, suggesting a potential threat or disturbance"
+    },
+    "Explosion036_x264": {
+        "n_frames": 5327,
+        "fps": 30.0,
+        "label": [
+            "Explosion"
+        ],
+        "events": [],
+        "video_summary": "a group of people engaging in a physical altercation, with one person being pushed and shoved by others, and the scene becoming increasingly chaotic and violent"
+    },
+    "Explosion039_x264": {
+        "n_frames": 998,
+        "fps": 30.0,
+        "label": [
+            "Explosion"
+        ],
+        "events": [],
+        "video_summary": "a man in a blue shirt and pink cap entering the kitchen area, interacting with the cashier, and then leaving the kitchen area, suggesting a possible theft or robbery"
+    },
+    "Explosion043_x264": {
+        "n_frames": 7646,
+        "fps": 30.0,
+        "label": [
+            "Explosion"
+        ],
+        "events": [],
+        "video_summary": "a man in white clothes and a woman in orange clothes running towards the man in orange clothes, and then the man in white clothes and the woman in orange clothes are seen running away from the man in orange clothes, suggesting a potential fight or confrontation"
+    },
+    "Fighting003_x264": {
+        "n_frames": 3102,
+        "fps": 30.0,
+        "label": [
+            "Fighting"
+        ],
+        "events": [
+            [
+                60.667,
+                103.433
+            ],
+            [
+                60.667,
+                103.367
+            ]
+        ],
+        "video_summary": "a man in a black jacket and red hat running towards the camera, and then a man in a black jacket and red hat running towards the camera, suggesting a potential threat or disturbance"
+    },
+    "Fighting018_x264": {
+        "n_frames": 1389,
+        "fps": 30.0,
+        "label": [
+            "Fighting"
+        ],
+        "events": [
+            [
+                2.667,
+                14.0
+            ]
+        ],
+        "video_summary": "a man in a white shirt and black pants engaging in a physical altercation with another man in a black shirt and white pants, resulting in the man in the white shirt being knocked to the ground, and the man in the black shirt being pushed to the ground, with the man in the white shirt eventually falling to the ground, and the man in the black shirt being pushed to the ground, with the man in the white shirt being knocked to the ground, and the man in the black shirt being pushed to the ground, with the man in the white shirt being knocked to the ground, and the man in the black shirt being pushed to the ground, with the man in the white shirt being knocked to the ground, and the man in the black shirt being pushed to the ground, with the man in the white shirt being knocked to the ground, and the man in the black shirt being pushed to the ground, with the man in the white shirt being knocked to the ground, and the man in the black shirt being pushed to the ground, with the man in the white shirt being knocked to the ground, and the man in the black shirt being pushed to the ground, with the man in the white shirt being knocked to the ground, and the man in the black shirt being pushed to the ground, with the man in the white shirt being knocked to the ground, and the man in the black shirt being pushed to the ground, with the man in the white shirt being knocked to the ground, and the man in the black shirt being pushed to the ground, with the man in the white shirt being knocked to the ground, and the man in the black shirt being pushed to the ground, with the man in the white shirt being knocked to the ground, and the man in the black shirt being pushed to the ground, with the man in the white shirt being knocked to the ground, and the man in the black shirt being pushed to the ground, with the man in the white shirt being knocked to the ground, and the man in the black shirt being pushed to the ground, with the man in the white shirt being knocked to the ground, and the man in the black shirt being pushed to the ground, with the man in the white shirt being knocked to the ground, and the man in the black shirt being pushed to the ground, with the man in the white shirt being knocked to the ground, and the man in the black shirt being pushed to the ground, with the man in the white shirt being knocked to the ground, and the man in the black shirt being pushed to the ground, with the man in the white shirt being knocked to the ground, and the man in the black shirt being pushed to the ground, with the man in the white shirt being knocked to the ground, and the man in the black shirt being pushed to the ground, with the man in the white shirt being knocked to the ground, and the man in the black shirt being pushed to the ground, with the man in the white shirt being knocked to the ground, and the man in the black shirt being pushed to the ground, with the man in the white shirt being knocked to the ground, and the man in the black shirt being pushed to the ground, with the man in the white shirt being knocked to the ground, and the man in the black shirt being pushed to the ground, with the man in the white shirt being knocked to the ground, and the man in the black shirt being pushed to the ground, with the man in the white shirt being knocked to the ground, and the man in the black shirt being pushed to the ground, with the man in the white shirt being knocked to the ground, and the man in the black shirt being pushed to the ground, with the man in the white shirt being knocked to the ground, and the man in the black shirt being pushed to the ground, with the man in the white shirt being knocked to the ground, and the man in the black shirt being pushed to the ground, with the man in the white shirt being knocked to the ground, and the man in the black shirt being pushed to the ground, with the man in the white shirt being knocked to the ground, and the man in the black shirt being pushed to the ground, with the man in the white shirt being knocked to the ground, and the man in the black shirt being pushed to the ground, with the man in the white shirt being knocked to the ground, and the man in the black shirt being pushed to the ground, with the man in the white shirt being knocked to the ground, and the man in the black shirt being pushed to the ground, with the man in the white shirt being knocked to the ground, and the man in the black shirt being pushed to the ground, with the man in the white shirt being knocked to the ground, and the man in the black shirt being pushed to the ground, with the man in the white shirt being knocked to the ground, and the man in the black shirt being pushed to the ground, with the man"
+    },
+    "Fighting033_x264": {
+        "n_frames": 1105,
+        "fps": 30.0,
+        "label": [
+            "Fighting"
+        ],
+        "events": [
+            [
+                19.0,
+                28.0
+            ]
+        ],
+        "video_summary": "a group of individuals engaging in a physical altercation, with one person being pushed and knocked to the ground, and another person being restrained by another individual, indicating a violent and aggressive behavior"
+    },
+    "Fighting042_x264": {
+        "n_frames": 2237,
+        "fps": 30.0,
+        "label": [
+            "Fighting"
+        ],
+        "events": [
+            [
+                9.667,
+                40.0
+            ]
+        ],
+        "video_summary": "a man in black clothes and a man in black clothes engaging in a physical altercation, with the man in black clothes holding a gun and the man in black clothes attempting to defend himself, ultimately resulting in the man in black clothes being restrained by the man in black clothes"
+    },
+    "Fighting047_x264": {
+        "n_frames": 4459,
+        "fps": 30.0,
+        "label": [
+            "Fighting"
+        ],
+        "events": [
+            [
+                6.667,
+                61.0
+            ]
+        ],
+        "video_summary": "a man in a white shirt and black pants engaging in a physical altercation with another man in a gray shirt and black pants, followed by a group of people, including men and women, gathering around the man in the white shirt and black pants, and then a man in a gray shirt and black pants standing in front of the group, suggesting a potential violent or aggressive behavior"
+    },
+    "Normal_Videos_003_x264": {
+        "n_frames": 2822,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                13.3,
+                43.967
+            ],
+            [
+                47.4,
+                78.1
+            ]
+        ],
+        "video_summary": "The dog walked to the right side of the screen and walked to the left side of the screen"
+    },
+    "Normal_Videos_006_x264": {
+        "n_frames": 450,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                3.067,
+                7.4
+            ],
+            [
+                9.4,
+                14.433
+            ]
+        ],
+        "video_summary": "A white car drove from the bottom of the screen to the top of the screen"
+    },
+    "Normal_Videos_010_x264": {
+        "n_frames": 1053,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                2.667,
+                15.0
+            ],
+            [
+                18.267,
+                29.933
+            ]
+        ],
+        "video_summary": "The man in the white shirt walked to the door and opened it."
+    },
+    "Normal_Videos_014_x264": {
+        "n_frames": 1499,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                2.667,
+                21.2
+            ]
+        ],
+        "video_summary": "The man in green clothes took out a white paper and put it on the counter."
+    },
+    "Normal_Videos_015_x264": {
+        "n_frames": 480,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                2.9,
+                7.067
+            ],
+            [
+                11.567,
+                15.367
+            ]
+        ],
+        "video_summary": "The woman in black clothes walked to the right of the screen and walked to the right of the screen"
+    },
+    "Normal_Videos_018_x264": {
+        "n_frames": 1181,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                25.367,
+                33.7
+            ]
+        ],
+        "video_summary": "A bustling airport terminal with a wide, polished floor, surrounded by tall pillars and various electronic displays. people are seen walking around, some carrying luggage, while others are seated on benches. the terminal is well-lit, with bright lights and digital screens providing information."
+    },
+    "Normal_Videos_019_x264": {
+        "n_frames": 2843,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                5.967,
+                38.4
+            ],
+            [
+                57.0,
+                89.667
+            ]
+        ],
+        "video_summary": "The man in the black jacket walked to the counter and looked at the computer."
+    },
+    "Normal_Videos_024_x264": {
+        "n_frames": 1076,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                3.8,
+                17.367
+            ]
+        ],
+        "video_summary": "The man in white clothes walked to the right of the screen and walked to the left of the screen"
+    },
+    "Normal_Videos_025_x264": {
+        "n_frames": 602,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                2.4,
+                9.4
+            ],
+            [
+                11.967,
+                19.633
+            ]
+        ],
+        "video_summary": "The man in white clothes walked to the right side of the screen and walked to the right side of the screen"
+    },
+    "Normal_Videos_027_x264": {
+        "n_frames": 4922,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                21.933,
+                49.867
+            ]
+        ],
+        "video_summary": "The man in the white shirt walked to the left side of the room and walked to the right side of the room"
+    },
+    "Normal_Videos_033_x264": {
+        "n_frames": 1680,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                7.7,
+                23.933
+            ],
+            [
+                40.233,
+                53.567
+            ]
+        ],
+        "video_summary": "A series of images depicting a parking lot with various cars parked in different locations. the timestamp on the video indicates that it is 18:34."
+    },
+    "Normal_Videos_034_x264": {
+        "n_frames": 1318,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                3.933,
+                17.967
+            ]
+        ],
+        "video_summary": "A busy street scene with various vehicles, including cars and motorcycles, moving in different directions. the street is lined with buildings, and there are signs indicating parking and other commercial establishments."
+    },
+    "Normal_Videos_041_x264": {
+        "n_frames": 1269,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                4.667,
+                20.367
+            ],
+            [
+                21.367,
+                35.3
+            ]
+        ],
+        "video_summary": "The man in black clothes and the man in white clothes are sitting at the counter, and the man in black clothes is holding a bag of money."
+    },
+    "Normal_Videos_042_x264": {
+        "n_frames": 3154,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                13.1,
+                41.967
+            ],
+            [
+                78.5,
+                104.5
+            ]
+        ],
+        "video_summary": "The man in the red shirt walked to the counter and looked at the counter."
+    },
+    "Normal_Videos_048_x264": {
+        "n_frames": 1650,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                28.433,
+                42.933
+            ]
+        ],
+        "video_summary": "The man in white clothes walked to the woman in white clothes and talked to her"
+    },
+    "Normal_Videos_050_x264": {
+        "n_frames": 4198,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                2.067,
+                46.767
+            ]
+        ],
+        "video_summary": "A busy highway with multiple lanes of traffic, including cars and buses. the traffic is moving in both directions, with vehicles following the flow of the road."
+    },
+    "Normal_Videos_051_x264": {
+        "n_frames": 2358,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                44.733,
+                59.5
+            ]
+        ],
+        "video_summary": "A white suv driving on the road, followed by a black car."
+    },
+    "Normal_Videos_056_x264": {
+        "n_frames": 1572,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                4.6,
+                23.467
+            ],
+            [
+                31.967,
+                50.7
+            ]
+        ],
+        "video_summary": "A man in blue walked to the counter and talked to the woman in red."
+    },
+    "Normal_Videos_059_x264": {
+        "n_frames": 1835,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                8.9,
+                18.833
+            ],
+            [
+                37.733,
+                58.033
+            ]
+        ],
+        "video_summary": "A man in a blue shirt and dark pants entered the room and walked to the counter. He then sat on the chair and looked around."
+    },
+    "Normal_Videos_063_x264": {
+        "n_frames": 355,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                0.167,
+                4.2
+            ],
+            [
+                6.667,
+                9.967
+            ]
+        ],
+        "video_summary": "A busy supermarket with customers and employees moving around. the shelves are stocked with various items, and the checkout counters are occupied by customers."
+    },
+    "Normal_Videos_067_x264": {
+        "n_frames": 1068,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                8.1,
+                15.333
+            ],
+            [
+                22.667,
+                31.867
+            ]
+        ],
+        "video_summary": "A man in a black uniform and a woman in a white shirt and black skirt walked out of the glass door of a building."
+    },
+    "Normal_Videos_070_x264": {
+        "n_frames": 993,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                7.267,
+                12.6
+            ],
+            [
+                18.7,
+                32.967
+            ]
+        ],
+        "video_summary": "A bustling office environment with multiple desks arranged in rows. employees are engaged in various activities such as working on laptops, interacting with colleagues, and moving around the space. the office has a modern design with large windows, and the lighting is bright, suggesting daytime."
+    },
+    "Normal_Videos_100_x264": {
+        "n_frames": 627,
+        "fps": 30.0,
+        "label": [],
+        "events": [],
+        "video_summary": "A man in a blue shirt and black pants standing in front of a counter at a kijell & company store, interacting with a woman in a light blue shirt. the counter displays various items, and the man appears to be engaged in a conversation with the woman."
+    },
+    "Normal_Videos_129_x264": {
+        "n_frames": 467,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                9.167,
+                14.7
+            ]
+        ],
+        "video_summary": "A group of police officers in black uniforms and white helmets walking down a street at night. they are carrying batons and appear to be on duty. the street is illuminated by streetlights, and there is a yellow construction vehicle parked on the side of the road."
+    },
+    "Normal_Videos_150_x264": {
+        "n_frames": 864,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                4.867,
+                11.533
+            ],
+            [
+                14.867,
+                27.433
+            ]
+        ],
+        "video_summary": "A man in a suit walking down a corridor with a suitcase, followed by a woman in a red top and black pants. the corridor has metal railings and tiled floors, and there are other people walking in the background."
+    },
+    "Normal_Videos_168_x264": {
+        "n_frames": 1740,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                4.9,
+                15.4
+            ],
+            [
+                37.367,
+                54.167
+            ]
+        ],
+        "video_summary": "A busy urban street with various vehicles, including trucks and cars, parked along the side of the road. the street is marked with arrows indicating traffic flow directions. pedestrians are seen walking on the sidewalks, and there are buildings with signage visible in the background."
+    },
+    "Normal_Videos_175_x264": {
+        "n_frames": 8847,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                6.8,
+                76.9
+            ]
+        ],
+        "video_summary": "A man in a red shirt walked to the left side of the room"
+    },
+    "Normal_Videos_182_x264": {
+        "n_frames": 4094,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                72.7,
+                110.633
+            ]
+        ],
+        "video_summary": "The man in red walked to the counter and looked at the counter"
+    },
+    "Normal_Videos_189_x264": {
+        "n_frames": 737,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                2.833,
+                12.133
+            ]
+        ],
+        "video_summary": "A nighttime scene with multiple vehicles, including cars and a bus, moving along a road. the timestamp on the video indicates it is 2015-01-29 at 23:54:55."
+    },
+    "Normal_Videos_196_x264": {
+        "n_frames": 2004,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                4.667,
+                28.0
+            ],
+            [
+                40.3,
+                54.367
+            ]
+        ],
+        "video_summary": "The man in the brown shirt walked to the table and sat down."
+    },
+    "Normal_Videos_203_x264": {
+        "n_frames": 2571,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                1.767,
+                26.933
+            ],
+            [
+                63.833,
+                79.067
+            ]
+        ],
+        "video_summary": "A black car drove into the parking lot, and a man in white clothes walked out of the parking lot."
+    },
+    "Normal_Videos_210_x264": {
+        "n_frames": 5408,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                31.967,
+                86.6
+            ],
+            [
+                111.467,
+                148.467
+            ]
+        ],
+        "video_summary": "A bustling street scene with multiple motorcycles and cars moving in various directions. pedestrians are seen walking on the sidewalks, and there are various storefronts with signs visible in the background."
+    },
+    "Normal_Videos_217_x264": {
+        "n_frames": 1817,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                4.067,
+                15.633
+            ],
+            [
+                30.567,
+                53.033
+            ]
+        ],
+        "video_summary": "A man in a black jacket and blue jeans walked to the gas station, and then walked to the right side of the road."
+    },
+    "Normal_Videos_224_x264": {
+        "n_frames": 6958,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                10.2,
+                67.167
+            ],
+            [
+                118.667,
+                216.467
+            ]
+        ],
+        "video_summary": "A man in a black shirt and helmet entered the room, and the woman in black clothes and helmet left the room."
+    },
+    "Normal_Videos_246_x264": {
+        "n_frames": 4993,
+        "fps": 30.0,
+        "label": [],
+        "events": [],
+        "video_summary": "The man in the red hat walked to the man in black and talked to him."
+    },
+    "Normal_Videos_247_x264": {
+        "n_frames": 8211,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                61.733,
+                123.033
+            ]
+        ],
+        "video_summary": "The man in blue walked to the counter and put the money in the drawer."
+    },
+    "Normal_Videos_248_x264": {
+        "n_frames": 1140,
+        "fps": 30.0,
+        "label": [],
+        "events": [],
+        "video_summary": "A man in white clothes and a man in red clothes walked up the stairs of a building."
+    },
+    "Normal_Videos_251_x264": {
+        "n_frames": 405,
+        "fps": 30.0,
+        "label": [],
+        "events": [],
+        "video_summary": "A man in a white shirt and khaki shorts walked out of the right side of the video, and a man in a white shirt and black pants walked out of the left side of the video."
+    },
+    "Normal_Videos_289_x264": {
+        "n_frames": 863,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                15.0,
+                21.933
+            ]
+        ],
+        "video_summary": "A classroom with students seated at desks, engaged in writing activities. the teacher is standing at the front of the room, possibly giving instructions or monitoring the students' work."
+    },
+    "Normal_Videos_310_x264": {
+        "n_frames": 2518,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                16.333,
+                41.067
+            ],
+            [
+                54.433,
+                68.333
+            ]
+        ],
+        "video_summary": "A group of people playing basketball on an outdoor court. the players are dressed in casual athletic wear, and the court is surrounded by a chain-link fence with a basketball hoop in the background."
+    },
+    "Normal_Videos_312_x264": {
+        "n_frames": 1261,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                4.7,
+                11.4
+            ],
+            [
+                31.0,
+                37.5
+            ]
+        ],
+        "video_summary": "A man in a green jacket and black pants standing in the aisle of a supermarket, looking around. he then walks towards the checkout counter and stands there for a while. another man in a blue sweater enters the aisle and walks towards the checkout counter."
+    },
+    "Normal_Videos_317_x264": {
+        "n_frames": 929,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                2.267,
+                9.967
+            ]
+        ],
+        "video_summary": "A man in a gray sweater and blue jeans walked into the reception area of a building. He approached the counter and handed over a small package to the receptionist."
+    },
+    "Normal_Videos_345_x264": {
+        "n_frames": 209,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                1.333,
+                3.333
+            ],
+            [
+                5.067,
+                6.2
+            ]
+        ],
+        "video_summary": "A man in black walked to the left side of the room"
+    },
+    "Normal_Videos_352_x264": {
+        "n_frames": 5403,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                25.833,
+                86.767
+            ]
+        ],
+        "video_summary": "A green car is being refueled at a gas station. the driver is seen pumping gas into the car, while the attendant is attending to the car's fuel tank."
+    },
+    "Normal_Videos_360_x264": {
+        "n_frames": 984,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                1.467,
+                12.133
+            ],
+            [
+                17.833,
+                31.033
+            ]
+        ],
+        "video_summary": "The man in white clothes walked to the counter and looked at the counter."
+    },
+    "Normal_Videos_365_x264": {
+        "n_frames": 6626,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                28.133,
+                110.3
+            ],
+            [
+                114.867,
+                216.367
+            ]
+        ],
+        "video_summary": "The man in white walked to the table and took out a piece of paper and a pen."
+    },
+    "Normal_Videos_401_x264": {
+        "n_frames": 1626,
+        "fps": 30.0,
+        "label": [],
+        "events": [],
+        "video_summary": "A man in a red shirt and black pants walked to the right side of the screen and walked to the left side of the screen"
+    },
+    "Normal_Videos_417_x264": {
+        "n_frames": 1077,
+        "fps": 30.0,
+        "label": [],
+        "events": [],
+        "video_summary": "A man in a gray sweatshirt standing in front of a counter, interacting with a man in a light-colored shirt who is seated behind a computer. the man in the gray sweatshirt appears to be asking questions or making requests, while the man in the light-colored shirt listens attentively."
+    },
+    "Normal_Videos_439_x264": {
+        "n_frames": 4226,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                4.1,
+                64.833
+            ]
+        ],
+        "video_summary": "A woman in a red apron and white top walked to the counter and looked at the items on the counter."
+    },
+    "Normal_Videos_452_x264": {
+        "n_frames": 443,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                7.633,
+                12.333
+            ]
+        ],
+        "video_summary": "A bustling indoor shopping mall with people walking around, sitting on benches, and engaging in various activities. the mall is adorned with colorful decorations and has multiple levels with shops and advertisements visible."
+    },
+    "Normal_Videos_453_x264": {
+        "n_frames": 5322,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                16.8,
+                48.7
+            ],
+            [
+                95.067,
+                174.667
+            ]
+        ],
+        "video_summary": "The man in white walked to the counter and talked to the man in black."
+    },
+    "Normal_Videos_478_x264": {
+        "n_frames": 4502,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                23.7,
+                59.767
+            ]
+        ],
+        "video_summary": "A nighttime scene with multiple vehicles, including cars and buses, moving along a city street. the street is wet, suggesting recent rain, and there are streetlights illuminating the area."
+    },
+    "Normal_Videos_576_x264": {
+        "n_frames": 11275,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                29.733,
+                100.533
+            ]
+        ],
+        "video_summary": "A bustling street scene with various vehicles, including buses and cars, moving in different directions. pedestrians are seen walking on the sidewalks, and some are riding bicycles. the background features buildings with signs and advertisements, indicating a commercial area."
+    },
+    "Normal_Videos_597_x264": {
+        "n_frames": 2229,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                10.633,
+                27.933
+            ],
+            [
+                40.967,
+                70.767
+            ]
+        ],
+        "video_summary": "The man in pink walked to the counter and looked at the man in blue. The man in blue looked at the man in pink and then looked at the man in red. The man in pink looked at the man in red and then looked at the man in blue."
+    },
+    "Normal_Videos_603_x264": {
+        "n_frames": 3277,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                14.4,
+                38.733
+            ],
+            [
+                70.3,
+                103.633
+            ]
+        ],
+        "video_summary": "A white car drove to the right side of the road"
+    },
+    "Normal_Videos_606_x264": {
+        "n_frames": 1233,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                0.0,
+                18.067
+            ]
+        ],
+        "video_summary": "A man in black clothes walked to the right side of the road, and a man in white clothes walked to the left side of the road."
+    },
+    "Normal_Videos_621_x264": {
+        "n_frames": 4802,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                8.067,
+                60.2
+            ],
+            [
+                94.1,
+                136.9
+            ]
+        ],
+        "video_summary": "A man in a black shirt and jeans is seen pumping gas from a gas pump. the man is standing next to a silver car, which is parked next to a white van. the background includes a gas station with various signs and a clear sky."
+    },
+    "Normal_Videos_634_x264": {
+        "n_frames": 13459,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                83.467,
+                214.833
+            ]
+        ],
+        "video_summary": "A bustling urban street scene with various vehicles, including cars and buses, moving along the road. the street is lined with buildings, some of which have awnings and signage. pedestrians are seen crossing the road, and there are trees and greenery visible on the sides of the road."
+    },
+    "Normal_Videos_641_x264": {
+        "n_frames": 3600,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                8.733,
+                31.667
+            ],
+            [
+                74.8,
+                106.8
+            ]
+        ],
+        "video_summary": "A man in a blue shirt walked into the store, and a woman in black walked out of the store."
+    },
+    "Normal_Videos_656_x264": {
+        "n_frames": 1815,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                35.533,
+                57.0
+            ]
+        ],
+        "video_summary": "A man in blue clothes walked to the right side of the road and walked to the left side of the road"
+    },
+    "Normal_Videos_686_x264": {
+        "n_frames": 2410,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                11.467,
+                39.6
+            ],
+            [
+                52.3,
+                69.333
+            ]
+        ],
+        "video_summary": "A man in a blue shirt and gray pants walked to the right side of the road, then walked to the left side of the road."
+    },
+    "Normal_Videos_696_x264": {
+        "n_frames": 3625,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                17.5,
+                42.967
+            ],
+            [
+                66.8,
+                109.833
+            ]
+        ],
+        "video_summary": "A motorcycle rider wearing a helmet and a blue jacket, riding down a wet street. the street is wet, reflecting the surrounding environment, and there are several other motorcycles and bicycles visible in the vicinity."
+    },
+    "Normal_Videos_702_x264": {
+        "n_frames": 2523,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                14.367,
+                36.333
+            ]
+        ],
+        "video_summary": "A man in a black shirt and jeans walked to the counter and looked at the items on the counter."
+    },
+    "Normal_Videos_704_x264": {
+        "n_frames": 1694,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                1.833,
+                18.567
+            ],
+            [
+                28.633,
+                45.5
+            ]
+        ],
+        "video_summary": "A man in black clothes walked to the door of the house and opened the door."
+    },
+    "Normal_Videos_710_x264": {
+        "n_frames": 1797,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                10.733,
+                28.133
+            ],
+            [
+                39.867,
+                55.933
+            ]
+        ],
+        "video_summary": "A man in a red jacket and black pants standing outside a gate, interacting with another person who is wearing a yellow jacket and black pants. the gate is metallic and has a black metal frame. there is a small yellow chair next to the gate, and the background includes a building with a white facade and a bicycle parked on the side of the road."
+    },
+    "Normal_Videos_717_x264": {
+        "n_frames": 1255,
+        "fps": 30.0,
+        "label": [],
+        "events": [],
+        "video_summary": "The man in blue clothes walked to the right side of the room and walked to the right side of the room."
+    },
+    "Normal_Videos_722_x264": {
+        "n_frames": 8731,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                14.8,
+                81.467
+            ],
+            [
+                171.4,
+                267.733
+            ]
+        ],
+        "video_summary": "The woman in black clothes walked to the left of the screen and walked to the right of the screen"
+    },
+    "Normal_Videos_725_x264": {
+        "n_frames": 920,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                1.933,
+                13.633
+            ]
+        ],
+        "video_summary": "A silver ford pickup truck parked on the side of a road. the truck is stationary and appears to be stationary for a while before moving slightly."
+    },
+    "Normal_Videos_745_x264": {
+        "n_frames": 305,
+        "fps": 30.0,
+        "label": [],
+        "events": [],
+        "video_summary": "A bowling alley with multiple lanes, where players are actively engaged in the game. the lanes are marked with blue and white stripes, and the players are seen throwing bowling balls down the lanes."
+    },
+    "Normal_Videos_758_x264": {
+        "n_frames": 1589,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                3.767,
+                19.667
+            ],
+            [
+                26.533,
+                46.533
+            ]
+        ],
+        "video_summary": "A bustling indoor event with numerous people walking around, browsing, and interacting. the setting appears to be a trade show or exhibition hall, as indicated by the presence of booths and displays."
+    },
+    "Normal_Videos_778_x264": {
+        "n_frames": 1262,
+        "fps": 30.0,
+        "label": [],
+        "events": [],
+        "video_summary": "The camera moved to the right side of the video"
+    },
+    "Normal_Videos_780_x264": {
+        "n_frames": 2021,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                12.267,
+                28.833
+            ],
+            [
+                40.0,
+                63.667
+            ]
+        ],
+        "video_summary": "A man in a black jacket and a woman in a red top walked out of the scene"
+    },
+    "Normal_Videos_781_x264": {
+        "n_frames": 3975,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                6.533,
+                48.133
+            ],
+            [
+                67.9,
+                130.267
+            ]
+        ],
+        "video_summary": "A busy street scene with pedestrians and vehicles. a man in a red shirt is seen walking towards the camera, followed by a woman in a black dress. the man then walks past a man in a blue shirt and a woman in a red dress."
+    },
+    "Normal_Videos_782_x264": {
+        "n_frames": 5543,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                22.367,
+                86.167
+            ],
+            [
+                112.433,
+                160.733
+            ]
+        ],
+        "video_summary": "The man in black clothes walked to the right of the screen and walked to the right of the screen."
+    },
+    "Normal_Videos_783_x264": {
+        "n_frames": 9590,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                12.033,
+                118.2
+            ],
+            [
+                172.967,
+                248.933
+            ]
+        ],
+        "video_summary": "A group of people standing in front of an elevator, with one person in a white shirt and another in a pink shirt. the elevator doors are open, and the group appears to be waiting for someone to enter or exit."
+    },
+    "Normal_Videos_798_x264": {
+        "n_frames": 6001,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                23.8,
+                91.967
+            ],
+            [
+                104.433,
+                159.633
+            ]
+        ],
+        "video_summary": "A view of a street lined with buildings, parked cars, and a few people walking. the sky is partly cloudy, and the time stamp indicates it is 13:04:54."
+    },
+    "Normal_Videos_801_x264": {
+        "n_frames": 2744,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                17.0,
+                31.5
+            ],
+            [
+                59.033,
+                89.833
+            ]
+        ],
+        "video_summary": "A woman in a blue uniform and a man in a striped shirt standing behind the counter. the woman is seen interacting with the man, who is holding a phone. the woman then proceeds to take out a bottle of water from the counter and hands it to the man."
+    },
+    "Normal_Videos_828_x264": {
+        "n_frames": 930,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                2.667,
+                10.7
+            ],
+            [
+                22.533,
+                29.5
+            ]
+        ],
+        "video_summary": "A white car enters the parking garage, followed by a blue car. the white car drives forward and then turns left, while the blue car follows behind."
+    },
+    "Normal_Videos_831_x264": {
+        "n_frames": 448,
+        "fps": 30.0,
+        "label": [],
+        "events": [],
+        "video_summary": "A white van parked on the side of a road, with a blue car and a white car driving past it. the van is facing the camera, and the road is bordered by a metal fence and a mailbox."
+    },
+    "Normal_Videos_866_x264": {
+        "n_frames": 1198,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                4.333,
+                10.567
+            ]
+        ],
+        "video_summary": "A man in a black jacket walked into the room and walked to the right side of the room."
+    },
+    "Normal_Videos_867_x264": {
+        "n_frames": 624,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                14.833,
+                20.667
+            ]
+        ],
+        "video_summary": "A man in white clothes walked out from the right side of the screen and walked to the left side of the screen"
+    },
+    "Normal_Videos_868_x264": {
+        "n_frames": 2401,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                0.5,
+                39.433
+            ]
+        ],
+        "video_summary": "A man in black clothes walked out of the door and walked to the motorcycle"
+    },
+    "Normal_Videos_869_x264": {
+        "n_frames": 2401,
+        "fps": 30.0,
+        "label": [],
+        "events": [],
+        "video_summary": "A man in a purple shirt walked out of the door and walked to the right side of the room"
+    },
+    "Normal_Videos_870_x264": {
+        "n_frames": 601,
+        "fps": 30.0,
+        "label": [],
+        "events": [],
+        "video_summary": "A man in a black shirt and white pants walked out of the door and walked to the right side of the room."
+    },
+    "Normal_Videos_871_x264": {
+        "n_frames": 4358,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                19.133,
+                64.967
+            ],
+            [
+                75.867,
+                144.033
+            ]
+        ],
+        "video_summary": "A man in a purple shirt walked out of the screen and walked to the right side of the screen."
+    },
+    "Normal_Videos_872_x264": {
+        "n_frames": 530,
+        "fps": 30.0,
+        "label": [],
+        "events": [],
+        "video_summary": "A series of images depicting a busy urban street scene. the first image shows a street with various vehicles, including cars and buses, moving in different directions. the second image shows a closer view of the street, revealing more details such as pedestrians walking on the sidewalk and a green bus in the foreground. the third image shows a closer view of the street, with more vehicles visible, including a yellow truck and a white car. the fourth image shows a closer view of the street, with a person walking on the sidewalk and a green bus in the background. the fifth image shows a closer view of the street, with more vehicles visible, including a white car and a green bus. the sixth image shows a closer view of the street, with a person walking on the sidewalk and a white car in the foreground."
+    },
+    "Normal_Videos_873_x264": {
+        "n_frames": 1799,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                2.667,
+                28.6
+            ]
+        ],
+        "video_summary": "A warehouse with various goods on display, including stacks of white buckets and boxes. workers are seen moving around the area, some carrying boxes and others handling goods."
+    },
+    "Normal_Videos_874_x264": {
+        "n_frames": 4226,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                19.167,
+                48.433
+            ],
+            [
+                85.267,
+                109.067
+            ]
+        ],
+        "video_summary": "A woman in a red top and black pants entered the store, and the man in black clothes left the store."
+    },
+    "Normal_Videos_875_x264": {
+        "n_frames": 2565,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                1.8,
+                35.167
+            ]
+        ],
+        "video_summary": "A bustling urban street scene with various vehicles, including cars and buses, moving in different directions. the street is lined with buildings, trees, and traffic signs."
+    },
+    "Normal_Videos_876_x264": {
+        "n_frames": 351,
+        "fps": 30.0,
+        "label": [],
+        "events": [],
+        "video_summary": "A busy supermarket with customers and employees moving around. the shelves are stocked with various items, and the checkout counters are occupied by customers."
+    },
+    "Normal_Videos_877_x264": {
+        "n_frames": 10025,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                19.833,
+                144.6
+            ]
+        ],
+        "video_summary": "A white car drove from the bottom of the screen to the top of the screen"
+    },
+    "Normal_Videos_878_x264": {
+        "n_frames": 265,
+        "fps": 30.0,
+        "label": [],
+        "events": [],
+        "video_summary": "A black car drove into the parking lot and drove out"
+    },
+    "Normal_Videos_879_x264": {
+        "n_frames": 1143,
+        "fps": 30.0,
+        "label": [],
+        "events": [],
+        "video_summary": "The woman in orange clothes is sitting on the chair and typing on the laptop."
+    },
+    "Normal_Videos_880_x264": {
+        "n_frames": 18054,
+        "fps": 30.0,
+        "label": [],
+        "events": [],
+        "video_summary": "A woman sitting at a desk in a room with pink walls. she is wearing a blue top and has a computer on the desk in front of her. the room has a whiteboard on the wall and a shelf with various items on the left side."
+    },
+    "Normal_Videos_881_x264": {
+        "n_frames": 224,
+        "fps": 30.0,
+        "label": [],
+        "events": [],
+        "video_summary": "A bustling indoor setting with people walking around. the architecture includes white columns and a central staircase leading to an entrance."
+    },
+    "Normal_Videos_882_x264": {
+        "n_frames": 1654,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                7.867,
+                25.233
+            ],
+            [
+                34.033,
+                47.9
+            ]
+        ],
+        "video_summary": "A man in a red shirt walked to the left side of the room, then sat on the floor, and then stood up."
+    },
+    "Normal_Videos_883_x264": {
+        "n_frames": 326,
+        "fps": 30.0,
+        "label": [],
+        "events": [],
+        "video_summary": "A woman in white clothes and a child in pink clothes walking towards a blue car parked on the side of a road. the woman is holding a pink bag, and the child is holding a pink toy."
+    },
+    "Normal_Videos_884_x264": {
+        "n_frames": 9029,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                74.467,
+                147.1
+            ],
+            [
+                198.167,
+                259.133
+            ]
+        ],
+        "video_summary": "The man in blue walked to the counter and took out a box of money."
+    },
+    "Normal_Videos_885_x264": {
+        "n_frames": 474,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                1.6,
+                5.5
+            ],
+            [
+                7.9,
+                14.5
+            ]
+        ],
+        "video_summary": "The man in white clothes and the man in yellow clothes are working on the machine."
+    },
+    "Normal_Videos_886_x264": {
+        "n_frames": 2747,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                9.733,
+                29.4
+            ]
+        ],
+        "video_summary": "The man in yellow clothes and the man in white clothes are working on the table."
+    },
+    "Normal_Videos_887_x264": {
+        "n_frames": 7630,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                19.267,
+                104.433
+            ]
+        ],
+        "video_summary": "A nighttime scene of a street with parked cars and buildings illuminated by streetlights. the camera moves across the scene, capturing the lights and shadows of the vehicles and buildings."
+    },
+    "Normal_Videos_888_x264": {
+        "n_frames": 574,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                12.733,
+                17.667
+            ]
+        ],
+        "video_summary": "A woman in a blue top and black pants standing behind a counter, interacting with a man in a black shirt. the counter is cluttered with various items, including a computer monitor, a cash register, and a phone. the woman appears to be engaged in a transaction or conversation with the man."
+    },
+    "Normal_Videos_889_x264": {
+        "n_frames": 314,
+        "fps": 30.0,
+        "label": [],
+        "events": [],
+        "video_summary": "The man in black walked to the counter and looked at the items on the counter."
+    },
+    "Normal_Videos_890_x264": {
+        "n_frames": 3579,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                10.2,
+                30.4
+            ],
+            [
+                65.867,
+                102.5
+            ]
+        ],
+        "video_summary": "A bustling indoor setting, likely a trade show or exhibition, with various stalls and booths. the main focus is on a table covered with a blue cloth displaying a sign that reads \"stretch lids.\" people are seen walking around the area, some interacting with the booths and others moving through the space."
+    },
+    "Normal_Videos_891_x264": {
+        "n_frames": 1800,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                35.5,
+                46.667
+            ]
+        ],
+        "video_summary": "A bustling trade show or exhibition hall with various booths and attendees. the floor is covered with red carpet, and there are multiple white tables with computers and monitors. people are seen walking around, interacting with each other, and browsing through the displays."
+    },
+    "Normal_Videos_892_x264": {
+        "n_frames": 1770,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                31.133,
+                44.333
+            ]
+        ],
+        "video_summary": "A man in a striped shirt and shorts walked to the door of a house and opened the door."
+    },
+    "Normal_Videos_893_x264": {
+        "n_frames": 6374,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                13.8,
+                73.0
+            ],
+            [
+                124.467,
+                203.767
+            ]
+        ],
+        "video_summary": "A man in a blue jacket and black pants entered the store, looked around, and then left."
+    },
+    "Normal_Videos_894_x264": {
+        "n_frames": 2575,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                18.267,
+                40.233
+            ]
+        ],
+        "video_summary": "The man in black walked to the counter and looked at the items on the counter."
+    },
+    "Normal_Videos_895_x264": {
+        "n_frames": 3030,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                4.333,
+                46.833
+            ]
+        ],
+        "video_summary": "A man in black clothes and white shoes walked to the door of the house and opened it."
+    },
+    "Normal_Videos_896_x264": {
+        "n_frames": 2303,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                4.933,
+                30.2
+            ]
+        ],
+        "video_summary": "A silver car with its front wheels lifted off the ground, parked on the side of a road. a woman in black clothes is seen walking towards the car, and a man in red clothes is walking away from the car."
+    },
+    "Normal_Videos_897_x264": {
+        "n_frames": 875,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                5.7,
+                13.867
+            ],
+            [
+                18.1,
+                26.433
+            ]
+        ],
+        "video_summary": "The man in blue walked to the table and sat down."
+    },
+    "Normal_Videos_898_x264": {
+        "n_frames": 1005,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                4.833,
+                12.067
+            ],
+            [
+                22.033,
+                29.833
+            ]
+        ],
+        "video_summary": "A man in a green shirt and a woman in a red top walked to the right side of the screen"
+    },
+    "Normal_Videos_899_x264": {
+        "n_frames": 1380,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                5.7,
+                21.967
+            ]
+        ],
+        "video_summary": "A man in black walked out of the store and walked to the right side of the screen"
+    },
+    "Normal_Videos_900_x264": {
+        "n_frames": 1455,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                1.4,
+                22.9
+            ],
+            [
+                33.7,
+                44.633
+            ]
+        ],
+        "video_summary": "A group of people walking in front of a line of cars, some of which are parked and others are moving. the individuals are wearing raincoats and umbrellas, indicating that it is raining."
+    },
+    "Normal_Videos_901_x264": {
+        "n_frames": 1170,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                4.267,
+                19.0
+            ],
+            [
+                23.667,
+                31.0
+            ]
+        ],
+        "video_summary": "A view from inside a vehicle, looking out through the windshield at a parking lot. the sun is shining brightly, casting shadows and creating a hazy atmosphere. the parking lot is filled with various cars, some parked and others moving. the camera angle is slightly elevated, giving a bird's-eye view of the scene."
+    },
+    "Normal_Videos_902_x264": {
+        "n_frames": 1384,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                26.333,
+                46.0
+            ]
+        ],
+        "video_summary": "A view of a street intersection, where a white truck is parked on the right side of the road. the truck has a green dumpster attached to it, and there are several cars driving on the road. the scene then transitions to a wider view of the street, showing more vehicles and a gas station in the background."
+    },
+    "Normal_Videos_903_x264": {
+        "n_frames": 790,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                1.567,
+                6.667
+            ],
+            [
+                14.0,
+                23.967
+            ]
+        ],
+        "video_summary": "A busy intersection with multiple vehicles, including cars and buses, moving in different directions. the scene is bustling with activity, with pedestrians crossing the road and vehicles navigating through the intersection."
+    },
+    "Normal_Videos_904_x264": {
+        "n_frames": 908,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                0.767,
+                11.667
+            ]
+        ],
+        "video_summary": "A white police car drove past the intersection"
+    },
+    "Normal_Videos_905_x264": {
+        "n_frames": 1196,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                1.933,
+                17.933
+            ],
+            [
+                24.433,
+                39.867
+            ]
+        ],
+        "video_summary": "A white truck drove into the intersection"
+    },
+    "Normal_Videos_906_x264": {
+        "n_frames": 676,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                16.767,
+                22.033
+            ]
+        ],
+        "video_summary": "A series of images from a vehicle's perspective, capturing various street scenes. The first image shows a busy intersection with multiple lanes of traffic, including cars and a bus. The second image shows a red car driving through the intersection. The third image shows a silver car driving on the road. The fourth image shows a silver car driving on the road. The fifth image shows a silver car driving on the road. The sixth image shows a silver car driving on the road. The seventh image shows a silver car driving on the road. The eighth image shows a silver car driving on the road. The ninth image shows a silver car driving on the road. The tenth image shows a silver car driving on the road. The eleventh image shows a silver car driving on the road. The twelfth image shows a silver car driving on the road. The thirteenth image shows a silver car driving on the road. The fourteenth image shows a silver car driving on the road. The fifteenth image shows a silver car driving on the road. The sixteenth image shows a silver car driving on the road. The seventeenth image shows a silver car driving on the road. The eighteenth image shows a silver car driving on the road. The nineteenth image shows a silver car driving on the road. The twentieth image shows a silver car driving on the road. The twenty-first image shows a silver car driving on the road. The twenty-second image shows a silver car driving on the road. The twenty-third image shows a silver car driving on the road. The twenty-fourth image shows a silver car driving on the road. The twenty-fifth image shows a silver car driving on the road. The twenty-sixth image shows a silver car driving on the road. The twenty-seventh image shows a silver car driving on the road. The twenty-eighth image shows a silver car driving on the road. The twenty-ninth image shows a silver car driving on the road. The thirtieth image shows a silver car driving on the road. The thirty-first image shows a silver car driving on the road. The thirty-second image shows a silver car driving on the road. The thirty-third image shows a silver car driving on the road. The thirty-fourth image shows a silver car driving on the road. The thirty-fifth image shows a silver car driving on the road. The thirty-sixth image shows a silver car driving on the road. The thirty-seventh image shows a silver car driving on the road. The thirty-eighth image shows a silver car driving on the road. The thirtyninth image shows a silver car driving on the road. The final image shows a silver car driving on the road."
+    },
+    "Normal_Videos_907_x264": {
+        "n_frames": 598,
+        "fps": 30.0,
+        "label": [],
+        "events": [],
+        "video_summary": "A busy intersection with multiple vehicles, including cars and buses, moving in both directions. the scene is set in a sunny day with clear skies and palm trees visible in the background."
+    },
+    "Normal_Videos_908_x264": {
+        "n_frames": 889,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                0.4,
+                8.4
+            ],
+            [
+                15.2,
+                24.2
+            ]
+        ],
+        "video_summary": "A view of a busy intersection with multiple lanes of traffic. cars are seen driving in both directions, with some vehicles turning left or right at the intersection. the road is lined with trees and buildings, and there are traffic lights and signs visible in the background."
+    },
+    "Normal_Videos_909_x264": {
+        "n_frames": 870,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                0.467,
+                9.467
+            ],
+            [
+                19.8,
+                26.9
+            ]
+        ],
+        "video_summary": "A series of aerial views of a city street and highway interchange. the first frame shows a view from above, revealing a busy intersection with multiple lanes of traffic. the second frame shows a closer view of the intersection, with vehicles moving in both directions. the third frame shows a wider view of the highway interchange, with multiple lanes of traffic and vehicles moving in both directions. the final frame shows a view from above, looking down at the highway interchange and surrounding area."
+    },
+    "Normal_Videos_910_x264": {
+        "n_frames": 567,
+        "fps": 30.0,
+        "label": [],
+        "events": [],
+        "video_summary": "A series of aerial views of a city street, showcasing various elements such as traffic lights, road markings, and construction cones."
+    },
+    "Normal_Videos_911_x264": {
+        "n_frames": 776,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                4.7,
+                10.867
+            ],
+            [
+                15.167,
+                23.633
+            ]
+        ],
+        "video_summary": "A silver car drives down a street with a pedestrian crossing in the foreground. the street is lined with trees and buildings, and there are traffic lights visible."
+    },
+    "Normal_Videos_912_x264": {
+        "n_frames": 746,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                5.7,
+                11.567
+            ]
+        ],
+        "video_summary": "A street scene with a black SUV driving on the right side of the road. the road is lined with trees and buildings, and there are traffic lights and signs visible."
+    },
+    "Normal_Videos_913_x264": {
+        "n_frames": 609,
+        "fps": 30.0,
+        "label": [],
+        "events": [],
+        "video_summary": "A car driving down a residential street, passing by houses and parked cars. the car is white and appears to be moving at a moderate speed."
+    },
+    "Normal_Videos_914_x264": {
+        "n_frames": 880,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                16.2,
+                25.367
+            ]
+        ],
+        "video_summary": "A busy intersection with multiple lanes of traffic, including cars and trucks. the traffic lights are green, and the vehicles are moving in both directions."
+    },
+    "Normal_Videos_915_x264": {
+        "n_frames": 1245,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                2.7,
+                10.767
+            ],
+            [
+                22.033,
+                39.967
+            ]
+        ],
+        "video_summary": "A busy intersection with multiple vehicles, including cars and buses, navigating through the intersection. the scene is set in a sunny day with clear skies and palm trees in the background."
+    },
+    "Normal_Videos_923_x264": {
+        "n_frames": 18224,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                3.767,
+                199.867
+            ]
+        ],
+        "video_summary": "The man in white clothes walked to the counter and looked at the computer."
+    },
+    "Normal_Videos_924_x264": {
+        "n_frames": 107997,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                503.5,
+                1258.767
+            ]
+        ],
+        "video_summary": "The video depicts a series of mundane events, showing a man interacting with a clerk at a counter, playing with items in his hands, and squatting on the ground. Other individuals, including a man in a blue shirt and a man in black, appear on screen, engaging in ordinary activities such as rummaging through a backpack and handing over an item. The video shows a sequence of uneventful interactions and actions, with no unusual or anomalous events occurring, featuring everyday scenes with people performing routine tasks."
+    },
+    "Normal_Videos_925_x264": {
+        "n_frames": 7726,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                185.167,
+                224.4
+            ]
+        ],
+        "video_summary": "A nighttime scene of a parking lot with multiple cars parked in rows. the camera angle is from above, capturing the cars' headlights and the surrounding environment. the timestamp on the video indicates it is 2013-06-29 at 21:36:05."
+    },
+    "Normal_Videos_926_x264": {
+        "n_frames": 1796,
+        "fps": 30.0,
+        "label": [],
+        "events": [],
+        "video_summary": "A man in a white shirt walked out of the door and walked to the right side of the room"
+    },
+    "Normal_Videos_927_x264": {
+        "n_frames": 1633,
+        "fps": 30.0,
+        "label": [],
+        "events": [],
+        "video_summary": "The woman in pink clothes is sitting on the left side of the bus, and the woman in black clothes is sitting on the right side of the bus."
+    },
+    "Normal_Videos_928_x264": {
+        "n_frames": 918,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                3.833,
+                12.367
+            ],
+            [
+                19.3,
+                28.733
+            ]
+        ],
+        "video_summary": "A man in a black shirt with orange trim and a woman in a purple top are standing in front of a counter. the man is holding a small object, possibly a toy or a small item, while the woman is looking at him."
+    },
+    "Normal_Videos_929_x264": {
+        "n_frames": 924,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                4.033,
+                14.4
+            ]
+        ],
+        "video_summary": "The man in black walked to the counter and looked at the counter"
+    },
+    "Normal_Videos_930_x264": {
+        "n_frames": 3187,
+        "fps": 30.0,
+        "label": [],
+        "events": [],
+        "video_summary": "The man in the red shirt is sitting at the table and looking at the computer screen."
+    },
+    "Normal_Videos_931_x264": {
+        "n_frames": 1765,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                4.9,
+                19.9
+            ]
+        ],
+        "video_summary": "The man in the red shirt walked to the right side of the road"
+    },
+    "Normal_Videos_932_x264": {
+        "n_frames": 1784,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                5.767,
+                22.3
+            ],
+            [
+                41.967,
+                57.833
+            ]
+        ],
+        "video_summary": "The man in red walked out of the door and walked to the counter"
+    },
+    "Normal_Videos_933_x264": {
+        "n_frames": 1771,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                2.0,
+                26.167
+            ]
+        ],
+        "video_summary": "A man in a green shirt and black shorts walked to the right side of the screen and looked at the shelf."
+    },
+    "Normal_Videos_934_x264": {
+        "n_frames": 1765,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                34.2,
+                46.933
+            ]
+        ],
+        "video_summary": "A man in black walked to the right side of the screen"
+    },
+    "Normal_Videos_935_x264": {
+        "n_frames": 107994,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                580.033,
+                1139.367
+            ],
+            [
+                1877.133,
+                3599.767
+            ]
+        ],
+        "video_summary": "The video shows a static shot of a square where people are constantly walking around, with no unusual or out-of-the-ordinary events occurring throughout the footage. The scene remains mundane as the camera view shifts to show three men conversing in front of a stage on the left side, with people continuing to walk around in the background, and no unusual or out-of-the-ordinary occurrences take place throughout the entire video."
+    },
+    "Normal_Videos_936_x264": {
+        "n_frames": 1150,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                0.5,
+                14.0
+            ],
+            [
+                25.3,
+                37.233
+            ]
+        ],
+        "video_summary": "A group of people walking on a sidewalk, with some individuals wearing brightly colored clothing. the scene is bustling with activity, with people moving in different directions."
+    },
+    "Normal_Videos_937_x264": {
+        "n_frames": 1150,
+        "fps": 30.0,
+        "label": [],
+        "events": [],
+        "video_summary": "A group of people walking on a sidewalk, with some individuals wearing brightly colored clothing. the scene is bustling with activity, with people moving in different directions."
+    },
+    "Normal_Videos_938_x264": {
+        "n_frames": 4827,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                34.667,
+                59.3
+            ],
+            [
+                81.033,
+                160.4
+            ]
+        ],
+        "video_summary": "A man in a white shirt and black shorts walked to the counter and looked at the items on the counter."
+    },
+    "Normal_Videos_939_x264": {
+        "n_frames": 801,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                0.2,
+                12.7
+            ],
+            [
+                16.433,
+                20.6
+            ]
+        ],
+        "video_summary": "A man in a pink shirt and blue shorts standing behind a counter in a store. he is holding a small object and appears to be examining it closely. the counter has various items on it, including a box of cigarettes and other small items."
+    },
+    "Normal_Videos_940_x264": {
+        "n_frames": 36017,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                100.167,
+                502.433
+            ],
+            [
+                664.2,
+                988.4
+            ]
+        ],
+        "video_summary": "A man in white clothes walked to the counter and looked at the items on the counter."
+    },
+    "Normal_Videos_941_x264": {
+        "n_frames": 2020,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                15.667,
+                32.7
+            ],
+            [
+                34.4,
+                58.1
+            ]
+        ],
+        "video_summary": "The man in red clothes walked to the right side of the road"
+    },
+    "Normal_Videos_943_x264": {
+        "n_frames": 1020,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                7.2,
+                14.567
+            ],
+            [
+                18.933,
+                28.067
+            ]
+        ],
+        "video_summary": "The man in black walked to the bottom of the stairs and walked to the bottom of the stairs."
+    },
+    "Normal_Videos_944_x264": {
+        "n_frames": 7170,
+        "fps": 30.0,
+        "label": [],
+        "events": [
+            [
+                14.833,
+                117.633
+            ]
+        ],
+        "video_summary": "A bustling trade show or exhibition hall with various individuals engaged in conversations and activities. the setting is modern, with a mix of seating arrangements and displays."
+    },
+    "RoadAccidents001_x264": {
+        "n_frames": 1366,
+        "fps": 30.0,
+        "label": [
+            "RoadAccidents"
+        ],
+        "events": [
+            [
+                7.0,
+                10.0
+            ]
+        ],
+        "video_summary": "a man in blue clothes and a woman in black clothes approaching the man in blue clothes, and then the man in blue clothes is seen lying on the ground, suggesting a possible physical altercation or struggle"
+    },
+    "RoadAccidents002_x264": {
+        "n_frames": 347,
+        "fps": 30.0,
+        "label": [
+            "RoadAccidents"
+        ],
+        "events": [],
+        "video_summary": "a bus suddenly veering off the road, causing a collision with a pedestrian, resulting in the pedestrian being injured"
+    },
+    "RoadAccidents004_x264": {
+        "n_frames": 389,
+        "fps": 30.0,
+        "label": [
+            "RoadAccidents"
+        ],
+        "events": [
+            [
+                4.667,
+                6.3
+            ]
+        ],
+        "video_summary": "The video depicts a normal traffic scene with cars and trucks moving in a straight line, with no unusual or unexpected events occurring."
+    },
+    "RoadAccidents009_x264": {
+        "n_frames": 918,
+        "fps": 30.0,
+        "label": [
+            "RoadAccidents"
+        ],
+        "events": [
+            [
+                7.0,
+                8.0
+            ]
+        ],
+        "video_summary": "The video depicts a normal and uneventful scene where a white pickup truck drives down a street, passes by pedestrians, and continues to drive down the street, with no unusual or anomalous events occurring."
+    },
+    "RoadAccidents010_x264": {
+        "n_frames": 528,
+        "fps": 30.0,
+        "label": [
+            "RoadAccidents"
+        ],
+        "events": [
+            [
+                7.667,
+                9.0
+            ]
+        ],
+        "video_summary": "a white car driving into the scene, colliding with a red bus, and subsequently crashing into a black metal gate, resulting in a significant impact"
+    },
+    "RoadAccidents011_x264": {
+        "n_frames": 2159,
+        "fps": 30.0,
+        "label": [
+            "RoadAccidents"
+        ],
+        "events": [
+            [
+                8.667,
+                10.0
+            ]
+        ],
+        "video_summary": "a man in a white shirt and black pants riding a motorcycle and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle, and then a motorcycle and a bicycle"
+    },
+    "RoadAccidents012_x264": {
+        "n_frames": 468,
+        "fps": 30.0,
+        "label": [
+            "RoadAccidents"
+        ],
+        "events": [
+            [
+                8.333,
+                13.0
+            ]
+        ],
+        "video_summary": "The video depicts a normal traffic scene where a white car is driving on the road, and a red car is driving on the road, with no unusual or unexpected events occurring."
+    },
+    "RoadAccidents016_x264": {
+        "n_frames": 2192,
+        "fps": 30.0,
+        "label": [
+            "RoadAccidents"
+        ],
+        "events": [
+            [
+                17.667,
+                24.0
+            ]
+        ],
+        "video_summary": "The video depicts a normal and uneventful scene where a group of people, including children, walk across the street, with no unusual or out-of-the-ordinary events occurring. The scene then transitions to a normal and uneventful scene where a group of people, including children, walk across the street, with no unusual or out-of-the-ordinary events occurring."
+    },
+    "RoadAccidents017_x264": {
+        "n_frames": 243,
+        "fps": 30.0,
+        "label": [
+            "RoadAccidents"
+        ],
+        "events": [
+            [
+                2.0,
+                4.333
+            ]
+        ],
+        "video_summary": "a car colliding with another vehicle, resulting in a significant amount of smoke and debris being released from the car, indicating a possible accident or collision"
+    },
+    "RoadAccidents019_x264": {
+        "n_frames": 1314,
+        "fps": 30.0,
+        "label": [
+            "RoadAccidents"
+        ],
+        "events": [
+            [
+                25.0,
+                30.0
+            ]
+        ],
+        "video_summary": "a man in a red shirt and black pants walking towards the scene, and then a man in a black shirt and red pants walking towards the scene, suggesting a potential threat or disturbance"
+    },
+    "RoadAccidents020_x264": {
+        "n_frames": 1773,
+        "fps": 30.0,
+        "label": [
+            "RoadAccidents"
+        ],
+        "events": [
+            [
+                20.333,
+                24.333
+            ]
+        ],
+        "video_summary": "a man in black riding a motorcycle and then stopping to pick up a bicycle, which is an unusual and potentially dangerous behavior that may be considered a road accident"
+    },
+    "RoadAccidents021_x264": {
+        "n_frames": 155,
+        "fps": 30.0,
+        "label": [
+            "RoadAccidents"
+        ],
+        "events": [
+            [
+                1.0,
+                3.0
+            ]
+        ],
+        "video_summary": "a man in black clothes and a woman in black clothes walking towards the black car, and then a man in black clothes and a woman in black clothes walking towards the black car, suggesting a potential theft or unauthorized access to the vehicle"
+    },
+    "RoadAccidents022_x264": {
+        "n_frames": 716,
+        "fps": 30.0,
+        "label": [
+            "RoadAccidents"
+        ],
+        "events": [
+            [
+                4.0,
+                7.333
+            ]
+        ],
+        "video_summary": "a car accident where a black car collides with a motorcycle, resulting in the motorcycle flipping over and landing on its side, and the car's front end being damaged, with people on the road and nearby vehicles reacting to the incident"
+    },
+    "RoadAccidents121_x264": {
+        "n_frames": 1835,
+        "fps": 30.0,
+        "label": [
+            "RoadAccidents"
+        ],
+        "events": [
+            [
+                11.0,
+                13.0
+            ]
+        ],
+        "video_summary": "a car accident where a black car is involved in a collision with a red car, resulting in debris scattered on the road, people running away from the scene, and a person in a yellow garment being helped by others"
+    },
+    "RoadAccidents122_x264": {
+        "n_frames": 647,
+        "fps": 30.0,
+        "label": [
+            "RoadAccidents"
+        ],
+        "events": [
+            [
+                10.0,
+                12.0
+            ]
+        ],
+        "video_summary": "The video shows a normal and uneventful scene where a man in black walks out of the frame, and a man in black walks out of the frame, with no unusual or suspicious events occurring."
+    },
+    "RoadAccidents123_x264": {
+        "n_frames": 1005,
+        "fps": 30.0,
+        "label": [
+            "RoadAccidents"
+        ],
+        "events": [
+            [
+                4.333,
+                7.0
+            ]
+        ],
+        "video_summary": "a white car suddenly stopping and then driving away from the scene, which is an unusual and unexpected behavior in a typical traffic scenario"
+    },
+    "RoadAccidents124_x264": {
+        "n_frames": 1495,
+        "fps": 30.0,
+        "label": [
+            "RoadAccidents"
+        ],
+        "events": [
+            [
+                8.333,
+                14.0
+            ]
+        ],
+        "video_summary": "a man in white throwing a bag onto the road, which is a suspicious and potentially harmful act that deviates from normal traffic behavior"
+    },
+    "RoadAccidents125_x264": {
+        "n_frames": 1771,
+        "fps": 30.0,
+        "label": [
+            "RoadAccidents"
+        ],
+        "events": [
+            [
+                16.333,
+                20.0
+            ]
+        ],
+        "video_summary": "a car suddenly stopping and then driving away from the scene, which is an unusual and unexpected occurrence in the video, deviating from the normal traffic flow and pedestrian activity depicted in the rest of the video."
+    },
+    "RoadAccidents127_x264": {
+        "n_frames": 2580,
+        "fps": 30.0,
+        "label": [
+            "RoadAccidents"
+        ],
+        "events": [
+            [
+                72.0,
+                76.667
+            ]
+        ],
+        "video_summary": "a red truck colliding with a green train, causing a significant impact and resulting in the train's front end being damaged, with smoke or dust being emitted from the damaged area, and the train's front end being lifted off the ground, indicating a possible collision or impact"
+    },
+    "RoadAccidents128_x264": {
+        "n_frames": 565,
+        "fps": 30.0,
+        "label": [
+            "RoadAccidents"
+        ],
+        "events": [
+            [
+                3.0,
+                6.667
+            ]
+        ],
+        "video_summary": "a man in black running across the road, which is an unusual and potentially dangerous behavior, especially in a public area with vehicles and pedestrians nearby"
+    },
+    "RoadAccidents131_x264": {
+        "n_frames": 1524,
+        "fps": 30.0,
+        "label": [
+            "RoadAccidents"
+        ],
+        "events": [
+            [
+                6.0,
+                8.0
+            ]
+        ],
+        "video_summary": "a car driving into the intersection and crashing into a pedestrian, resulting in the pedestrian being injured"
+    },
+    "RoadAccidents132_x264": {
+        "n_frames": 1862,
+        "fps": 30.0,
+        "label": [
+            "RoadAccidents"
+        ],
+        "events": [
+            [
+                7.333,
+                10.667
+            ]
+        ],
+        "video_summary": "a white car suddenly stopping and then driving away from the scene, which is an unusual and unexpected behavior in a typical traffic scenario"
+    },
+    "RoadAccidents133_x264": {
+        "n_frames": 673,
+        "fps": 30.0,
+        "label": [
+            "RoadAccidents"
+        ],
+        "events": [
+            [
+                9.0,
+                15.0
+            ]
+        ],
+        "video_summary": "a motorcycle accident where a person is seen lying on the ground, possibly injured, amidst a motorcycle and a car, with smoke or fire visible in the background, indicating a possible explosion or fire"
+    },
+    "Robbery048_x264": {
+        "n_frames": 1409,
+        "fps": 30.0,
+        "label": [
+            "Robbery"
+        ],
+        "events": [
+            [
+                15.0,
+                31.0
+            ]
+        ],
+        "video_summary": "a man in a striped shirt and dark pants entering the store, holding a gun, and pointing it at the man in the white shirt, who then exits the store, suggesting a potential robbery or threat"
+    },
+    "Robbery050_x264": {
+        "n_frames": 1701,
+        "fps": 30.0,
+        "label": [
+            "Robbery"
+        ],
+        "events": [
+            [
+                16.5,
+                47.0
+            ]
+        ],
+        "video_summary": "The video depicts a normal and mundane scene where a white car is parked on a brick driveway, and two men enter the car, one of whom is seen opening the door, while the other walks towards the car, and then leaves the scene, with no unusual or out-of-the-ordinary events occurring throughout the video."
+    },
+    "Robbery102_x264": {
+        "n_frames": 1827,
+        "fps": 30.0,
+        "label": [
+            "Robbery"
+        ],
+        "events": [
+            [
+                36.0,
+                52.0
+            ]
+        ],
+        "video_summary": "a man in black and a woman in black engaging in a physical altercation, with the man pushing the woman to the ground, and the woman then throwing a bag at the man, indicating a violent and aggressive behavior"
+    },
+    "Robbery106_x264": {
+        "n_frames": 1197,
+        "fps": 30.0,
+        "label": [
+            "Robbery"
+        ],
+        "events": [
+            [
+                16.0,
+                20.0
+            ]
+        ],
+        "video_summary": "a man in a white shirt and black pants approaching a silver car, and then a man in a blue shirt and black pants approaching a red car, suggesting a potential theft or robbery attempt"
+    },
+    "Robbery137_x264": {
+        "n_frames": 2193,
+        "fps": 30.0,
+        "label": [
+            "Robbery"
+        ],
+        "events": [
+            [
+                4.5,
+                65.0
+            ]
+        ],
+        "video_summary": "a man in black wearing a black mask and a black jacket, who is seen taking money from the cashier, and then leaves the store, suggesting a possible robbery"
+    },
+    "Shooting002_x264": {
+        "n_frames": 1206,
+        "fps": 30.0,
+        "label": [
+            "Shooting"
+        ],
+        "events": [],
+        "video_summary": "a man in a white shirt and black pants running away from the scene, suggesting a possible threat or disturbance"
+    },
+    "Shooting004_x264": {
+        "n_frames": 1793,
+        "fps": 30.0,
+        "label": [
+            "Shooting"
+        ],
+        "events": [
+            [
+                16.667,
+                22.0
+            ]
+        ],
+        "video_summary": "a man in a black shirt and white pants running towards the car, suggesting a potential threat or aggression towards the driver"
+    },
+    "Shooting007_x264": {
+        "n_frames": 1430,
+        "fps": 30.0,
+        "label": [
+            "Shooting"
+        ],
+        "events": [],
+        "video_summary": "a man in blue clothes running across the yard, and later, a man in black clothes running across the yard, suggesting a potential theft or burglary"
+    },
+    "Shooting008_x264": {
+        "n_frames": 1625,
+        "fps": 30.0,
+        "label": [
+            "Shooting"
+        ],
+        "events": [
+            [
+                2.5,
+                10.5
+            ]
+        ],
+        "video_summary": "a man in black pants and a black hat walking towards the camera, and then a man in black pants and a black hat walking towards the camera, with a black suitcase and a white paper on the ground"
+    },
+    "Shooting010_x264": {
+        "n_frames": 2641,
+        "fps": 30.0,
+        "label": [
+            "Shooting"
+        ],
+        "events": [
+            [
+                36.5,
+                42.0
+            ]
+        ],
+        "video_summary": "a man in black entering the door of the white car, which is a suspicious and potentially illegal activity, as it is unusual for a person to enter a vehicle without permission, especially in a public area like a parking lot."
+    },
+    "Shooting011_x264": {
+        "n_frames": 4003,
+        "fps": 30.0,
+        "label": [
+            "Shooting"
+        ],
+        "events": [
+            [
+                49.333,
+                58.333
+            ]
+        ],
+        "video_summary": "a man in white clothes and a yellow cap entering the room, holding a gun, and pointing it at the man in black clothes, indicating a potential threat or violent act"
+    },
+    "Shooting013_x264": {
+        "n_frames": 1073,
+        "fps": 30.0,
+        "label": [
+            "Shooting"
+        ],
+        "events": [
+            [
+                28.667,
+                31.5
+            ]
+        ],
+        "video_summary": "the man in the white hoodie and blue jacket engaging in suspicious and potentially illegal activities, such as breaking into the house, which deviates from normal and expected behavior in a residential setting."
+    },
+    "Shooting015_x264": {
+        "n_frames": 1713,
+        "fps": 30.0,
+        "label": [
+            "Shooting"
+        ],
+        "events": [
+            [
+                28.5,
+                57.167
+            ],
+            [
+                28.5,
+                57.067
+            ]
+        ],
+        "video_summary": "a man in a white shirt and black pants running out of the door, and then a man in a black shirt and white pants running out of the door, suggesting a potential burglary or theft"
+    },
+    "Shooting018_x264": {
+        "n_frames": 1799,
+        "fps": 30.0,
+        "label": [
+            "Shooting"
+        ],
+        "events": [
+            [
+                10.5,
+                16.0
+            ]
+        ],
+        "video_summary": "a man in a white shirt and black pants approaching the man in green clothes, and then grabbing the man in green clothes by the neck, causing him to fall to the ground"
+    },
+    "Shooting019_x264": {
+        "n_frames": 2756,
+        "fps": 30.0,
+        "label": [
+            "Shooting"
+        ],
+        "events": [],
+        "video_summary": "a man in white clothes and a blue hat taking out a gun and pointing it at the man in blue clothes, indicating a potential threat or violent act"
+    },
+    "Shooting021_x264": {
+        "n_frames": 1275,
+        "fps": 30.0,
+        "label": [
+            "Shooting"
+        ],
+        "events": [
+            [
+                16.0,
+                21.0
+            ]
+        ],
+        "video_summary": "a man in blue clothes and a woman in white clothes entering the car, and then the man in blue clothes and the woman in white clothes are seen running away from the car, suggesting a possible theft or suspicious activity"
+    },
+    "Shooting022_x264": {
+        "n_frames": 4554,
+        "fps": 30.0,
+        "label": [
+            "Shooting"
+        ],
+        "events": [
+            [
+                95.0,
+                110.0
+            ]
+        ],
+        "video_summary": "a man in red and another man in yellow grabbing a woman in blue and pushing her to the ground, followed by a man in yellow grabbing a woman in blue and pushing her to the ground, and then a man in yellow grabbing a woman in blue and pushing her to the ground, all of which are violent and harmful actions"
+    },
+    "Shooting024_x264": {
+        "n_frames": 2003,
+        "fps": 30.0,
+        "label": [
+            "Shooting"
+        ],
+        "events": [
+            [
+                24.0,
+                43.5
+            ]
+        ],
+        "video_summary": "a man in white clothes and a woman in black clothes engaging in a physical altercation with a man in black clothes, which is a clear and unusual and potentially violent behavior that deviates from normal and expected human interactions"
+    },
+    "Shooting026_x264": {
+        "n_frames": 1403,
+        "fps": 30.0,
+        "label": [
+            "Shooting"
+        ],
+        "events": [
+            [
+                6.5,
+                20.0
+            ]
+        ],
+        "video_summary": "a man in a white shirt and dark pants walking towards the camera, and then a man in a white shirt and dark pants walking towards the camera, suggesting a potential burglary or theft"
+    },
+    "Shooting028_x264": {
+        "n_frames": 1898,
+        "fps": 30.0,
+        "label": [
+            "Shooting"
+        ],
+        "events": [
+            [
+                9.5,
+                18.5
+            ]
+        ],
+        "video_summary": "a man in black entering the room, approaching the counter, and then leaving the room, suggesting a potential theft or suspicious activity"
+    },
+    "Shooting032_x264": {
+        "n_frames": 21681,
+        "fps": 30.0,
+        "label": [
+            "Shooting"
+        ],
+        "events": [
+            [
+                266.5,
+                273.5
+            ]
+        ],
+        "video_summary": "a man in a yellow shirt and black pants walking towards the camera, and then a man in a white shirt and black pants walking towards the camera, suggesting a potential threat or suspicious behavior"
+    },
+    "Shooting033_x264": {
+        "n_frames": 3630,
+        "fps": 30.0,
+        "label": [
+            "Shooting"
+        ],
+        "events": [
+            [
+                56.0,
+                66.667
+            ]
+        ],
+        "video_summary": "a man in white clothes and a woman in black clothes running out of the house and throwing something on the ground, which is a suspicious and potentially violent act"
+    },
+    "Shooting034_x264": {
+        "n_frames": 1409,
+        "fps": 30.0,
+        "label": [
+            "Shooting"
+        ],
+        "events": [
+            [
+                32.0,
+                35.0
+            ]
+        ],
+        "video_summary": "a man in black walking across the road, and later, a man in black is seen walking across the road, with a car driving by"
+    },
+    "Shooting037_x264": {
+        "n_frames": 305,
+        "fps": 30.0,
+        "label": [
+            "Shooting"
+        ],
+        "events": [
+            [
+                4.667,
+                8.667
+            ]
+        ],
+        "video_summary": "a car suddenly stopping and then driving away from the scene, which is an unusual and potentially hazardous behavior that deviates from normal traffic patterns"
+    },
+    "Shooting043_x264": {
+        "n_frames": 1874,
+        "fps": 30.0,
+        "label": [
+            "Shooting"
+        ],
+        "events": [
+            [
+                31.5,
+                41.0
+            ]
+        ],
+        "video_summary": "a man in a brown jacket and blue jeans approaching the car, and then taking out a gun from the trunk, suggesting a potential threat to the vehicle and the people around it"
+    },
+    "Shooting046_x264": {
+        "n_frames": 5088,
+        "fps": 30.0,
+        "label": [
+            "Shooting"
+        ],
+        "events": [
+            [
+                133.5,
+                141.0
+            ],
+            [
+                158.667,
+                169.6
+            ],
+            [
+                158.667,
+                169.567
+            ]
+        ],
+        "video_summary": "two men entering the bank, one of whom is holding a gun, and the other is holding a gun, suggesting a potential threat to the safety of the bank staff and customers"
+    },
+    "Shooting047_x264": {
+        "n_frames": 8287,
+        "fps": 30.0,
+        "label": [
+            "Shooting"
+        ],
+        "events": [
+            [
+                72.0,
+                130.0
+            ]
+        ],
+        "video_summary": "a man in a blue shirt and black pants approaching a white car, and then running away from the scene, suggesting a potential threat or suspicious activity"
+    },
+    "Shooting048_x264": {
+        "n_frames": 2741,
+        "fps": 30.0,
+        "label": [
+            "Shooting"
+        ],
+        "events": [
+            [
+                47.0,
+                57.667
+            ]
+        ],
+        "video_summary": "The video depicts a normal and mundane scene where a man in a white shirt and black pants enters the office, walks to the counter, and then leaves the office, with no unusual or out-of-the-ordinary events occurring throughout the entire sequence."
+    },
+    "Shoplifting001_x264": {
+        "n_frames": 4344,
+        "fps": 30.0,
+        "label": [
+            "Shoplifting"
+        ],
+        "events": [
+            [
+                51.667,
+                66.667
+            ]
+        ],
+        "video_summary": "a man in white entering the store, interacting with the woman in black, and then leaving the store, which may be a suspicious or unusual behavior, potentially indicating a theft or other illicit activity"
+    },
+    "Shoplifting004_x264": {
+        "n_frames": 6673,
+        "fps": 30.0,
+        "label": [
+            "Shoplifting"
+        ],
+        "events": [
+            [
+                73.333,
+                163.333
+            ]
+        ],
+        "video_summary": "a man in white clothes and a man in black clothes engaging in a conversation and then taking out a small object from a drawer, which may be a suspicious or illegal activity"
+    },
+    "Shoplifting005_x264": {
+        "n_frames": 1967,
+        "fps": 30.0,
+        "label": [
+            "Shoplifting"
+        ],
+        "events": [
+            [
+                24.0,
+                31.0
+            ]
+        ],
+        "video_summary": "a man in a green jacket and black pants approaching a man in a black jacket and white shirt, and then engaging in a physical altercation with him, which is a clear and unusual behavior that deviates from normal and expected human interactions"
+    },
+    "Shoplifting007_x264": {
+        "n_frames": 5124,
+        "fps": 30.0,
+        "label": [
+            "Shoplifting"
+        ],
+        "events": [
+            [
+                18.333,
+                25.333
+            ],
+            [
+                154.333,
+                164.0
+            ]
+        ],
+        "video_summary": "a woman in a yellow dress and a man in a green shirt engaging in a physical altercation, which is a sudden and unexpected occurrence in the otherwise mundane scene of the woman picking up clothes and the man walking in and out of the frame"
+    },
+    "Shoplifting010_x264": {
+        "n_frames": 2736,
+        "fps": 30.0,
+        "label": [
+            "Shoplifting"
+        ],
+        "events": [
+            [
+                25.0,
+                30.667
+            ],
+            [
+                51.667,
+                65.667
+            ]
+        ],
+        "video_summary": "a man in yellow entering the store, and then a woman in white and black clothes enters the store, followed by a man in black entering the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the store, and then a man in black enters the"
+    },
+    "Shoplifting015_x264": {
+        "n_frames": 2256,
+        "fps": 30.0,
+        "label": [
+            "Shoplifting"
+        ],
+        "events": [
+            [
+                67.0,
+                72.0
+            ]
+        ],
+        "video_summary": "The video depicts a mundane scene where a man in white clothes enters the store, walks to the counter, and then leaves the store, with no unusual or suspicious events occurring throughout the entire sequence."
+    },
+    "Shoplifting016_x264": {
+        "n_frames": 1483,
+        "fps": 30.0,
+        "label": [
+            "Shoplifting"
+        ],
+        "events": [
+            [
+                21.0,
+                24.0
+            ]
+        ],
+        "video_summary": "The video depicts a mundane scene where a woman in a pink top and a purple sari walks into a room, picks up a red bag, and then leaves the room, with no unusual or out-of-the-ordinary events occurring throughout the entire sequence."
+    },
+    "Shoplifting017_x264": {
+        "n_frames": 457,
+        "fps": 30.0,
+        "label": [
+            "Shoplifting"
+        ],
+        "events": [
+            [
+                12.0,
+                14.0
+            ]
+        ],
+        "video_summary": "The video depicts a mundane scene where a man in blue clothes enters the store, walks to the counter, and then leaves the store, with no unusual or suspicious events occurring throughout the entire sequence."
+    },
+    "Shoplifting020_x264": {
+        "n_frames": 5770,
+        "fps": 30.0,
+        "label": [
+            "Shoplifting"
+        ],
+        "events": [
+            [
+                78.0,
+                82.0
+            ]
+        ],
+        "video_summary": "The video depicts a mundane scene where a man in a green shirt and a woman in a pink dress enter the store, and the man in the green shirt takes out a box from the counter, while the woman in the pink dress looks at the counter, and the man in the green shirt walks to the counter, and the woman in the pink dress walks to the counter, and the man in the green shirt walks to the counter, and the woman in the pink dress walks to the counter, and the man in the green shirt walks to the counter, and the woman in the pink dress walks to the counter, and the man in the green shirt walks to the counter, and the woman in the pink dress walks to the counter, and the man in the green shirt walks to the counter, and the woman in the pink dress walks to the counter, and the man in the green shirt walks to the counter, and the woman in the pink dress walks to the counter, and the man in the green shirt walks to the counter, and the woman in the pink dress walks to the counter, and the man in the green shirt walks to the counter, and the woman in the pink dress walks to the counter, and the man in the green shirt walks to the counter, and the woman in the pink dress walks to the counter, and the man in the green shirt walks to the counter, and the woman in the pink dress walks to the counter, and the man in the green shirt walks to the counter, and the woman in the pink dress walks to the counter, and the man in the green shirt walks to the counter, and the woman in the pink dress walks to the counter, and the man in the green shirt walks to the counter, and the woman in the pink dress walks to the counter, and the man in the green shirt walks to the counter, and the woman in the pink dress walks to the counter, and the man in the green shirt walks to the counter, and the woman in the pink dress walks to the counter, and the man in the green shirt walks to the counter, and the woman in the pink dress walks to the counter, and the man in the green shirt walks to the counter, and the woman in the pink dress walks to the counter, and the man in the green shirt walks to the counter, and the woman in the pink dress walks to the counter, and the man in the green shirt walks to the counter, and the woman in the pink dress walks to the counter, and the man in the green shirt walks to the counter, and the woman in the pink dress walks to the counter, and the man in the green shirt walks to the counter, and the woman in the pink dress walks to the counter, and the man in the green shirt walks to the counter, and the woman in the pink dress walks to the counter, and the man in the green shirt walks to the counter, and the woman in the pink dress walks to the counter, and the man in the green shirt walks to the counter, and the woman in the pink dress walks to the counter, and the man in the green shirt walks to the counter, and the woman in the pink dress walks to the counter, and the man in the green shirt walks to the counter, and the woman in the pink dress walks to the counter, and the man in the green shirt walks to the counter, and the woman in the pink dress walks to the counter, and the man in the green shirt walks to the counter, and the woman in the pink dress walks to the counter, and the man in the green shirt walks to the counter, and the woman in the pink dress walks to the counter, and the man in the green shirt walks to the counter, and the woman in the pink dress walks to the counter, and the man in the green shirt walks to the counter, and the woman in the pink dress walks to the counter, and the man in the green shirt walks to the counter, and the woman in the pink dress walks to the counter, and the man in the green shirt walks to the counter, and the woman in the pink dress walks to the counter, and the man in the green shirt walks to the counter, and the woman in the pink dress walks to the counter, and the man in the green shirt walks to the counter, and the woman in the pink dress walks to the counter, and the man in the green shirt walks to the counter, and the woman in the pink dress walks to the counter, and the man in the green shirt walks to the counter, and the woman in the pink dress walks to the counter, and the man in the green shirt walks to the counter, and the woman in the pink dress walks to the counter, and the man in the green shirt walks to the counter, and the woman in the pink dress walks to the counter, and the man in the green shirt walks to the counter, and the woman in the pink dress walks to the counter, and the man in the green shirt walks to the counter"
+    },
+    "Shoplifting021_x264": {
+        "n_frames": 3551,
+        "fps": 30.0,
+        "label": [
+            "Shoplifting"
+        ],
+        "events": [
+            [
+                69.0,
+                74.0
+            ]
+        ],
+        "video_summary": "a man in a purple shirt and a woman in a purple hijab engaging in a conversation and then leaving the room, with the woman later appearing to be in distress or upset, suggesting a possible physical altercation or confrontation"
+    },
+    "Shoplifting022_x264": {
+        "n_frames": 2191,
+        "fps": 30.0,
+        "label": [
+            "Shoplifting"
+        ],
+        "events": [
+            [
+                9.0,
+                14.0
+            ],
+            [
+                48.0,
+                52.0
+            ]
+        ],
+        "video_summary": "a man in black and a man in blue entering the store, and then a man in black and a man in blue walking out of the store, suggesting a suspicious or illicit activity"
+    },
+    "Shoplifting027_x264": {
+        "n_frames": 1873,
+        "fps": 30.0,
+        "label": [
+            "Shoplifting"
+        ],
+        "events": [
+            [
+                36.0,
+                38.667
+            ]
+        ],
+        "video_summary": "The video depicts a mundane scene where a man in a black shirt and white shorts walks into the store, picks up a bottle, and then leaves the store, with no unusual or suspicious events occurring throughout the entire sequence."
+    },
+    "Shoplifting028_x264": {
+        "n_frames": 1357,
+        "fps": 30.0,
+        "label": [
+            "Shoplifting"
+        ],
+        "events": [
+            [
+                19.0,
+                28.0
+            ]
+        ],
+        "video_summary": "a man in white clothes and a woman in green clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and then a man in white clothes and a woman in white clothes entering the store, and"
+    },
+    "Shoplifting029_x264": {
+        "n_frames": 2176,
+        "fps": 30.0,
+        "label": [
+            "Shoplifting"
+        ],
+        "events": [
+            [
+                34.0,
+                49.0
+            ]
+        ],
+        "video_summary": "The video depicts a mundane scene where a man in a black coat walks into a store, looks around, and then leaves, with no unusual or out-of-the-ordinary events occurring throughout the sequence."
+    },
+    "Shoplifting031_x264": {
+        "n_frames": 447,
+        "fps": 30.0,
+        "label": [
+            "Shoplifting"
+        ],
+        "events": [
+            [
+                4.0,
+                11.0
+            ]
+        ],
+        "video_summary": "A man in a white shirt and black pants entering the store, approaching the counter, and then leaving the store, suggesting a potential theft or suspicious activity"
+    },
+    "Shoplifting033_x264": {
+        "n_frames": 899,
+        "fps": 30.0,
+        "label": [
+            "Shoplifting"
+        ],
+        "events": [
+            [
+                21.0,
+                25.0
+            ]
+        ],
+        "video_summary": "The video depicts a mundane scene where a man in a blue shirt and khaki shorts walks into a store, approaches a counter, and engages in conversation with a woman wearing a black top and white hat, who is also standing at the counter. The man then walks away from the counter, and the woman continues to talk to him. The video then shows the man walking out of the store, and the woman continues to talk to him."
+    },
+    "Shoplifting034_x264": {
+        "n_frames": 11937,
+        "fps": 30.0,
+        "label": [
+            "Shoplifting"
+        ],
+        "events": [
+            [
+                245.0,
+                249.0
+            ]
+        ],
+        "video_summary": "a man in a white shirt and black pants entering the store, approaching the counter, and then leaving the store, suggesting a suspicious or illicit activity"
+    },
+    "Shoplifting037_x264": {
+        "n_frames": 1386,
+        "fps": 30.0,
+        "label": [
+            "Shoplifting"
+        ],
+        "events": [],
+        "video_summary": "The video depicts a normal and mundane scene where a man in a green shirt and a woman in a purple dress are engaged in a conversation at a table in a room with a green tablecloth, with a man in a brown shirt and a woman in a red dress standing nearby. The man in the green shirt is seen holding a small object, possibly a phone or a small device, and the woman in the purple dress is holding a small object, possibly a phone or a small device. The man in the brown shirt is also seen holding a small object, possibly a phone or a small device. The man in the green shirt is seen holding a small object, possibly a phone or a small device, and the woman in the purple dress is seen holding a small object, possibly a phone or a small device. The man in the brown shirt is also seen holding a small object, possibly a phone or a small device. The man in the green shirt is seen holding a small object, possibly a phone or a small device, and the woman in the purple dress is seen holding a small object, possibly a phone or a small device. The man in the brown shirt is also seen holding a small object, possibly a phone or a small device. The man in the green shirt is seen holding a small object, possibly a phone or a small device, and the woman in the purple dress is seen holding a small object, possibly a phone or a small device. The man in the brown shirt is also seen holding a small object, possibly a phone or a small device. The man in the green shirt is seen holding a small object, possibly a phone or a small device, and the woman in the purple dress is seen holding a small object, possibly a phone or a small device. The man in the brown shirt is also seen holding a small object, possibly a phone or a small device. The man in the green shirt is seen holding a small object, possibly a phone or a small device, and the woman in the purple dress is seen holding a small object, possibly a phone or a small device. The man in the brown shirt is also seen holding a small object, possibly a phone or a small device. The man in the green shirt is seen holding a small object, possibly a phone or a small device, and the woman in the purple dress is seen holding a small object, possibly a phone or a small device. The man in the brown shirt is also seen holding a small object, possibly a phone or a small device. The man in the green shirt is seen holding a small object, possibly a phone or a small device, and the woman in the purple dress is seen holding a small object, possibly a phone or a small device. The man in the brown shirt is also seen holding a small object, possibly a phone or a small device. The man in the green shirt is seen holding a small object, possibly a phone or a small device, and the woman in the purple dress is seen holding a small object, possibly a phone or a small device. The man in the brown shirt is also seen holding a small object, possibly a phone or a small device. The man in the green shirt is seen holding a small object, possibly a phone or a small device, and the woman in the purple dress is seen holding a small object, possibly a phone or a small device. The man in the brown shirt is also seen holding a small object, possibly a phone or a small device. The man in the green shirt is seen holding a small object, possibly a phone or a small device, and the woman in the purple dress is seen holding a small object, possibly a phone or a small device. The man in the brown shirt is also seen holding a small object, possibly a phone or a small device. The man in the green shirt is seen holding a small object, possibly a phone or a small device, and the woman in the purple dress is seen holding a small object, possibly a phone or a small device. The man in the brown shirt is also seen holding a small object, possibly a phone or a small device. The man in the green shirt is seen holding a small object, possibly a phone or a small device, and the woman in the purple dress is seen holding a small object, possibly a phone or a small device. The man in the brown shirt is also seen holding a small object, possibly a phone or a small device. The man in the green shirt is seen holding a small object, possibly a phone or a small device, and the woman in the purple dress is seen holding a small object, possibly a phone or a small device. The man in the brown shirt is also seen holding a small object, possibly a phone or a small device. The man in the green shirt is seen holding a small object, possibly a phone or a small device, and the woman in the purple dress is seen holding a small object, possibly a phone or a small device. The man in the brown shirt is also seen holding a small object"
+    },
+    "Shoplifting039_x264": {
+        "n_frames": 2803,
+        "fps": 30.0,
+        "label": [
+            "Shoplifting"
+        ],
+        "events": [
+            [
+                73.0,
+                78.0
+            ]
+        ],
+        "video_summary": "a man in a plaid shirt and dark pants entering the room, picking up a box, and then leaving the room, suggesting a suspicious or illicit activity"
+    },
+    "Shoplifting044_x264": {
+        "n_frames": 14555,
+        "fps": 30.0,
+        "label": [
+            "Shoplifting"
+        ],
+        "events": [
+            [
+                369.0,
+                375.0
+            ]
+        ],
+        "video_summary": "a man in a brown jacket and black pants entering the store, approaching a man in a black jacket, and then grabbing the man in the black jacket's shoulder, suggesting a potential physical altercation or theft"
+    },
+    "Shoplifting049_x264": {
+        "n_frames": 2149,
+        "fps": 30.0,
+        "label": [
+            "Shoplifting"
+        ],
+        "events": [
+            [
+                34.0,
+                45.0
+            ]
+        ],
+        "video_summary": "a man in a blue shirt and khaki shorts entering the store, looking around, and then taking out a red object from the counter, which may be a weapon or a tool, and then leaving the store, suggesting a potential robbery or theft"
+    },
+    "Stealing019_x264": {
+        "n_frames": 4911,
+        "fps": 30.0,
+        "label": [
+            "Stealing"
+        ],
+        "events": [
+            [
+                91.0,
+                93.0
+            ],
+            [
+                139.0,
+                145.0
+            ]
+        ],
+        "video_summary": "a man in a white shirt and yellow pants attempting to steal a white car, which is a clear and intentional act of theft, deviating from normal and expected behavior."
+    },
+    "Stealing036_x264": {
+        "n_frames": 2503,
+        "fps": 30.0,
+        "label": [
+            "Stealing"
+        ],
+        "events": [
+            [
+                42.0,
+                53.0
+            ]
+        ],
+        "video_summary": "a man in a blue shirt and black pants approaching the man in a yellow shirt and black pants, and then grabbing the man in the yellow shirt and black pants, suggesting a potential physical altercation or threat"
+    },
+    "Stealing058_x264": {
+        "n_frames": 4991,
+        "fps": 30.0,
+        "label": [
+            "Stealing"
+        ],
+        "events": [
+            [
+                19.0,
+                122.0
+            ]
+        ],
+        "video_summary": "a group of men breaking into a car, which is a suspicious and illegal activity that deviates from normal and expected behavior, as it involves unauthorized access to a vehicle and potentially stealing or damaging it"
+    },
+    "Stealing062_x264": {
+        "n_frames": 1560,
+        "fps": 30.0,
+        "label": [
+            "Stealing"
+        ],
+        "events": [
+            [
+                12.0,
+                35.0
+            ]
+        ],
+        "video_summary": "a man in blue clothes and a man in black clothes entering the white car and opening the door, suggesting a potential theft or unauthorized access"
+    },
+    "Stealing079_x264": {
+        "n_frames": 5846,
+        "fps": 30.0,
+        "label": [
+            "Stealing"
+        ],
+        "events": [
+            [
+                85.0,
+                107.0
+            ],
+            [
+                117.0,
+                150.0
+            ]
+        ],
+        "video_summary": "a man in white clothes and a helmet entering the gate and then leaving the gate, which is an unusual and suspicious behavior, potentially indicating a theft or unauthorized access"
+    },
+    "Vandalism007_x264": {
+        "n_frames": 1146,
+        "fps": 30.0,
+        "label": [
+            "Vandalism"
+        ],
+        "events": [
+            [
+                8.0,
+                25.0
+            ]
+        ],
+        "video_summary": "a man in a black shirt and black pants running across the road, and a man in a black shirt and black pants running across the road, with the man in the black shirt and black pants running across the road being a potential anomaly event, as it deviates from the normal and expected behavior of the man in the black shirt and black pants, who is typically seen walking or standing in a stationary position, and the man in the black shirt and black pants running across the road is an unusual and potentially suspicious behavior that may indicate a potential crime or threat to public safety"
+    },
+    "Vandalism015_x264": {
+        "n_frames": 2982,
+        "fps": 30.0,
+        "label": [
+            "Vandalism"
+        ],
+        "events": [
+            [
+                67.0,
+                90.0
+            ]
+        ],
+        "video_summary": "the man in gray entering the store and then leaving, suggesting a possible robbery or theft"
+    },
+    "Vandalism017_x264": {
+        "n_frames": 1011,
+        "fps": 30.0,
+        "label": [
+            "Vandalism"
+        ],
+        "events": [
+            [
+                9.0,
+                11.0
+            ]
+        ],
+        "video_summary": "a man in a brown jacket and black pants walking out of the store, and then suddenly throwing a gun at the door, which is a sudden and unexpected and potentially dangerous action that deviates from the normal and expected behavior of a person in a store"
+    },
+    "Vandalism028_x264": {
+        "n_frames": 4495,
+        "fps": 30.0,
+        "label": [
+            "Vandalism"
+        ],
+        "events": [
+            [
+                80.0,
+                89.0
+            ]
+        ],
+        "video_summary": "a man in white clothes and a white hat entering the house and opening the door, suggesting a potential burglary or unauthorized access"
+    },
+    "Vandalism036_x264": {
+        "n_frames": 1443,
+        "fps": 30.0,
+        "label": [
+            "Vandalism"
+        ],
+        "events": [
+            [
+                18.0,
+                26.0
+            ]
+        ],
+        "video_summary": "The video depicts a mundane scene where a man in a white shirt and black pants walks into a store, takes out a bag of chips, and then leaves the store, with no unusual or out-of-the-ordinary events occurring throughout the entire sequence."
+    }
+}

@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[branch "master"]
+	vscode-merge-base = origin/master
+[remote "origin"]
+	url = https://github.com/Hatcodechet/score_fuse.git
+	fetch = +refs/heads/*:refs/remotes/origin/*

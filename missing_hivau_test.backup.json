@@ -1,0 +1,2183 @@
+{
+  "Abuse030_x264": {
+    "n_frames": 1544,
+    "fps": 30.0,
+    "label": [
+      "Abuse"
+    ],
+    "events": [
+      [
+        39.0,
+        51.0
+      ]
+    ],
+    "clips": [
+      [
+        [
+          42.0,
+          47.0
+        ]
+      ]
+    ],
+    "clips_caption": [
+      [
+        "The video clip shows a person walking down the street, pushing a lawn mower, while a car passes by on the road."
+      ]
+    ],
+    "events_summary": [
+      "There is no anomaly in the video. The video depicts normal activities. The video clip shows a person walking down the street, pushing a lawn mower, while a car passes by on the road. The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event."
+    ],
+    "video_summary": "There is no anomaly in the video. The video depicts normal activities. The video clip shows a person walking down the street, pushing a lawn mower, while a car passes by on the road. The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event.",
+    "events_summary_split": [
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities. The video clip shows a person walking down the street, pushing a lawn mower, while a car passes by on the road.",
+        "analysis": "The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event."
+      }
+    ],
+    "video_summary_split": {
+      "judgement": "There is no anomaly in the video.",
+      "description": "The video depicts normal activities. The video clip shows a person walking down the street, pushing a lawn mower, while a car passes by on the road.",
+      "analysis": "The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event."
+    }
+  },
+  "Assault011_x264": {
+    "n_frames": 2288,
+    "fps": 30.0,
+    "label": [
+      "Assault"
+    ],
+    "events": [
+      [
+        12.0,
+        45.0
+      ]
+    ],
+    "clips": [
+      [
+        [
+          12.0,
+          21.115
+        ],
+        [
+          21.115,
+          25.316
+        ],
+        [
+          25.316,
+          31.516
+        ],
+        [
+          31.516,
+          37.301
+        ],
+        [
+          37.301,
+          45.0
+        ]
+      ]
+    ],
+    "clips_caption": [
+      [
+        "The video clip shows a group of people gathered around a row of parked motorcycles, with some individuals standing and others sitting on their bikes.",
+        "The video clip shows a busy street scene with a mix of vehicles, including motorcycles and a truck.",
+        "The video clip shows a group of men gathered in a parking lot, with several motorcycles parked around them.",
+        "The video clip shows a group of men gathered in a parking lot, with several motorcycles parked around them.",
+        "The video clip shows a group of men gathered in a parking lot, with a focus on two individuals who are engaged in a physical altercation."
+      ]
+    ],
+    "events_summary": [
+      "An anomaly exists, specifically an \"Assault\" anomaly. The anomaly event involves a group of men gathered in a parking lot, with a focus on two individuals who are engaged in a physical altercation. The basis for judging this anomaly is the description of a physical altercation between two individuals, which is an abnormal event not typically associated with normal activities."
+    ],
+    "video_summary": "An anomaly exists, specifically an \"Assault\" anomaly. The anomaly event involves a group of men gathered in a parking lot, with a focus on two individuals who are engaged in a physical altercation. The altercation starts with the two men exchanging words, then quickly escalates into a physical fight where they are grappling and throwing punches at each other. The basis for judging this anomaly is the description of a physical altercation between two individuals, which is an abnormal event not typically associated with normal activities.",
+    "events_summary_split": [
+      {
+        "judgement": "An anomaly exists, specifically an \"Assault\" anomaly.",
+        "description": "The anomaly event involves a group of men gathered in a parking lot, with a focus on two individuals who are engaged in a physical altercation.",
+        "analysis": "The basis for judging this anomaly is the description of a physical altercation between two individuals, which is an abnormal event not typically associated with normal activities."
+      }
+    ],
+    "video_summary_split": {
+      "judgement": "An anomaly exists, specifically an \"Assault\" anomaly.",
+      "description": "The anomaly event involves a group of men gathered in a parking lot, with a focus on two individuals who are engaged in a physical altercation. The altercation starts with the two men exchanging words, then quickly escalates into a physical fight where they are grappling and throwing punches at each other.",
+      "analysis": "The basis for judging this anomaly is the description of a physical altercation between two individuals, which is an abnormal event not typically associated with normal activities."
+    }
+  },
+  "Explosion027_x264": {
+    "n_frames": 776,
+    "fps": 30.0,
+    "label": [
+      "Explosion"
+    ],
+    "events": [
+      [
+        0.0,
+        26.0
+      ]
+    ],
+    "clips": [
+      [
+        [
+          3.0,
+          13.0
+        ]
+      ],
+      [
+        [
+          13.0,
+          25.0
+        ]
+      ]
+    ],
+    "clips_caption": [
+      [
+        "The video clip shows two men in a cluttered room, with one man sitting on a chair and the other standing."
+      ],
+      [
+        "The video clip shows two men in a cluttered room, with one man standing and the other sitting on a chair."
+      ]
+    ],
+    "events_summary": [
+      "There is no anomaly in the video. The video depicts normal activities. The video clip shows two men in a cluttered room, with one man sitting on a chair and the other standing. The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event.",
+      "There is no anomaly in the video. The video depicts normal activities. The video clip shows two men in a cluttered room, with one man standing and the other sitting on a chair. The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event."
+    ],
+    "video_summary": "There is no anomaly in the video. The video depicts normal activities. The video clip shows two men in a cluttered room, with one man sitting on a chair and the other standing. The video clip shows two men in a cluttered room, with one man standing and the other sitting on a chair. The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event.",
+    "events_summary_split": [
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities. The video clip shows two men in a cluttered room, with one man sitting on a chair and the other standing.",
+        "analysis": "The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event."
+      },
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities. The video clip shows two men in a cluttered room, with one man standing and the other sitting on a chair.",
+        "analysis": "The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event."
+      }
+    ],
+    "video_summary_split": {
+      "judgement": "There is no anomaly in the video.",
+      "description": "The video depicts normal activities. The video clip shows two men in a cluttered room, with one man sitting on a chair and the other standing. The video clip shows two men in a cluttered room, with one man standing and the other sitting on a chair.",
+      "analysis": "The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event."
+    }
+  },
+  "Explosion029_x264": {
+    "n_frames": 2410,
+    "fps": 30.0,
+    "label": [
+      "Explosion"
+    ],
+    "events": [
+      [
+        50.0,
+        80.0
+      ]
+    ],
+    "clips": [
+      [
+        [
+          61.0,
+          72.0
+        ]
+      ]
+    ],
+    "clips_caption": [
+      [
+        "The video clip shows a woman and a man at a gas station."
+      ]
+    ],
+    "events_summary": [
+      "There is no anomaly in the video. The video depicts normal activities. The video clip shows a woman and a man at a gas station. The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event."
+    ],
+    "video_summary": "There is no anomaly in the video. The video depicts normal activities. The video clip shows a woman and a man at a gas station. The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event.",
+    "events_summary_split": [
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities. The video clip shows a woman and a man at a gas station.",
+        "analysis": "The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event."
+      }
+    ],
+    "video_summary_split": {
+      "judgement": "There is no anomaly in the video.",
+      "description": "The video depicts normal activities. The video clip shows a woman and a man at a gas station.",
+      "analysis": "The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event."
+    }
+  },
+  "Explosion036_x264": {
+    "n_frames": 5327,
+    "fps": 30.0,
+    "label": [
+      "Explosion"
+    ],
+    "events": [
+      [
+        20.0,
+        98.0
+      ],
+      [
+        98.0,
+        120.0
+      ]
+    ],
+    "clips": [
+      [
+        [
+          60.0,
+          64.0
+        ]
+      ],
+      [
+        [
+          64.0,
+          73.892
+        ],
+        [
+          73.892,
+          82.0
+        ]
+      ]
+    ],
+    "clips_caption": [
+      [
+        "The video clip shows a group of people gathered in a street, with some of them fighting and others watching."
+      ],
+      [
+        "The video clip shows a group of people engaged in a physical altercation on a street.",
+        "The video clip shows a group of people in a city setting, with a focus on two individuals who are walking and then sitting on a bench."
+      ]
+    ],
+    "events_summary": [
+      "There is no anomaly in the video. The video depicts normal activities. The video clip shows a group of people gathered in a street, with some of them fighting and others watching. The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event.",
+      "There is no anomaly in the video. The video depicts normal activities. The video clip shows a group of people engaged in a physical altercation on a street. The video clip shows a group of people in a city setting, with a focus on two individuals who are walking and then sitting on a bench. The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event."
+    ],
+    "video_summary": "There is no anomaly in the video. The video depicts normal activities. The video clip shows a group of people gathered in a street, with some of them fighting and others watching. The video clip shows a group of people engaged in a physical altercation on a street. The video clip shows a group of people in a city setting, with a focus on two individuals who are walking and then sitting on a bench. The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event.",
+    "events_summary_split": [
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities. The video clip shows a group of people gathered in a street, with some of them fighting and others watching.",
+        "analysis": "The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event."
+      },
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities. The video clip shows a group of people engaged in a physical altercation on a street. The video clip shows a group of people in a city setting, with a focus on two individuals who are walking and then sitting on a bench.",
+        "analysis": "The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event."
+      }
+    ],
+    "video_summary_split": {
+      "judgement": "There is no anomaly in the video.",
+      "description": "The video depicts normal activities. The video clip shows a group of people gathered in a street, with some of them fighting and others watching. The video clip shows a group of people engaged in a physical altercation on a street. The video clip shows a group of people in a city setting, with a focus on two individuals who are walking and then sitting on a bench.",
+      "analysis": "The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event."
+    }
+  },
+  "Explosion039_x264": {
+    "n_frames": 998,
+    "fps": 30.0,
+    "label": [
+      "Explosion"
+    ],
+    "events": [
+      [
+        0.1,
+        30.0
+      ]
+    ],
+    "clips": [
+      [
+        [
+          2.0,
+          9.0
+        ]
+      ],
+      [
+        [
+          21.0,
+          30.0
+        ]
+      ]
+    ],
+    "clips_caption": [
+      [
+        "The video clip shows a bustling restaurant scene with a group of people seated at tables, engaged in conversation and eating."
+      ],
+      [
+        "The video clip shows a bustling restaurant scene with several people seated at tables, engaged in conversation and eating."
+      ]
+    ],
+    "events_summary": [
+      "There is no anomaly in the video. The video depicts normal activities. The video clip shows a bustling restaurant scene with a group of people seated at tables, engaged in conversation and eating. The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event.",
+      "There is no anomaly in the video. The video depicts normal activities. The video clip shows a bustling restaurant scene with several people seated at tables, engaged in conversation and eating. The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event."
+    ],
+    "video_summary": "There is no anomaly in the video. The video depicts normal activities. The video clip shows a bustling restaurant scene with a group of people seated at tables, engaged in conversation and eating. The video clip shows a bustling restaurant scene with several people seated at tables, engaged in conversation and eating. The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event.",
+    "events_summary_split": [
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities. The video clip shows a bustling restaurant scene with a group of people seated at tables, engaged in conversation and eating.",
+        "analysis": "The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event."
+      },
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities. The video clip shows a bustling restaurant scene with several people seated at tables, engaged in conversation and eating.",
+        "analysis": "The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event."
+      }
+    ],
+    "video_summary_split": {
+      "judgement": "There is no anomaly in the video.",
+      "description": "The video depicts normal activities. The video clip shows a bustling restaurant scene with a group of people seated at tables, engaged in conversation and eating. The video clip shows a bustling restaurant scene with several people seated at tables, engaged in conversation and eating.",
+      "analysis": "The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event."
+    }
+  },
+  "Explosion043_x264": {
+    "n_frames": 7646,
+    "fps": 30.0,
+    "label": [
+      "Explosion"
+    ],
+    "events": [
+      [
+        0.0,
+        140.0
+      ],
+      [
+        140.0,
+        255.0
+      ]
+    ],
+    "clips": [
+      [
+        [
+          148.0,
+          151.0
+        ]
+      ],
+      [
+        [
+          151.0,
+          160.414
+        ],
+        [
+          160.414,
+          171.551
+        ],
+        [
+          171.551,
+          176.247
+        ],
+        [
+          176.247,
+          183.622
+        ],
+        [
+          183.622,
+          187.86
+        ],
+        [
+          187.86,
+          193.609
+        ],
+        [
+          193.609,
+          201.652
+        ],
+        [
+          201.652,
+          205.865
+        ],
+        [
+          205.865,
+          211.455
+        ],
+        [
+          211.455,
+          220.0
+        ]
+      ]
+    ],
+    "clips_caption": [
+      [
+        "The video clip captures a group of children playing in a street scene with various vehicles and items scattered around."
+      ],
+      [
+        "The video clip depicts a group of young men playing in a rundown area, with a focus on two individuals who are running around and playing with a ball.",
+        "The video clip depicts a group of children playing in a street filled with various vehicles and items, including cars, motorcycles, and a truck.",
+        "The video clip depicts a group of children playing in a street filled with various vehicles and items, including cars, motorcycles, and a truck.",
+        "The video clip depicts a group of people playing in a street, with a focus on a man in an orange shirt who is running towards a group of children.",
+        "The video clip depicts a group of people in a bustling urban area, with a focus on a man in a red shirt who is seen running through the street, possibly in a hurry or trying to avoid something.",
+        "The video clip depicts a group of young men playing basketball in an urban setting.",
+        "The video clip depicts a group of young boys and girls playing and running around in a street filled with various vehicles and items.",
+        "The video clip captures a lively scene in a bustling urban area where a group of young people are playing a game of hacky sack.",
+        "The video clip depicts a group of people in a bustling street scene, with a focus on a man in an orange shirt who is seen walking around and interacting with others.",
+        "The video clip depicts a group of young men gathered in a street, engaged in a lively and energetic game of rock-paper-scissors."
+      ]
+    ],
+    "events_summary": [
+      "There is no anomaly in the video. The video depicts normal activities. The video clip captures a group of children playing in a street scene with various vehicles and items scattered around. The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event.",
+      "There is no anomaly in the video. The video depicts normal activities. The video clip depicts a group of young men playing in a rundown area, with a focus on two individuals who are running around and playing with a ball. The video clip depicts a group of children playing in a street filled with various vehicles and items, including cars, motorcycles, and a truck. The video clip depicts a group of children playing in a street filled with various vehicles and items, including cars, motorcycles, and a truck. The video clip depicts a group of people playing in a street, with a focus on a man in an orange shirt who is running towards a group of children. The video clip depicts a group of people in a bustling urban area, with a focus on a man in a red shirt who is seen running through the street, possibly in a hurry or trying to avoid something. The video clip depicts a group of young men playing basketball in an urban setting. The video clip depicts a group of young boys and girls playing and running around in a street filled with various vehicles and items. The video clip captures a lively scene in a bustling urban area where a group of young people are playing a game of hacky sack. The video clip depicts a group of people in a bustling street scene, with a focus on a man in an orange shirt who is seen walking around and interacting with others. The video clip depicts a group of young men gathered in a street, engaged in a lively and energetic game of rock-paper-scissors. The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event."
+    ],
+    "video_summary": "There is no anomaly in the video. The video depicts normal activities. The video clip captures a group of children playing in a street scene with various vehicles and items scattered around. The video clip depicts a group of young men playing in a rundown area, with a focus on two individuals who are running around and playing with a ball. The video clip depicts a group of children playing in a street filled with various vehicles and items, including cars, motorcycles, and a truck. The video clip depicts a group of children playing in a street filled with various vehicles and items, including cars, motorcycles, and a truck. The video clip depicts a group of people playing in a street, with a focus on a man in an orange shirt who is running towards a group of children. The video clip depicts a group of people in a bustling urban area, with a focus on a man in a red shirt who is seen running through the street, possibly in a hurry or trying to avoid something. The video clip depicts a group of young men playing basketball in an urban setting. The video clip depicts a group of young boys and girls playing and running around in a street filled with various vehicles and items. The video clip captures a lively scene in a bustling urban area where a group of young people are playing a game of hacky sack. The video clip depicts a group of people in a bustling street scene, with a focus on a man in an orange shirt who is seen walking around and interacting with others. The video clip depicts a group of young men gathered in a street, engaged in a lively and energetic game of rock-paper-scissors. The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event.",
+    "events_summary_split": [
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities. The video clip captures a group of children playing in a street scene with various vehicles and items scattered around.",
+        "analysis": "The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event."
+      },
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities. The video clip depicts a group of young men playing in a rundown area, with a focus on two individuals who are running around and playing with a ball. The video clip depicts a group of children playing in a street filled with various vehicles and items, including cars, motorcycles, and a truck. The video clip depicts a group of children playing in a street filled with various vehicles and items, including cars, motorcycles, and a truck. The video clip depicts a group of people playing in a street, with a focus on a man in an orange shirt who is running towards a group of children. The video clip depicts a group of people in a bustling urban area, with a focus on a man in a red shirt who is seen running through the street, possibly in a hurry or trying to avoid something. The video clip depicts a group of young men playing basketball in an urban setting. The video clip depicts a group of young boys and girls playing and running around in a street filled with various vehicles and items. The video clip captures a lively scene in a bustling urban area where a group of young people are playing a game of hacky sack. The video clip depicts a group of people in a bustling street scene, with a focus on a man in an orange shirt who is seen walking around and interacting with others. The video clip depicts a group of young men gathered in a street, engaged in a lively and energetic game of rock-paper-scissors.",
+        "analysis": "The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event."
+      }
+    ],
+    "video_summary_split": {
+      "judgement": "There is no anomaly in the video.",
+      "description": "The video depicts normal activities. The video clip captures a group of children playing in a street scene with various vehicles and items scattered around. The video clip depicts a group of young men playing in a rundown area, with a focus on two individuals who are running around and playing with a ball. The video clip depicts a group of children playing in a street filled with various vehicles and items, including cars, motorcycles, and a truck. The video clip depicts a group of children playing in a street filled with various vehicles and items, including cars, motorcycles, and a truck. The video clip depicts a group of people playing in a street, with a focus on a man in an orange shirt who is running towards a group of children. The video clip depicts a group of people in a bustling urban area, with a focus on a man in a red shirt who is seen running through the street, possibly in a hurry or trying to avoid something. The video clip depicts a group of young men playing basketball in an urban setting. The video clip depicts a group of young boys and girls playing and running around in a street filled with various vehicles and items. The video clip captures a lively scene in a bustling urban area where a group of young people are playing a game of hacky sack. The video clip depicts a group of people in a bustling street scene, with a focus on a man in an orange shirt who is seen walking around and interacting with others. The video clip depicts a group of young men gathered in a street, engaged in a lively and energetic game of rock-paper-scissors.",
+      "analysis": "The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event."
+    }
+  },
+  "RoadAccidents002_x264": {
+    "n_frames": 347,
+    "fps": 30.0,
+    "label": [
+      "RoadAccidents"
+    ],
+    "events": [
+      [
+        0.0,
+        12.0
+      ]
+    ],
+    "clips": [
+      [
+        [
+          7.0,
+          12.0
+        ]
+      ]
+    ],
+    "clips_caption": [
+      [
+        "The video clip shows a busy city street scene with a large group of people walking around."
+      ]
+    ],
+    "events_summary": [
+      "There is no anomaly in the video. The video depicts normal activities. The video clip shows a busy city street scene with a large group of people walking around. The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event."
+    ],
+    "video_summary": "There is no anomaly in the video. The video depicts normal activities. The video clip shows a busy city street scene with a large group of people walking around. The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event.",
+    "events_summary_split": [
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities. The video clip shows a busy city street scene with a large group of people walking around.",
+        "analysis": "The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event."
+      }
+    ],
+    "video_summary_split": {
+      "judgement": "There is no anomaly in the video.",
+      "description": "The video depicts normal activities. The video clip shows a busy city street scene with a large group of people walking around.",
+      "analysis": "The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event."
+    }
+  },
+  "Shooting002_x264": {
+    "n_frames": 1206,
+    "fps": 30.0,
+    "label": [
+      "Shooting"
+    ],
+    "events": [
+      [
+        0.0,
+        40.0
+      ]
+    ],
+    "clips": [
+      [
+        [
+          0.0,
+          2.0
+        ]
+      ],
+      [
+        [
+          32.0,
+          39.0
+        ]
+      ]
+    ],
+    "clips_caption": [
+      [
+        "The video clip shows two men embracing each other in a parking lot."
+      ],
+      [
+        "The video clip shows a group of people gathered in a parking lot, with several cars parked around them."
+      ]
+    ],
+    "events_summary": [
+      "There is no anomaly in the video. The video depicts normal activities. The video clip shows two men embracing each other in a parking lot. The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event.",
+      "There is no anomaly in the video. The video depicts normal activities. The video clip shows a group of people gathered in a parking lot, with several cars parked around them. The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event."
+    ],
+    "video_summary": "There is no anomaly in the video. The video depicts normal activities. The video clip shows two men embracing each other in a parking lot. The video clip shows a group of people gathered in a parking lot, with several cars parked around them. The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event.",
+    "events_summary_split": [
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities. The video clip shows two men embracing each other in a parking lot.",
+        "analysis": "The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event."
+      },
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities. The video clip shows a group of people gathered in a parking lot, with several cars parked around them.",
+        "analysis": "The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event."
+      }
+    ],
+    "video_summary_split": {
+      "judgement": "There is no anomaly in the video.",
+      "description": "The video depicts normal activities. The video clip shows two men embracing each other in a parking lot. The video clip shows a group of people gathered in a parking lot, with several cars parked around them.",
+      "analysis": "The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event."
+    }
+  },
+  "Shooting007_x264": {
+    "n_frames": 1430,
+    "fps": 30.0,
+    "label": [
+      "Shooting"
+    ],
+    "events": [
+      [
+        0.0,
+        48.0
+      ]
+    ],
+    "clips": [
+      [
+        [
+          0.5,
+          12.0
+        ]
+      ],
+      [
+        [
+          12.5,
+          21.699
+        ],
+        [
+          21.699,
+          27.0
+        ]
+      ]
+    ],
+    "clips_caption": [
+      [
+        "The video clip shows a person playing with a dog in a backyard."
+      ],
+      [
+        "The video clip shows a group of people standing outside in a fenced area, with one person walking away from the group.",
+        "The video clip shows a group of people gathered in a parking lot at night, with one person standing on a rooftop."
+      ]
+    ],
+    "events_summary": [
+      "There is no anomaly in the video. The video depicts normal activities. The video clip shows a person playing with a dog in a backyard. The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event.",
+      "There is no anomaly in the video. The video depicts normal activities. The video clip shows a group of people standing outside in a fenced area, with one person walking away from the group. The video clip shows a group of people gathered in a parking lot at night, with one person standing on a rooftop. The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event."
+    ],
+    "video_summary": "There is no anomaly in the video. The video depicts normal activities. The video clip shows a person playing with a dog in a backyard. The video clip shows a group of people standing outside in a fenced area, with one person walking away from the group. The video clip shows a group of people gathered in a parking lot at night, with one person standing on a rooftop. The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event.",
+    "events_summary_split": [
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities. The video clip shows a person playing with a dog in a backyard.",
+        "analysis": "The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event."
+      },
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities. The video clip shows a group of people standing outside in a fenced area, with one person walking away from the group. The video clip shows a group of people gathered in a parking lot at night, with one person standing on a rooftop.",
+        "analysis": "The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event."
+      }
+    ],
+    "video_summary_split": {
+      "judgement": "There is no anomaly in the video.",
+      "description": "The video depicts normal activities. The video clip shows a person playing with a dog in a backyard. The video clip shows a group of people standing outside in a fenced area, with one person walking away from the group. The video clip shows a group of people gathered in a parking lot at night, with one person standing on a rooftop.",
+      "analysis": "The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event."
+    }
+  },
+  "Shooting019_x264": {
+    "n_frames": 2756,
+    "fps": 30.0,
+    "label": [
+      "Shooting"
+    ],
+    "events": [
+      [
+        18.0,
+        80.0
+      ]
+    ],
+    "clips": [
+      [
+        [
+          21.0,
+          30.0
+        ]
+      ],
+      [
+        [
+          31.0,
+          39.36
+        ],
+        [
+          39.36,
+          45.123
+        ],
+        [
+          45.123,
+          53.837
+        ],
+        [
+          53.837,
+          64.313
+        ],
+        [
+          64.313,
+          71.0
+        ]
+      ]
+    ],
+    "clips_caption": [
+      [
+        "The video clip shows a group of people gathered around a car parked on the side of a street."
+      ],
+      [
+        "The video clip shows a group of people in a parking lot at night, with one person standing in the middle of the frame and another person walking towards them.",
+        "The video clip shows a group of people in a parking lot, with one person getting out of a car and another person running towards them.",
+        "The video clip shows a group of people in a parking lot, with one person in a bear costume and another person in a car.",
+        "The video clip shows a man in a white suit and hat standing next to a car, seemingly in a parking lot or street.",
+        "The video clip shows a man walking towards a car in a parking lot, possibly in a parking garage, with a person in a white suit standing next to it."
+      ]
+    ],
+    "events_summary": [
+      "There is no anomaly in the video. The video depicts normal activities. The video clip shows a group of people gathered around a car parked on the side of a street. The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event.",
+      "There is no anomaly in the video. The video depicts normal activities. The video clip shows a group of people in a parking lot at night, with one person standing in the middle of the frame and another person walking towards them. The video clip shows a group of people in a parking lot, with one person getting out of a car and another person running towards them. The video clip shows a group of people in a parking lot, with one person in a bear costume and another person in a car. The video clip shows a man in a white suit and hat standing next to a car, seemingly in a parking lot or street. The video clip shows a man walking towards a car in a parking lot, possibly in a parking garage, with a person in a white suit standing next to it. The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event."
+    ],
+    "video_summary": "There is no anomaly in the video. The video depicts normal activities. The video clip shows a group of people gathered around a car parked on the side of a street. The video clip shows a group of people in a parking lot at night, with one person standing in the middle of the frame and another person walking towards them. The video clip shows a group of people in a parking lot, with one person getting out of a car and another person running towards them. The video clip shows a group of people in a parking lot, with one person in a bear costume and another person in a car. The video clip shows a man in a white suit and hat standing next to a car, seemingly in a parking lot or street. The video clip shows a man walking towards a car in a parking lot, possibly in a parking garage, with a person in a white suit standing next to it. The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event.",
+    "events_summary_split": [
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities. The video clip shows a group of people gathered around a car parked on the side of a street.",
+        "analysis": "The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event."
+      },
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities. The video clip shows a group of people in a parking lot at night, with one person standing in the middle of the frame and another person walking towards them. The video clip shows a group of people in a parking lot, with one person getting out of a car and another person running towards them. The video clip shows a group of people in a parking lot, with one person in a bear costume and another person in a car. The video clip shows a man in a white suit and hat standing next to a car, seemingly in a parking lot or street. The video clip shows a man walking towards a car in a parking lot, possibly in a parking garage, with a person in a white suit standing next to it.",
+        "analysis": "The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event."
+      }
+    ],
+    "video_summary_split": {
+      "judgement": "There is no anomaly in the video.",
+      "description": "The video depicts normal activities. The video clip shows a group of people gathered around a car parked on the side of a street. The video clip shows a group of people in a parking lot at night, with one person standing in the middle of the frame and another person walking towards them. The video clip shows a group of people in a parking lot, with one person getting out of a car and another person running towards them. The video clip shows a group of people in a parking lot, with one person in a bear costume and another person in a car. The video clip shows a man in a white suit and hat standing next to a car, seemingly in a parking lot or street. The video clip shows a man walking towards a car in a parking lot, possibly in a parking garage, with a person in a white suit standing next to it.",
+      "analysis": "The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event."
+    }
+  },
+  "Shoplifting037_x264": {
+    "n_frames": 1386,
+    "fps": 30.0,
+    "label": [
+      "Shoplifting"
+    ],
+    "events": [
+      [
+        29.0,
+        43.0
+      ]
+    ],
+    "clips": [
+      [
+        [
+          33.0,
+          38.5
+        ]
+      ],
+      [
+        [
+          38.7,
+          43.0
+        ]
+      ]
+    ],
+    "clips_caption": [
+      [
+        "The video clip shows two men in an office setting."
+      ],
+      [
+        "The video clip shows a man in a room with a desk, surrounded by chairs and tables."
+      ]
+    ],
+    "events_summary": [
+      "There is no anomaly in the video. The video depicts normal activities. The video clip shows two men in an office setting. The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event.",
+      "There is no anomaly in the video. The video depicts normal activities. The video clip shows a man in a room with a desk, surrounded by chairs and tables. The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event."
+    ],
+    "video_summary": "There is no anomaly in the video. The video depicts normal activities. The video clip shows two men in an office setting. The video clip shows a man in a room with a desk, surrounded by chairs and tables. The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event.",
+    "events_summary_split": [
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities. The video clip shows two men in an office setting.",
+        "analysis": "The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event."
+      },
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities. The video clip shows a man in a room with a desk, surrounded by chairs and tables.",
+        "analysis": "The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event."
+      }
+    ],
+    "video_summary_split": {
+      "judgement": "There is no anomaly in the video.",
+      "description": "The video depicts normal activities. The video clip shows two men in an office setting. The video clip shows a man in a room with a desk, surrounded by chairs and tables.",
+      "analysis": "The basis for judging that no anomaly exists is that the available descriptions do not provide clear visual evidence of an abnormal event."
+    }
+  },
+  "Normal_Videos_100_x264": {
+    "n_frames": 627,
+    "fps": 30.0,
+    "label": [],
+    "events": [
+      [
+        0.116,
+        16.365
+      ]
+    ],
+    "clips": [
+      [
+        [
+          0.116,
+          4.168
+        ],
+        [
+          4.168,
+          14.615
+        ],
+        [
+          14.615,
+          16.365
+        ]
+      ]
+    ],
+    "clips_caption": [
+      [
+        "The video clip shows a store called \"Kel & Company\" with two employees, a man and a woman, standing behind the counter.",
+        "The video clip shows a store called \"Kel & Company\" with a modern and well-lit interior.",
+        "The video clip shows a group of people working in a store, with a focus on a woman who is standing behind a counter and a man who is standing in front of it."
+      ]
+    ],
+    "events_summary": [
+      "There is no anomaly in the video. The video depicts normal activities in a store called 'Kel & Company'. Two employees, a man and a woman, are seen working behind the counter. The store interior appears modern and well-lit. The basis for judging that no anomaly exists is that the dense captions describe a typical store setting with employees performing their duties. There are no indications of any abnormal events, disturbances, or unusual activities that would warrant an annotation of an anomaly."
+    ],
+    "video_summary": "There is no anomaly in the video. The video depicts normal activities in a modern, well-lit store called 'Kel & Company'. Two employees, a man and a woman, are seen working behind the counter. No abnormal events are observed. The basis for judging that no anomaly exists is the lack of any unusual or unexpected events in the store. The employees appear to be engaged in typical retail work activities, and the store environment seems normal and orderly.",
+    "events_summary_split": [
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities in a store called 'Kel & Company'. Two employees, a man and a woman, are seen working behind the counter. The store interior appears modern and well-lit.",
+        "analysis": "The basis for judging that no anomaly exists is that the dense captions describe a typical store setting with employees performing their duties. There are no indications of any abnormal events, disturbances, or unusual activities that would warrant an annotation of an anomaly."
+      }
+    ],
+    "video_summary_split": {
+      "judgement": "There is no anomaly in the video.",
+      "description": "The video depicts normal activities in a modern, well-lit store called 'Kel & Company'. Two employees, a man and a woman, are seen working behind the counter. No abnormal events are observed.",
+      "analysis": "The basis for judging that no anomaly exists is the lack of any unusual or unexpected events in the store. The employees appear to be engaged in typical retail work activities, and the store environment seems normal and orderly."
+    }
+  },
+  "Normal_Videos_246_x264": {
+    "n_frames": 4993,
+    "fps": 30.0,
+    "label": [],
+    "events": [
+      [
+        39.12,
+        56.663
+      ],
+      [
+        133.323,
+        151.261
+      ]
+    ],
+    "clips": [
+      [
+        [
+          39.12,
+          48.705
+        ],
+        [
+          48.705,
+          56.663
+        ]
+      ],
+      [
+        [
+          133.323,
+          140.045
+        ],
+        [
+          140.045,
+          151.261
+        ]
+      ]
+    ],
+    "clips_caption": [
+      [
+        "The video clip shows a man in a room with multiple computer monitors and keyboards, surrounded by other people.",
+        "The video clip shows a man in a casino setting, standing in front of a counter and talking to a camera."
+      ],
+      [
+        "The video clip shows a group of people in an office setting, with a focus on three men who are engaged in a conversation.",
+        "The video clip shows a group of people working in an office environment, with a focus on two individuals who are engaged in a conversation."
+      ]
+    ],
+    "events_summary": [
+      "There is no anomaly in the video. The video depicts normal activities in two different settings. In the first scene, a man is in a room with computer monitors and keyboards, surrounded by other people. This could be a work environment or an office setting. In the second scene, the man is in a casino setting, standing in front of a counter and talking to a camera. This could be a promotional video or an interview. The basis for judging that no anomaly exists is that the dense captions describe two normal, everyday scenes that do not contain any abnormal or unusual events. There are no indications of any anomalies, disturbances, or unexpected occurrences in either of the described settings.",
+      "There is no anomaly in the video. The video depicts normal activities of people working and conversing in an office setting. The basis for judging that no anomaly exists is that the dense captions describe a typical office scene with people working and talking, which does not indicate any abnormal or unusual events."
+    ],
+    "video_summary": "There is no anomaly in the video. The video depicts normal activities in two different settings. In the first scene, a man is working in an office or work environment surrounded by other people. In the second scene, the same man is in a casino setting, possibly participating in a promotional video or interview. Additionally, there are people working and conversing in an office setting. The basis for judging that no anomaly exists is the lack of any abnormal or unexpected events in the video. The activities described, such as working in an office and participating in a promotional video or interview, are all normal and expected behaviors. Furthermore, the presence of people working and conversing in an office setting is also a typical occurrence and does not indicate any anomalies.",
+    "events_summary_split": [
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities in two different settings. In the first scene, a man is in a room with computer monitors and keyboards, surrounded by other people. This could be a work environment or an office setting. In the second scene, the man is in a casino setting, standing in front of a counter and talking to a camera. This could be a promotional video or an interview.",
+        "analysis": "The basis for judging that no anomaly exists is that the dense captions describe two normal, everyday scenes that do not contain any abnormal or unusual events. There are no indications of any anomalies, disturbances, or unexpected occurrences in either of the described settings."
+      },
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities of people working and conversing in an office setting.",
+        "analysis": "The basis for judging that no anomaly exists is that the dense captions describe a typical office scene with people working and talking, which does not indicate any abnormal or unusual events."
+      }
+    ],
+    "video_summary_split": {
+      "judgement": "There is no anomaly in the video.",
+      "description": "The video depicts normal activities in two different settings. In the first scene, a man is working in an office or work environment surrounded by other people. In the second scene, the same man is in a casino setting, possibly participating in a promotional video or interview. Additionally, there are people working and conversing in an office setting.",
+      "analysis": "The basis for judging that no anomaly exists is the lack of any abnormal or unexpected events in the video. The activities described, such as working in an office and participating in a promotional video or interview, are all normal and expected behaviors. Furthermore, the presence of people working and conversing in an office setting is also a typical occurrence and does not indicate any anomalies."
+    }
+  },
+  "Normal_Videos_248_x264": {
+    "n_frames": 1140,
+    "fps": 30.0,
+    "label": [],
+    "events": [
+      [
+        5.09,
+        19.88
+      ],
+      [
+        21.481,
+        29.676
+      ]
+    ],
+    "clips": [
+      [
+        [
+          5.09,
+          10.334
+        ],
+        [
+          10.334,
+          19.88
+        ]
+      ],
+      [
+        [
+          21.481,
+          29.676
+        ]
+      ]
+    ],
+    "clips_caption": [
+      [
+        "The video clip shows a man in a white shirt and black pants walking up a set of stairs, followed by a man in a white shirt and black pants walking down the stairs.",
+        "The video clip shows a group of men entering a building, with one man carrying a newspaper."
+      ],
+      [
+        "The video clip shows a group of men gathered outside a building, engaged in conversation."
+      ]
+    ],
+    "events_summary": [
+      "There is no anomaly in the video. The video depicts normal activities, with a man walking up and down stairs, and a group of men entering a building with one man carrying a newspaper. The basis for judging that no anomaly exists is that the dense captions describe routine activities that do not indicate any abnormal or concerning events. The actions of the individuals are consistent with normal behavior, and there are no indications of any unusual or alarming situations.",
+      "There is no anomaly in the video. The video depicts normal activities of a group of men gathered outside a building, engaged in conversation. The basis for judging that no anomaly exists is the lack of any explicit indications of abnormal events, disturbances, or unusual activities in the provided dense caption."
+    ],
+    "video_summary": "There is no anomaly in the video. The video depicts normal activities such as people walking and conversing. The basis for judging that no anomaly exists is that the event summaries provided do not indicate any abnormal or concerning events, such as unusual behavior, sounds, or reactions. The activities described are typical for a public setting and do not suggest any anomalies.",
+    "events_summary_split": [
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities, with a man walking up and down stairs, and a group of men entering a building with one man carrying a newspaper.",
+        "analysis": "The basis for judging that no anomaly exists is that the dense captions describe routine activities that do not indicate any abnormal or concerning events. The actions of the individuals are consistent with normal behavior, and there are no indications of any unusual or alarming situations."
+      },
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities of a group of men gathered outside a building, engaged in conversation.",
+        "analysis": "The basis for judging that no anomaly exists is the lack of any explicit indications of abnormal events, disturbances, or unusual activities in the provided dense caption."
+      }
+    ],
+    "video_summary_split": {
+      "judgement": "There is no anomaly in the video.",
+      "description": "The video depicts normal activities such as people walking and conversing.",
+      "analysis": "The basis for judging that no anomaly exists is that the event summaries provided do not indicate any abnormal or concerning events, such as unusual behavior, sounds, or reactions. The activities described are typical for a public setting and do not suggest any anomalies."
+    }
+  },
+  "Normal_Videos_251_x264": {
+    "n_frames": 405,
+    "fps": 30.0,
+    "label": [],
+    "events": [
+      [
+        0.94,
+        12.689
+      ]
+    ],
+    "clips": [
+      [
+        [
+          0.94,
+          12.689
+        ]
+      ]
+    ],
+    "clips_caption": [
+      [
+        "The video clip shows a man walking down a street, passing by a parking meter, and a car parked on the side of the road."
+      ]
+    ],
+    "events_summary": [
+      "There is no anomaly in the video. The video depicts normal activities, showing a man walking down a street, passing by a parking meter, and a car parked on the side of the road. The basis for judging that no anomaly exists is the lack of any abnormal events or activities mentioned in the dense caption. The described actions are all part of normal, everyday occurrences and do not indicate any unusual or concerning situations."
+    ],
+    "video_summary": "There is no anomaly in the video. The video depicts normal activities, showing a man walking down a street, passing by a parking meter, and a car parked on the side of the road. The basis for judging that no anomaly exists is the lack of any abnormal events or activities mentioned in the event summary. The summary describes a typical, mundane scene without any indications of unusual, alarming, or unexpected occurrences.",
+    "events_summary_split": [
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities, showing a man walking down a street, passing by a parking meter, and a car parked on the side of the road.",
+        "analysis": "The basis for judging that no anomaly exists is the lack of any abnormal events or activities mentioned in the dense caption. The described actions are all part of normal, everyday occurrences and do not indicate any unusual or concerning situations."
+      }
+    ],
+    "video_summary_split": {
+      "judgement": "There is no anomaly in the video.",
+      "description": "The video depicts normal activities, showing a man walking down a street, passing by a parking meter, and a car parked on the side of the road.",
+      "analysis": "The basis for judging that no anomaly exists is the lack of any abnormal events or activities mentioned in the event summary. The summary describes a typical, mundane scene without any indications of unusual, alarming, or unexpected occurrences."
+    }
+  },
+  "Normal_Videos_401_x264": {
+    "n_frames": 1626,
+    "fps": 30.0,
+    "label": [],
+    "events": [
+      [
+        2.9,
+        27.631
+      ],
+      [
+        38.734,
+        50.981
+      ]
+    ],
+    "clips": [
+      [
+        [
+          2.9,
+          14.558
+        ],
+        [
+          14.558,
+          21.25
+        ],
+        [
+          21.25,
+          27.631
+        ]
+      ],
+      [
+        [
+          38.734,
+          43.476
+        ],
+        [
+          43.476,
+          50.981
+        ]
+      ]
+    ],
+    "clips_caption": [
+      [
+        "The video clip shows a man and a woman in a store, with the man using his phone and the woman looking at her phone.",
+        "The video clip shows a bustling supermarket with a variety of people engaged in different activities.",
+        "The video clip shows a man in a wheelchair navigating through a large supermarket, with various people and objects in the background."
+      ],
+      [
+        "The video clip shows a man walking through a large, well-lit supermarket, carrying a bag of groceries.",
+        "The video clip shows a bustling supermarket with various activities taking place."
+      ]
+    ],
+    "events_summary": [
+      "There is no anomaly in the video. The video depicts normal activities in a supermarket, with customers shopping and interacting. The basis for judging that no anomaly exists is that the dense captions describe typical scenes in a supermarket, including people using their phones, navigating through the store, and engaging in normal shopping activities. There are no indications of any abnormal events, disturbances, or unusual occurrences that would warrant an anomaly label.",
+      "There is no anomaly in the video. The video depicts normal activities in a bustling supermarket. The basis for judging that no anomaly exists is that the video shows a man walking through a large, well-lit supermarket carrying a bag of groceries, which is a typical scene in a supermarket. There are no indications of any abnormal events or unusual activities mentioned in the dense captions."
+    ],
+    "video_summary": "There is no anomaly in the video. The video depicts normal activities in a supermarket, with customers shopping and interacting in a bustling environment. The basis for judging that no anomaly exists is that the event summaries indicate that the video captures typical scenes of a supermarket, showing customers going about their shopping without any abnormal or concerning events. There is no evidence of any incidents, disturbances, or unusual activities that would warrant an annotation of an anomaly.",
+    "events_summary_split": [
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities in a supermarket, with customers shopping and interacting.",
+        "analysis": "The basis for judging that no anomaly exists is that the dense captions describe typical scenes in a supermarket, including people using their phones, navigating through the store, and engaging in normal shopping activities. There are no indications of any abnormal events, disturbances, or unusual occurrences that would warrant an anomaly label."
+      },
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities in a bustling supermarket.",
+        "analysis": "The basis for judging that no anomaly exists is that the video shows a man walking through a large, well-lit supermarket carrying a bag of groceries, which is a typical scene in a supermarket. There are no indications of any abnormal events or unusual activities mentioned in the dense captions."
+      }
+    ],
+    "video_summary_split": {
+      "judgement": "There is no anomaly in the video.",
+      "description": "The video depicts normal activities in a supermarket, with customers shopping and interacting in a bustling environment.",
+      "analysis": "The basis for judging that no anomaly exists is that the event summaries indicate that the video captures typical scenes of a supermarket, showing customers going about their shopping without any abnormal or concerning events. There is no evidence of any incidents, disturbances, or unusual activities that would warrant an annotation of an anomaly."
+    }
+  },
+  "Normal_Videos_417_x264": {
+    "n_frames": 1077,
+    "fps": 30.0,
+    "label": [],
+    "events": [
+      [
+        1.236,
+        16.054
+      ],
+      [
+        17.543,
+        33.076
+      ]
+    ],
+    "clips": [
+      [
+        [
+          1.236,
+          6.01
+        ],
+        [
+          6.01,
+          16.054
+        ]
+      ],
+      [
+        [
+          17.543,
+          28.323
+        ],
+        [
+          28.323,
+          33.076
+        ]
+      ]
+    ],
+    "clips_caption": [
+      [
+        "The video clip shows two men in a convenience store, with one man standing at the counter and the other man standing behind the counter.",
+        "The video clip shows two men in a convenience store, with one man standing at the counter and the other man behind the counter."
+      ],
+      [
+        "The video clip shows a man in a convenience store, where he is being served by a cashier.",
+        "The video clip shows a man in a white shirt and black pants standing in front of a convenience store, interacting with a cashier."
+      ]
+    ],
+    "events_summary": [
+      "There is no anomaly in the video. The video depicts normal activities in a convenience store, with two men engaging in what appears to be a typical interaction between a customer and a store employee. The basis for judging that no anomaly exists is the lack of any unusual or concerning behavior or events described in the dense captions. Both men are performing roles commonly seen in a convenience store setting, with one man standing at the counter and the other man standing behind the counter. There are no indications of any abnormal events, disturbances, or incidents that would suggest an anomaly is present.",
+      "There is no anomaly in the video. The video depicts normal activities of a man being served by a cashier in a convenience store. The basis for judging that no anomaly exists is that the dense captions describe a routine interaction between a customer and a cashier, which does not indicate any abnormal or unusual events."
+    ],
+    "video_summary": "There is no anomaly in the video. The video depicts normal activities involving a customer and a store employee in a convenience store, and a man being served by a cashier. The basis for judging that no anomaly exists is that the event summaries provided do not indicate any abnormal or unusual events, such as incidents, accidents, or unexpected behaviors. The interactions appear to be typical for a convenience store setting.",
+    "events_summary_split": [
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities in a convenience store, with two men engaging in what appears to be a typical interaction between a customer and a store employee.",
+        "analysis": "The basis for judging that no anomaly exists is the lack of any unusual or concerning behavior or events described in the dense captions. Both men are performing roles commonly seen in a convenience store setting, with one man standing at the counter and the other man standing behind the counter. There are no indications of any abnormal events, disturbances, or incidents that would suggest an anomaly is present."
+      },
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities of a man being served by a cashier in a convenience store.",
+        "analysis": "The basis for judging that no anomaly exists is that the dense captions describe a routine interaction between a customer and a cashier, which does not indicate any abnormal or unusual events."
+      }
+    ],
+    "video_summary_split": {
+      "judgement": "There is no anomaly in the video.",
+      "description": "The video depicts normal activities involving a customer and a store employee in a convenience store, and a man being served by a cashier.",
+      "analysis": "The basis for judging that no anomaly exists is that the event summaries provided do not indicate any abnormal or unusual events, such as incidents, accidents, or unexpected behaviors. The interactions appear to be typical for a convenience store setting."
+    }
+  },
+  "Normal_Videos_717_x264": {
+    "n_frames": 1255,
+    "fps": 30.0,
+    "label": [],
+    "events": [
+      [
+        11.04,
+        26.775
+      ],
+      [
+        26.988,
+        41.431
+      ]
+    ],
+    "clips": [
+      [
+        [
+          11.04,
+          19.87
+        ],
+        [
+          19.87,
+          26.775
+        ]
+      ],
+      [
+        [
+          26.988,
+          37.445
+        ],
+        [
+          37.445,
+          41.431
+        ]
+      ]
+    ],
+    "clips_caption": [
+      [
+        "The video clip depicts a lively office environment with a group of people engaged in various activities.",
+        "The video clip depicts a bustling office environment with a group of people engaged in various activities."
+      ],
+      [
+        "The video clip depicts a bustling office environment with a group of people engaged in various activities.",
+        "The video clip depicts a bustling office environment with a group of people engaged in various activities."
+      ]
+    ],
+    "events_summary": [
+      "There is no anomaly in the video. The video depicts normal activities in a lively office environment where a group of people are engaged in various activities. The basis for judging that no anomaly exists is that the dense captions describe a typical office scene without any abnormal events or incidents, indicating that the video is depicting a normal day at the office.",
+      "There is no anomaly in the video. The video depicts normal activities in a bustling office environment, with people engaged in various tasks and interactions. The basis for judging that no anomaly exists is that the dense captions describe a typical office scene without any abnormal events or incidents, indicating that the video is depicting a normal day at the office."
+    ],
+    "video_summary": "There is no anomaly in the video. The video depicts normal activities in a lively and bustling office environment where people are engaged in various tasks and interactions. The basis for judging that no anomaly exists is that the event summaries describe a typical office setting with people working and interacting, which does not indicate any abnormal or unusual events that would constitute an anomaly.",
+    "events_summary_split": [
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities in a lively office environment where a group of people are engaged in various activities.",
+        "analysis": "The basis for judging that no anomaly exists is that the dense captions describe a typical office scene without any abnormal events or incidents, indicating that the video is depicting a normal day at the office."
+      },
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities in a bustling office environment, with people engaged in various tasks and interactions.",
+        "analysis": "The basis for judging that no anomaly exists is that the dense captions describe a typical office scene without any abnormal events or incidents, indicating that the video is depicting a normal day at the office."
+      }
+    ],
+    "video_summary_split": {
+      "judgement": "There is no anomaly in the video.",
+      "description": "The video depicts normal activities in a lively and bustling office environment where people are engaged in various tasks and interactions.",
+      "analysis": "The basis for judging that no anomaly exists is that the event summaries describe a typical office setting with people working and interacting, which does not indicate any abnormal or unusual events that would constitute an anomaly."
+    }
+  },
+  "Normal_Videos_745_x264": {
+    "n_frames": 305,
+    "fps": 30.0,
+    "label": [],
+    "events": [
+      [
+        0.092,
+        10.166
+      ]
+    ],
+    "clips": [
+      [
+        [
+          0.092,
+          10.166
+        ]
+      ]
+    ],
+    "clips_caption": [
+      [
+        "The video clip shows a group of people enjoying a game of bowling in a bowling alley."
+      ]
+    ],
+    "events_summary": [
+      "There is no anomaly in the video. The video depicts normal activities of people enjoying a game of bowling in a bowling alley. The basis for judging that no anomaly exists is the description of a typical, non-eventful scene of people engaging in a common recreational activity without any mentioned disturbances or abnormalities."
+    ],
+    "video_summary": "There is no anomaly in the video. The video depicts normal activities of people enjoying a game of bowling in a bowling alley. The basis for judging that no anomaly exists is that the provided event summary describes a typical, non-threatening situation where people are engaging in a common recreational activity without any indications of abnormal or concerning events.",
+    "events_summary_split": [
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities of people enjoying a game of bowling in a bowling alley.",
+        "analysis": "The basis for judging that no anomaly exists is the description of a typical, non-eventful scene of people engaging in a common recreational activity without any mentioned disturbances or abnormalities."
+      }
+    ],
+    "video_summary_split": {
+      "judgement": "There is no anomaly in the video.",
+      "description": "The video depicts normal activities of people enjoying a game of bowling in a bowling alley.",
+      "analysis": "The basis for judging that no anomaly exists is that the provided event summary describes a typical, non-threatening situation where people are engaging in a common recreational activity without any indications of abnormal or concerning events."
+    }
+  },
+  "Normal_Videos_778_x264": {
+    "n_frames": 1262,
+    "fps": 30.0,
+    "label": [],
+    "events": [
+      [
+        11.842,
+        32.443
+      ]
+    ],
+    "clips": [
+      [
+        [
+          11.842,
+          21.68
+        ],
+        [
+          21.68,
+          32.443
+        ]
+      ]
+    ],
+    "clips_caption": [
+      [
+        "The video clip shows a large warehouse with several workers, who are busy with their tasks.",
+        "The video clip shows a large warehouse with several workers, who are busy with their tasks."
+      ]
+    ],
+    "events_summary": [
+      "There is no anomaly in the video. The video depicts normal activities of workers in a warehouse, performing their tasks. The basis for judging that no anomaly exists is that the dense captions describe a typical warehouse scene with workers busy with their tasks, indicating no abnormal events or anomalies."
+    ],
+    "video_summary": "There is no anomaly in the video. The video depicts normal activities of workers in a warehouse, performing their tasks. The basis for judging that no anomaly exists is that the provided event summary only describes routine work activities without any mention of abnormal events, incidents, or deviations from normal operations.",
+    "events_summary_split": [
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities of workers in a warehouse, performing their tasks.",
+        "analysis": "The basis for judging that no anomaly exists is that the dense captions describe a typical warehouse scene with workers busy with their tasks, indicating no abnormal events or anomalies."
+      }
+    ],
+    "video_summary_split": {
+      "judgement": "There is no anomaly in the video.",
+      "description": "The video depicts normal activities of workers in a warehouse, performing their tasks.",
+      "analysis": "The basis for judging that no anomaly exists is that the provided event summary only describes routine work activities without any mention of abnormal events, incidents, or deviations from normal operations."
+    }
+  },
+  "Normal_Videos_831_x264": {
+    "n_frames": 448,
+    "fps": 30.0,
+    "label": [],
+    "events": [
+      [
+        0.308,
+        10.834
+      ]
+    ],
+    "clips": [
+      [
+        [
+          0.308,
+          10.834
+        ]
+      ]
+    ],
+    "clips_caption": [
+      [
+        "The video clip shows a white van parked in a parking lot, with a person standing outside the vehicle."
+      ]
+    ],
+    "events_summary": [
+      "There is no anomaly in the video. The video depicts normal activities with a white van parked in a parking lot and a person standing outside the vehicle. The basis for judging that no anomaly exists is the lack of any abnormal events or activities mentioned in the dense caption, which only describes a typical scene of a vehicle parked with a person nearby."
+    ],
+    "video_summary": "There is no anomaly in the video. The video depicts normal activities with a white van parked in a parking lot and a person standing outside the vehicle. The basis for judging that no anomaly exists is the lack of any abnormal or concerning events mentioned in the provided event summary. The summary only describes a typical scene of a vehicle and a person in a parking lot, which does not indicate any unusual or problematic behavior.",
+    "events_summary_split": [
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities with a white van parked in a parking lot and a person standing outside the vehicle.",
+        "analysis": "The basis for judging that no anomaly exists is the lack of any abnormal events or activities mentioned in the dense caption, which only describes a typical scene of a vehicle parked with a person nearby."
+      }
+    ],
+    "video_summary_split": {
+      "judgement": "There is no anomaly in the video.",
+      "description": "The video depicts normal activities with a white van parked in a parking lot and a person standing outside the vehicle.",
+      "analysis": "The basis for judging that no anomaly exists is the lack of any abnormal or concerning events mentioned in the provided event summary. The summary only describes a typical scene of a vehicle and a person in a parking lot, which does not indicate any unusual or problematic behavior."
+    }
+  },
+  "Normal_Videos_869_x264": {
+    "n_frames": 2401,
+    "fps": 30.0,
+    "label": [],
+    "events": [
+      [
+        16.854,
+        35.509
+      ],
+      [
+        43.253,
+        55.456
+      ]
+    ],
+    "clips": [
+      [
+        [
+          16.854,
+          25.144
+        ],
+        [
+          25.144,
+          35.509
+        ]
+      ],
+      [
+        [
+          43.253,
+          55.038
+        ],
+        [
+          55.038,
+          55.456
+        ]
+      ]
+    ],
+    "clips_caption": [
+      [
+        "The video clip shows a room with three black chairs and a white rug.",
+        "The video clip shows a room with several chairs and boxes."
+      ],
+      [
+        "The video clip shows a room with three black chairs and a white rug.",
+        "The video clip shows a room with several chairs and boxes."
+      ]
+    ],
+    "events_summary": [
+      "There is no anomaly in the video. The video depicts normal activities, showing a room with three black chairs and a white rug, and another scene showing a room with several chairs and boxes. The basis for judging that no anomaly exists is that the described scenes are normal and do not indicate any abnormal or concerning events.",
+      "There is no anomaly in the video. The video depicts normal activities, showing a room with three black chairs and a white rug, and another scene showing a room with several chairs and boxes. The basis for judging that no anomaly exists is that the described scenes are normal and do not indicate any abnormal or concerning events."
+    ],
+    "video_summary": "There is no anomaly in the video. The video depicts normal activities, showing two scenes of a room with three black chairs and a white rug, and another scene showing a room with several chairs and boxes. The basis for judging that no anomaly exists is the lack of any abnormal or unexpected events in the provided event summaries. The scenes described are all normal, mundane activities without any indications of unusual, alarming, or out-of-place occurrences.",
+    "events_summary_split": [
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities, showing a room with three black chairs and a white rug, and another scene showing a room with several chairs and boxes.",
+        "analysis": "The basis for judging that no anomaly exists is that the described scenes are normal and do not indicate any abnormal or concerning events."
+      },
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities, showing a room with three black chairs and a white rug, and another scene showing a room with several chairs and boxes.",
+        "analysis": "The basis for judging that no anomaly exists is that the described scenes are normal and do not indicate any abnormal or concerning events."
+      }
+    ],
+    "video_summary_split": {
+      "judgement": "There is no anomaly in the video.",
+      "description": "The video depicts normal activities, showing two scenes of a room with three black chairs and a white rug, and another scene showing a room with several chairs and boxes.",
+      "analysis": "The basis for judging that no anomaly exists is the lack of any abnormal or unexpected events in the provided event summaries. The scenes described are all normal, mundane activities without any indications of unusual, alarming, or out-of-place occurrences."
+    }
+  },
+  "Normal_Videos_870_x264": {
+    "n_frames": 601,
+    "fps": 30.0,
+    "label": [],
+    "events": [
+      [
+        3.172,
+        12.104
+      ]
+    ],
+    "clips": [
+      [
+        [
+          3.172,
+          12.104
+        ]
+      ]
+    ],
+    "clips_caption": [
+      [
+        "The video clip shows a man in a warehouse setting, lifting a cardboard box onto a table."
+      ]
+    ],
+    "events_summary": [
+      "There is no anomaly in the video. The video depicts normal activities, showing a man in a warehouse setting lifting a cardboard box and placing it on a table. The basis for judging that no anomaly exists is the lack of any abnormal or unexpected events mentioned in the dense caption. The described action of lifting a box and placing it on a table is a normal, expected activity in a warehouse setting."
+    ],
+    "video_summary": "There is no anomaly in the video. The video depicts normal activities involving a man in a warehouse setting lifting a cardboard box and placing it on a table. The basis for judging that no anomaly exists is the lack of any abnormal or unexpected events in the provided event summary, which only describes a routine task of moving a box.",
+    "events_summary_split": [
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities, showing a man in a warehouse setting lifting a cardboard box and placing it on a table.",
+        "analysis": "The basis for judging that no anomaly exists is the lack of any abnormal or unexpected events mentioned in the dense caption. The described action of lifting a box and placing it on a table is a normal, expected activity in a warehouse setting."
+      }
+    ],
+    "video_summary_split": {
+      "judgement": "There is no anomaly in the video.",
+      "description": "The video depicts normal activities involving a man in a warehouse setting lifting a cardboard box and placing it on a table.",
+      "analysis": "The basis for judging that no anomaly exists is the lack of any abnormal or unexpected events in the provided event summary, which only describes a routine task of moving a box."
+    }
+  },
+  "Normal_Videos_872_x264": {
+    "n_frames": 530,
+    "fps": 30.0,
+    "label": [],
+    "events": [
+      [
+        1.685,
+        17.605
+      ]
+    ],
+    "clips": [
+      [
+        [
+          1.685,
+          8.713
+        ],
+        [
+          8.713,
+          17.605
+        ]
+      ]
+    ],
+    "clips_caption": [
+      [
+        "The video clip captures a bustling city street scene at night, with various vehicles and pedestrians in motion.",
+        "The video clip captures a bustling city street scene at night, with various vehicles and pedestrians in motion."
+      ]
+    ],
+    "events_summary": [
+      "There is no anomaly in the video. The video depicts normal activities of a bustling city street scene at night, with various vehicles and pedestrians in motion. The basis for judging that no anomaly exists is that the dense captions describe a typical city street scene with no mention of any abnormal events or unusual activities. The video appears to be capturing a normal night-time scene in a busy urban area, with no indications of any anomalies or disruptions."
+    ],
+    "video_summary": "There is no anomaly in the video. The video depicts normal activities of a bustling city street scene at night, with various vehicles and pedestrians in motion. The basis for judging that no anomaly exists is the lack of any abnormal events or activities mentioned in the provided event summary. The summary only describes typical nighttime city street scenes without any indications of unusual or concerning events.",
+    "events_summary_split": [
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities of a bustling city street scene at night, with various vehicles and pedestrians in motion.",
+        "analysis": "The basis for judging that no anomaly exists is that the dense captions describe a typical city street scene with no mention of any abnormal events or unusual activities. The video appears to be capturing a normal night-time scene in a busy urban area, with no indications of any anomalies or disruptions."
+      }
+    ],
+    "video_summary_split": {
+      "judgement": "There is no anomaly in the video.",
+      "description": "The video depicts normal activities of a bustling city street scene at night, with various vehicles and pedestrians in motion.",
+      "analysis": "The basis for judging that no anomaly exists is the lack of any abnormal events or activities mentioned in the provided event summary. The summary only describes typical nighttime city street scenes without any indications of unusual or concerning events."
+    }
+  },
+  "Normal_Videos_876_x264": {
+    "n_frames": 351,
+    "fps": 30.0,
+    "label": [],
+    "events": [
+      [
+        0.334,
+        9.264
+      ]
+    ],
+    "clips": [
+      [
+        [
+          0.334,
+          9.264
+        ]
+      ]
+    ],
+    "clips_caption": [
+      [
+        "The video clip shows a bustling supermarket scene with a large group of people shopping and working."
+      ]
+    ],
+    "events_summary": [
+      "There is no anomaly in the video. The video depicts normal activities of a bustling supermarket scene with a large group of people shopping and working. The basis for judging that no anomaly exists is that the dense caption describes a typical supermarket environment where people are engaged in their daily shopping and work activities. There are no indications of any abnormal events, disturbances, or incidents that would warrant an annotation of an anomaly."
+    ],
+    "video_summary": "There is no anomaly in the video. The video depicts normal activities of a bustling supermarket scene with a large group of people shopping and working. The basis for judging that no anomaly exists is the lack of any abnormal events or incidents mentioned in the provided event summary, which only describes typical activities occurring in a supermarket environment.",
+    "events_summary_split": [
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities of a bustling supermarket scene with a large group of people shopping and working.",
+        "analysis": "The basis for judging that no anomaly exists is that the dense caption describes a typical supermarket environment where people are engaged in their daily shopping and work activities. There are no indications of any abnormal events, disturbances, or incidents that would warrant an annotation of an anomaly."
+      }
+    ],
+    "video_summary_split": {
+      "judgement": "There is no anomaly in the video.",
+      "description": "The video depicts normal activities of a bustling supermarket scene with a large group of people shopping and working.",
+      "analysis": "The basis for judging that no anomaly exists is the lack of any abnormal events or incidents mentioned in the provided event summary, which only describes typical activities occurring in a supermarket environment."
+    }
+  },
+  "Normal_Videos_878_x264": {
+    "n_frames": 265,
+    "fps": 30.0,
+    "label": [],
+    "events": [
+      [
+        0.267,
+        8.806
+      ]
+    ],
+    "clips": [
+      [
+        [
+          0.267,
+          8.806
+        ]
+      ]
+    ],
+    "clips_caption": [
+      [
+        "The video clip shows a street scene at night with multiple cars parked along the curb."
+      ]
+    ],
+    "events_summary": [
+      "There is no anomaly in the video. The video depicts normal activities with cars parked along the curb on a street at night. The basis for judging that no anomaly exists is that the dense caption describes a typical street scene without any abnormal events or incidents, indicating that the video is normal and does not contain any anomalies."
+    ],
+    "video_summary": "There is no anomaly in the video. The video depicts normal activities with cars parked along the curb on a street at night. The basis for judging that no anomaly exists is the lack of any abnormal events or activities mentioned in the provided event summary. The summary only describes a typical scene of cars parked on a street, which is a normal occurrence and not indicative of any unusual or anomalous behavior.",
+    "events_summary_split": [
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities with cars parked along the curb on a street at night.",
+        "analysis": "The basis for judging that no anomaly exists is that the dense caption describes a typical street scene without any abnormal events or incidents, indicating that the video is normal and does not contain any anomalies."
+      }
+    ],
+    "video_summary_split": {
+      "judgement": "There is no anomaly in the video.",
+      "description": "The video depicts normal activities with cars parked along the curb on a street at night.",
+      "analysis": "The basis for judging that no anomaly exists is the lack of any abnormal events or activities mentioned in the provided event summary. The summary only describes a typical scene of cars parked on a street, which is a normal occurrence and not indicative of any unusual or anomalous behavior."
+    }
+  },
+  "Normal_Videos_879_x264": {
+    "n_frames": 1143,
+    "fps": 30.0,
+    "label": [],
+    "events": [
+      [
+        7.951,
+        30.097
+      ]
+    ],
+    "clips": [
+      [
+        [
+          7.951,
+          16.367
+        ],
+        [
+          16.367,
+          27.003
+        ],
+        [
+          27.003,
+          30.097
+        ]
+      ]
+    ],
+    "clips_caption": [
+      [
+        "The video clip shows a woman sitting at a desk in an office, working on her laptop.",
+        "The video clip shows a woman sitting at a desk in an office, working on her laptop.",
+        "The video clip shows a woman sitting at a desk in an office, working on a laptop."
+      ]
+    ],
+    "events_summary": [
+      "There is no anomaly in the video. The video depicts normal activities of a woman working at her desk in an office, using a laptop. The basis for judging that no anomaly exists is that the dense captions describe routine office work without any abnormal events or incidents, indicating that the video is normal and does not contain any anomalies."
+    ],
+    "video_summary": "There is no anomaly in the video. The video depicts normal activities of a woman working at her desk in an office, using a laptop. The basis for judging that no anomaly exists is the lack of any abnormal events or activities mentioned in the provided event summary. The summary only describes a typical office work scenario without any indications of unusual, alarming, or unexpected events.",
+    "events_summary_split": [
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities of a woman working at her desk in an office, using a laptop.",
+        "analysis": "The basis for judging that no anomaly exists is that the dense captions describe routine office work without any abnormal events or incidents, indicating that the video is normal and does not contain any anomalies."
+      }
+    ],
+    "video_summary_split": {
+      "judgement": "There is no anomaly in the video.",
+      "description": "The video depicts normal activities of a woman working at her desk in an office, using a laptop.",
+      "analysis": "The basis for judging that no anomaly exists is the lack of any abnormal events or activities mentioned in the provided event summary. The summary only describes a typical office work scenario without any indications of unusual, alarming, or unexpected events."
+    }
+  },
+  "Normal_Videos_880_x264": {
+    "n_frames": 18054,
+    "fps": 30.0,
+    "label": [],
+    "events": [
+      [
+        256.875,
+        279.709
+      ],
+      [
+        525.795,
+        545.593
+      ]
+    ],
+    "clips": [
+      [
+        [
+          256.875,
+          265.823
+        ],
+        [
+          265.823,
+          276.717
+        ],
+        [
+          276.717,
+          279.709
+        ]
+      ],
+      [
+        [
+          525.795,
+          534.414
+        ],
+        [
+          534.414,
+          545.593
+        ]
+      ]
+    ],
+    "clips_caption": [
+      [
+        "The video clip shows a woman sitting at a desk in an office, working on a laptop.",
+        "The video clip shows a woman sitting at a desk in an office, working on a laptop.",
+        "The video clip shows a woman sitting at a desk in an office, working on a laptop."
+      ],
+      [
+        "The video clip shows a woman sitting at a desk in an office, working on a laptop.",
+        "The video clip shows a woman sitting at a desk in an office, working on a laptop."
+      ]
+    ],
+    "events_summary": [
+      "There is no anomaly in the video. The video depicts normal activities, showing a woman sitting at a desk in an office, working on a laptop. The basis for judging that no anomaly exists is that the video clip consistently describes the same normal activity of a woman working on a laptop in an office setting across all three dense captions provided.",
+      "There is no anomaly in the video. The video depicts normal activities, showing a woman sitting at a desk in an office, working on a laptop. The basis for judging that no anomaly exists is that the video clip describes a typical office setting where a person is engaged in normal work activities using a laptop."
+    ],
+    "video_summary": "There is no anomaly in the video. The video depicts normal activities, showing a woman sitting at a desk in an office, working on a laptop in both events. The basis for judging that no anomaly exists is the consistent and normal nature of the activities described in both events, which involve a woman working on a laptop in an office setting. There are no indications of any abnormal, unexpected, or concerning events occurring.",
+    "events_summary_split": [
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities, showing a woman sitting at a desk in an office, working on a laptop.",
+        "analysis": "The basis for judging that no anomaly exists is that the video clip consistently describes the same normal activity of a woman working on a laptop in an office setting across all three dense captions provided."
+      },
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities, showing a woman sitting at a desk in an office, working on a laptop.",
+        "analysis": "The basis for judging that no anomaly exists is that the video clip describes a typical office setting where a person is engaged in normal work activities using a laptop."
+      }
+    ],
+    "video_summary_split": {
+      "judgement": "There is no anomaly in the video.",
+      "description": "The video depicts normal activities, showing a woman sitting at a desk in an office, working on a laptop in both events.",
+      "analysis": "The basis for judging that no anomaly exists is the consistent and normal nature of the activities described in both events, which involve a woman working on a laptop in an office setting. There are no indications of any abnormal, unexpected, or concerning events occurring."
+    }
+  },
+  "Normal_Videos_881_x264": {
+    "n_frames": 224,
+    "fps": 30.0,
+    "label": [],
+    "events": [
+      [
+        0.0,
+        7.467
+      ]
+    ],
+    "clips": [
+      [
+        [
+          0.0,
+          7.467
+        ]
+      ]
+    ],
+    "clips_caption": [
+      [
+        "The video clip shows a bustling indoor mall scene with a large atrium and multiple levels."
+      ]
+    ],
+    "events_summary": [
+      "There is no anomaly in the video. The video depicts normal activities in a bustling indoor mall scene with a large atrium and multiple levels. The basis for judging that no anomaly exists is that the dense caption describes a typical mall environment without any abnormal events or incidents, indicating that the video captures a normal day in the mall."
+    ],
+    "video_summary": "There is no anomaly in the video. The video depicts normal activities in a bustling indoor mall scene with a large atrium and multiple levels. There are no abnormal events or incidents mentioned in the provided event summary. The basis for judging that no anomaly exists is the lack of any mentioned incidents or events that deviate from typical mall activities. The summary does not indicate any unusual occurrences, disturbances, or events that would warrant an annotation of an anomaly.",
+    "events_summary_split": [
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities in a bustling indoor mall scene with a large atrium and multiple levels.",
+        "analysis": "The basis for judging that no anomaly exists is that the dense caption describes a typical mall environment without any abnormal events or incidents, indicating that the video captures a normal day in the mall."
+      }
+    ],
+    "video_summary_split": {
+      "judgement": "There is no anomaly in the video.",
+      "description": "The video depicts normal activities in a bustling indoor mall scene with a large atrium and multiple levels. There are no abnormal events or incidents mentioned in the provided event summary.",
+      "analysis": "The basis for judging that no anomaly exists is the lack of any mentioned incidents or events that deviate from typical mall activities. The summary does not indicate any unusual occurrences, disturbances, or events that would warrant an annotation of an anomaly."
+    }
+  },
+  "Normal_Videos_883_x264": {
+    "n_frames": 326,
+    "fps": 30.0,
+    "label": [],
+    "events": [
+      [
+        1.177,
+        9.964
+      ]
+    ],
+    "clips": [
+      [
+        [
+          1.177,
+          9.964
+        ]
+      ]
+    ],
+    "clips_caption": [
+      [
+        "The video clip shows a woman and a child walking on a sidewalk, with the woman holding the child's hand."
+      ]
+    ],
+    "events_summary": [
+      "There is no anomaly in the video. The video depicts normal activities of a woman and a child walking together on a sidewalk. The basis for judging that no anomaly exists is the lack of any abnormal events or activities mentioned in the dense caption, which only describes a typical scene of a woman holding her child's hand while walking on a sidewalk."
+    ],
+    "video_summary": "There is no anomaly in the video. The video depicts normal activities of a woman and a child walking together on a sidewalk. The basis for judging that no anomaly exists is the lack of any abnormal events or activities mentioned in the provided event summary.",
+    "events_summary_split": [
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities of a woman and a child walking together on a sidewalk.",
+        "analysis": "The basis for judging that no anomaly exists is the lack of any abnormal events or activities mentioned in the dense caption, which only describes a typical scene of a woman holding her child's hand while walking on a sidewalk."
+      }
+    ],
+    "video_summary_split": {
+      "judgement": "There is no anomaly in the video.",
+      "description": "The video depicts normal activities of a woman and a child walking together on a sidewalk.",
+      "analysis": "The basis for judging that no anomaly exists is the lack of any abnormal events or activities mentioned in the provided event summary."
+    }
+  },
+  "Normal_Videos_889_x264": {
+    "n_frames": 314,
+    "fps": 30.0,
+    "label": [],
+    "events": [
+      [
+        0.604,
+        10.258
+      ]
+    ],
+    "clips": [
+      [
+        [
+          0.604,
+          10.258
+        ]
+      ]
+    ],
+    "clips_caption": [
+      [
+        "The video clip shows a bustling supermarket with various customers and employees."
+      ]
+    ],
+    "events_summary": [
+      "There is no anomaly in the video. The video depicts normal activities at a bustling supermarket with various customers and employees going about their tasks. The basis for judging that no anomaly exists is that the dense caption describes a typical scene at a supermarket, with no mention of any abnormal events, unusual activities, or incidents that would indicate an anomaly. The video appears to be capturing a normal day at the store."
+    ],
+    "video_summary": "There is no anomaly in the video. The video depicts normal activities at a bustling supermarket with various customers and employees going about their tasks. The basis for judging that no anomaly exists is the lack of any abnormal events or incidents mentioned in the provided event summary. The summary only describes typical activities occurring at a supermarket, which does not indicate any unusual or out-of-the-ordinary events.",
+    "events_summary_split": [
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities at a bustling supermarket with various customers and employees going about their tasks.",
+        "analysis": "The basis for judging that no anomaly exists is that the dense caption describes a typical scene at a supermarket, with no mention of any abnormal events, unusual activities, or incidents that would indicate an anomaly. The video appears to be capturing a normal day at the store."
+      }
+    ],
+    "video_summary_split": {
+      "judgement": "There is no anomaly in the video.",
+      "description": "The video depicts normal activities at a bustling supermarket with various customers and employees going about their tasks.",
+      "analysis": "The basis for judging that no anomaly exists is the lack of any abnormal events or incidents mentioned in the provided event summary. The summary only describes typical activities occurring at a supermarket, which does not indicate any unusual or out-of-the-ordinary events."
+    }
+  },
+  "Normal_Videos_907_x264": {
+    "n_frames": 598,
+    "fps": 30.0,
+    "label": [],
+    "events": [
+      [
+        3.066,
+        11.85
+      ]
+    ],
+    "clips": [
+      [
+        [
+          3.066,
+          11.85
+        ]
+      ]
+    ],
+    "clips_caption": [
+      [
+        "The video clip shows a busy city street with various vehicles, including cars, buses, and trucks, moving in different directions."
+      ]
+    ],
+    "events_summary": [
+      "There is no anomaly in the video. The video depicts normal activities on a busy city street with various vehicles moving in different directions. The basis for judging that no anomaly exists is that the dense caption describes a typical city street scene with no mention of any abnormal events or unusual activities. The vehicles mentioned are common modes of transportation and their movements are expected in a busy urban setting."
+    ],
+    "video_summary": "There is no anomaly in the video. The video depicts normal activities on a busy city street with various vehicles moving in different directions. The basis for judging that no anomaly exists is the lack of any abnormal events or unusual activities mentioned in the provided event summary.",
+    "events_summary_split": [
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities on a busy city street with various vehicles moving in different directions.",
+        "analysis": "The basis for judging that no anomaly exists is that the dense caption describes a typical city street scene with no mention of any abnormal events or unusual activities. The vehicles mentioned are common modes of transportation and their movements are expected in a busy urban setting."
+      }
+    ],
+    "video_summary_split": {
+      "judgement": "There is no anomaly in the video.",
+      "description": "The video depicts normal activities on a busy city street with various vehicles moving in different directions.",
+      "analysis": "The basis for judging that no anomaly exists is the lack of any abnormal events or unusual activities mentioned in the provided event summary."
+    }
+  },
+  "Normal_Videos_910_x264": {
+    "n_frames": 567,
+    "fps": 30.0,
+    "label": [],
+    "events": [
+      [
+        4.955,
+        16.988
+      ]
+    ],
+    "clips": [
+      [
+        [
+          4.955,
+          14.592
+        ],
+        [
+          14.592,
+          16.988
+        ]
+      ]
+    ],
+    "clips_caption": [
+      [
+        "The video clip shows a city street scene with multiple traffic lights and construction signs.",
+        "The video clip shows a city street scene with multiple lanes of traffic, including a turning lane."
+      ]
+    ],
+    "events_summary": [
+      "There is no anomaly in the video. The video depicts normal activities on a city street with multiple traffic lights and construction signs, showing typical traffic flow including a turning lane. The basis for judging that no anomaly exists is the lack of any abnormal events or activities mentioned in the dense captions, which only describe normal city street scenes and traffic conditions."
+    ],
+    "video_summary": "There is no anomaly in the video. The video depicts normal activities on a city street with typical traffic flow, including a turning lane and traffic lights. The basis for judging that no anomaly exists is the absence of any abnormal events or activities mentioned in the provided event summary, which only describes normal traffic scenes and conditions.",
+    "events_summary_split": [
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities on a city street with multiple traffic lights and construction signs, showing typical traffic flow including a turning lane.",
+        "analysis": "The basis for judging that no anomaly exists is the lack of any abnormal events or activities mentioned in the dense captions, which only describe normal city street scenes and traffic conditions."
+      }
+    ],
+    "video_summary_split": {
+      "judgement": "There is no anomaly in the video.",
+      "description": "The video depicts normal activities on a city street with typical traffic flow, including a turning lane and traffic lights.",
+      "analysis": "The basis for judging that no anomaly exists is the absence of any abnormal events or activities mentioned in the provided event summary, which only describes normal traffic scenes and conditions."
+    }
+  },
+  "Normal_Videos_913_x264": {
+    "n_frames": 609,
+    "fps": 30.0,
+    "label": [],
+    "events": [
+      [
+        1.381,
+        18.887
+      ]
+    ],
+    "clips": [
+      [
+        [
+          1.381,
+          5.748
+        ],
+        [
+          5.748,
+          11.571
+        ],
+        [
+          11.571,
+          18.887
+        ]
+      ]
+    ],
+    "clips_caption": [
+      [
+        "The video clip shows a street scene with multiple cars and a truck driving down the road.",
+        "The video clip shows a street scene with multiple vehicles, including cars and a truck, driving down the road.",
+        "The video clip shows a street scene with multiple cars and a pedestrian."
+      ]
+    ],
+    "events_summary": [
+      "There is no anomaly in the video. The video depicts normal activities with multiple vehicles driving down a street. The basis for judging that no anomaly exists is that the dense captions describe a typical street scene with no abnormal events or incidents, indicating that the video is normal and does not contain any anomalies."
+    ],
+    "video_summary": "There is no anomaly in the video. The video depicts normal activities with multiple vehicles driving down a street. The basis for judging that no anomaly exists is that the provided event summary only describes a normal, expected scene of vehicles moving along a street, which is a common occurrence and not indicative of any abnormal or unusual events.",
+    "events_summary_split": [
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities with multiple vehicles driving down a street.",
+        "analysis": "The basis for judging that no anomaly exists is that the dense captions describe a typical street scene with no abnormal events or incidents, indicating that the video is normal and does not contain any anomalies."
+      }
+    ],
+    "video_summary_split": {
+      "judgement": "There is no anomaly in the video.",
+      "description": "The video depicts normal activities with multiple vehicles driving down a street.",
+      "analysis": "The basis for judging that no anomaly exists is that the provided event summary only describes a normal, expected scene of vehicles moving along a street, which is a common occurrence and not indicative of any abnormal or unusual events."
+    }
+  },
+  "Normal_Videos_926_x264": {
+    "n_frames": 1796,
+    "fps": 30.0,
+    "label": [],
+    "events": [
+      [
+        6.605,
+        18.456
+      ],
+      [
+        21.169,
+        40.821
+      ]
+    ],
+    "clips": [
+      [
+        [
+          6.605,
+          18.456
+        ]
+      ],
+      [
+        [
+          21.169,
+          27.484
+        ],
+        [
+          27.484,
+          32.122
+        ],
+        [
+          32.122,
+          40.821
+        ]
+      ]
+    ],
+    "clips_caption": [
+      [
+        "The video clip shows a large, industrial-looking room with high ceilings and a central, bright light fixture."
+      ],
+      [
+        "The video clip shows a factory setting with various machines and equipment.",
+        "The video clip shows a large, open warehouse-style room with high ceilings and a few industrial machines.",
+        "The video clip shows a factory setting with various machines and equipment."
+      ]
+    ],
+    "events_summary": [
+      "There is no anomaly in the video. The video depicts normal activities. The video depicts a normal, industrial-looking room with high ceilings and a central, bright light fixture. The basis for judging that no anomaly exists is the lack of any abnormal events or activities mentioned in the dense caption. The description provided is a normal, typical setting without any indications of unusual or problematic occurrences.",
+      "There is no anomaly in the video. The video depicts normal activities in a factory setting with various machines and equipment. The basis for judging that no anomaly exists is that the dense captions describe a typical factory environment with no mention of any abnormal events or unusual activities. The captions indicate that the video shows a normal operation of the factory, with no indications of any anomalies or issues."
+    ],
+    "video_summary": "There is no anomaly in the video. The video depicts normal activities in a factory setting, showing a room with high ceilings and a central, bright light fixture. The scene contains various machines and equipment, indicating typical industrial operations. The basis for judging that no anomaly exists is the lack of any abnormal or unexpected events in the provided event summaries. The summaries describe a normal, industrial environment without any indications of unusual activities, incidents, or disruptions.",
+    "events_summary_split": [
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities. The video depicts a normal, industrial-looking room with high ceilings and a central, bright light fixture.",
+        "analysis": "The basis for judging that no anomaly exists is the lack of any abnormal events or activities mentioned in the dense caption. The description provided is a normal, typical setting without any indications of unusual or problematic occurrences."
+      },
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities in a factory setting with various machines and equipment.",
+        "analysis": "The basis for judging that no anomaly exists is that the dense captions describe a typical factory environment with no mention of any abnormal events or unusual activities. The captions indicate that the video shows a normal operation of the factory, with no indications of any anomalies or issues."
+      }
+    ],
+    "video_summary_split": {
+      "judgement": "There is no anomaly in the video.",
+      "description": "The video depicts normal activities in a factory setting, showing a room with high ceilings and a central, bright light fixture. The scene contains various machines and equipment, indicating typical industrial operations.",
+      "analysis": "The basis for judging that no anomaly exists is the lack of any abnormal or unexpected events in the provided event summaries. The summaries describe a normal, industrial environment without any indications of unusual activities, incidents, or disruptions."
+    }
+  },
+  "Normal_Videos_927_x264": {
+    "n_frames": 1633,
+    "fps": 30.0,
+    "label": [],
+    "events": [
+      [
+        15.421,
+        24.063
+      ],
+      [
+        38.102,
+        47.414
+      ]
+    ],
+    "clips": [
+      [
+        [
+          15.421,
+          24.063
+        ]
+      ],
+      [
+        [
+          38.102,
+          47.414
+        ]
+      ]
+    ],
+    "clips_caption": [
+      [
+        "The video clip shows a bus driving down a street with passengers on board."
+      ],
+      [
+        "The video clip shows a bus driving down a street with passengers on board."
+      ]
+    ],
+    "events_summary": [
+      "There is no anomaly in the video. The video depicts normal activities with a bus driving down a street with passengers on board. The basis for judging that no anomaly exists is that the dense caption describes a typical bus journey without any abnormal events or incidents, indicating that the video is a normal depiction of a bus ride.",
+      "There is no anomaly in the video. The video depicts normal activities with a bus driving down a street with passengers on board. The basis for judging that no anomaly exists is that the dense caption describes a typical bus journey without any abnormal events or incidents, indicating that the video is a normal depiction of a bus ride."
+    ],
+    "video_summary": "There is no anomaly in the video. The video depicts normal activities of a bus driving down a street with passengers on board, which is a typical and expected scene. The basis for judging that no anomaly exists is that both instances of the bus driving down the street with passengers on board are normal and expected events, with no indications of any abnormal or unusual activities.",
+    "events_summary_split": [
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities with a bus driving down a street with passengers on board.",
+        "analysis": "The basis for judging that no anomaly exists is that the dense caption describes a typical bus journey without any abnormal events or incidents, indicating that the video is a normal depiction of a bus ride."
+      },
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities with a bus driving down a street with passengers on board.",
+        "analysis": "The basis for judging that no anomaly exists is that the dense caption describes a typical bus journey without any abnormal events or incidents, indicating that the video is a normal depiction of a bus ride."
+      }
+    ],
+    "video_summary_split": {
+      "judgement": "There is no anomaly in the video.",
+      "description": "The video depicts normal activities of a bus driving down a street with passengers on board, which is a typical and expected scene.",
+      "analysis": "The basis for judging that no anomaly exists is that both instances of the bus driving down the street with passengers on board are normal and expected events, with no indications of any abnormal or unusual activities."
+    }
+  },
+  "Normal_Videos_930_x264": {
+    "n_frames": 3187,
+    "fps": 30.0,
+    "label": [],
+    "events": [
+      [
+        11.166,
+        32.193
+      ],
+      [
+        64.85,
+        86.983
+      ]
+    ],
+    "clips": [
+      [
+        [
+          11.166,
+          17.028
+        ],
+        [
+          17.028,
+          21.836
+        ],
+        [
+          21.836,
+          32.193
+        ]
+      ],
+      [
+        [
+          64.85,
+          71.074
+        ],
+        [
+          71.074,
+          80.159
+        ],
+        [
+          80.159,
+          86.983
+        ]
+      ]
+    ],
+    "clips_caption": [
+      [
+        "The video clip shows a small electronics store with a few customers and employees.",
+        "The video clip shows a man working at a desk in an office, surrounded by various pieces of furniture such as chairs, tables, and a computer.",
+        "The video clip shows a man working at a desk in an office, surrounded by various pieces of furniture such as chairs, tables, and a computer."
+      ],
+      [
+        "The video clip shows a man sitting at a desk in an office, working on a computer.",
+        "The video clip shows a man sitting at a desk in an office, working on a computer.",
+        "The video clip shows a man working at a desk in an office, surrounded by various pieces of furniture such as chairs, tables, and a computer."
+      ]
+    ],
+    "events_summary": [
+      "There is no anomaly in the video. The video depicts normal activities in an office setting and an electronics store. The basis for judging that no anomaly exists is that the dense captions describe mundane activities in both the office and the store, with no indications of any abnormal events or unusual occurrences.",
+      "There is no anomaly in the video. The video depicts normal activities of a man working at a desk in an office, using a computer. The basis for judging that no anomaly exists is that the dense captions describe a typical office setting where a man is working on a computer. There are no indications of any abnormal events, disturbances, or unexpected occurrences that would suggest an anomaly."
+    ],
+    "video_summary": "There is no anomaly in the video. The video depicts normal activities in an office setting and an electronics store. A man is working at a desk in an office, using a computer. The basis for judging that no anomaly exists is the lack of any abnormal events or activities mentioned in the provided event summaries. The summaries describe typical, everyday activities in an office and an electronics store, without any indications of unusual, alarming, or unexpected events.",
+    "events_summary_split": [
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities in an office setting and an electronics store.",
+        "analysis": "The basis for judging that no anomaly exists is that the dense captions describe mundane activities in both the office and the store, with no indications of any abnormal events or unusual occurrences."
+      },
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities of a man working at a desk in an office, using a computer.",
+        "analysis": "The basis for judging that no anomaly exists is that the dense captions describe a typical office setting where a man is working on a computer. There are no indications of any abnormal events, disturbances, or unexpected occurrences that would suggest an anomaly."
+      }
+    ],
+    "video_summary_split": {
+      "judgement": "There is no anomaly in the video.",
+      "description": "The video depicts normal activities in an office setting and an electronics store. A man is working at a desk in an office, using a computer.",
+      "analysis": "The basis for judging that no anomaly exists is the lack of any abnormal events or activities mentioned in the provided event summaries. The summaries describe typical, everyday activities in an office and an electronics store, without any indications of unusual, alarming, or unexpected events."
+    }
+  },
+  "Normal_Videos_937_x264": {
+    "n_frames": 1150,
+    "fps": 30.0,
+    "label": [],
+    "events": [
+      [
+        2.745,
+        24.498
+      ],
+      [
+        26.181,
+        38.189
+      ]
+    ],
+    "clips": [
+      [
+        [
+          2.745,
+          9.664
+        ],
+        [
+          9.664,
+          16.625
+        ],
+        [
+          16.625,
+          24.498
+        ]
+      ],
+      [
+        [
+          26.181,
+          31.857
+        ],
+        [
+          31.857,
+          38.189
+        ]
+      ]
+    ],
+    "clips_caption": [
+      [
+        "The video clip captures a bustling city scene with a crowd of people walking around, some of whom are wearing backpacks.",
+        "The video clip shows a group of people walking on a sidewalk, with some of them running.",
+        "The video clip shows a group of people walking on a sidewalk, with some individuals standing and others walking."
+      ],
+      [
+        "The video clip shows a group of people walking around a city square, with some of them engaging in physical activity such as running and jumping.",
+        "The video clip shows a group of people gathered on a sidewalk, with some standing and others walking around."
+      ]
+    ],
+    "events_summary": [
+      "There is no anomaly in the video. The video depicts normal activities of people walking and standing on a sidewalk in a city. The basis for judging that no anomaly exists is that the dense captions describe typical urban scenes with people walking and standing, which do not indicate any abnormal or concerning events.",
+      "There is no anomaly in the video. The video depicts normal activities of people walking and engaging in physical activities in a city square. The basis for judging that no anomaly exists is that the dense captions describe typical scenes of people walking and participating in physical activities, which do not indicate any abnormal or unusual events."
+    ],
+    "video_summary": "There is no anomaly in the video. The video depicts normal activities of people walking and engaging in physical activities in a city environment. The basis for judging that no anomaly exists is the presence of typical urban activities such as walking and engaging in physical activities, which are common occurrences in city settings and do not indicate any abnormal or unusual events.",
+    "events_summary_split": [
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities of people walking and standing on a sidewalk in a city.",
+        "analysis": "The basis for judging that no anomaly exists is that the dense captions describe typical urban scenes with people walking and standing, which do not indicate any abnormal or concerning events."
+      },
+      {
+        "judgement": "There is no anomaly in the video.",
+        "description": "The video depicts normal activities of people walking and engaging in physical activities in a city square.",
+        "analysis": "The basis for judging that no anomaly exists is that the dense captions describe typical scenes of people walking and participating in physical activities, which do not indicate any abnormal or unusual events."
+      }
+    ],
+    "video_summary_split": {
+      "judgement": "There is no anomaly in the video.",
+      "description": "The video depicts normal activities of people walking and engaging in physical activities in a city environment.",
+      "analysis": "The basis for judging that no anomaly exists is the presence of typical urban activities such as walking and engaging in physical activities, which are common occurrences in city settings and do not indicate any abnormal or unusual events."
+    }
+  }
+}
