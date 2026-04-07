@@ -1,0 +1,22 @@
+{
+  "video_path": "/workspace/test/Testing_Anomaly_Videos/Abuse/Abuse030_x264.mp4",
+  "score_path": "/workspace/outputs/Abuse030_x264/fused.npy",
+  "select_frames": 12,
+  "dense_sample_freq": 16,
+  "tau": 0.1,
+  "sampled_frame_indices": [
+    16,
+    144,
+    288,
+    432,
+    576,
+    704,
+    848,
+    976,
+    1120,
+    1248,
+    1392,
+    1520
+  ],
+  "description": "The anomaly event involves a man in black clothes and a white hat walking towards the camera, which is an unusual and suspicious behavior, potentially indicating a potential threat or suspicious activity"
+}

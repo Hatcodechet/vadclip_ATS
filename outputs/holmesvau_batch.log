@@ -1,0 +1,2345 @@
+nohup: ignoring input
+/venv/holmesvau/lib/python3.9/site-packages/torch/cuda/__init__.py:63: FutureWarning: The pynvml package is deprecated. Please install nvidia-ml-py instead. If you did not install pynvml directly, please report this to the maintainers of the package that installed pynvml for you.
+  import pynvml  # type: ignore[import]
+================================================================================
+Holmes-VAU Batch Description Generation From Scores
+================================================================================
+Outputs dir : /workspace/outputs
+Video root  : /workspace/test
+Model path  : /workspace/score_fuse/HolmesVAU/ckpts/HolmesVAU-2B
+Output json : /workspace/outputs/holmesvau_video_descriptions_290.json
+Device      : cuda:0
+Indexed videos        : 290
+Found fused.npy jobs  : 290
+Existing JSON entries : 0
+FlashAttention2 is not installed.
+Warning: Flash attention is not available, using eager attention instead.
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+[1/290] Abuse028_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Abuse/Abuse028_x264.mp4
+  score : /workspace/outputs/Abuse028_x264/fused.npy
+  prompt: Describe the anomaly events observed in the video.
+Frame Number:  1412
+Score-driven ATS sampling...
+Sampled frames:  [16, 144, 256, 368, 480, 592, 720, 832, 960, 1072, 1216, 1392]
+  done  : The anomaly event involves a man in a blue shirt and black pants walking towards the gate, and then running away from the gate, suggesting a potential burglary 
+[2/290] Abuse030_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Abuse/Abuse030_x264.mp4
+  score : /workspace/outputs/Abuse030_x264/fused.npy
+  prompt: Could you provide a summary of the anomaly events in this video?
+Frame Number:  1544
+Score-driven ATS sampling...
+Sampled frames:  [16, 144, 288, 432, 576, 704, 848, 976, 1120, 1248, 1392, 1520]
+  done  : The anomaly event involves a man in black clothes walking towards the camera, which is unusual and potentially suspicious behavior, and then a man in black clot
+[3/290] Arrest001_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Arrest/Arrest001_x264.mp4
+  score : /workspace/outputs/Arrest001_x264/fused.npy
+  prompt: Could you specify the anomaly events present in the video?
+Frame Number:  2374
+Score-driven ATS sampling...
+Sampled frames:  [48, 560, 816, 1104, 1232, 1344, 1472, 1616, 1776, 2000, 2224, 2352]
+  done  : The anomaly event involves a man in black pushing a woman in white, causing her to fall to the ground, and then the man in black walks away from the scene
+[4/290] Arrest007_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Arrest/Arrest007_x264.mp4
+  score : /workspace/outputs/Arrest007_x264/fused.npy
+  prompt: Provide a summary of the anomaly events in the video.
+Frame Number:  3144
+Score-driven ATS sampling...
+Sampled frames:  [16, 304, 624, 880, 1216, 1472, 1712, 1952, 2192, 2448, 2672, 3120]
+  done  : The anomaly event involves a man in white clothes and black shorts entering the room, bending over, and then lying on the floor, suggesting a possible violent o
+[5/290] Arrest024_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Arrest/Arrest024_x264.mp4
+  score : /workspace/outputs/Arrest024_x264/fused.npy
+  prompt: Give a description of the detected anomaly events in this video.
+Frame Number:  3629
+Score-driven ATS sampling...
+Sampled frames:  [16, 368, 752, 1072, 1376, 1696, 2016, 2352, 2688, 3008, 3312, 3600]
+  done  : The anomaly event involves a white car colliding with another vehicle, resulting in a significant impact and subsequent evacuation of the scene, with police off
+[6/290] Arrest030_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Arrest/Arrest030_x264.mp4
+  score : /workspace/outputs/Arrest030_x264/fused.npy
+  prompt: Could you provide a summary of the anomaly events in this video?
+Frame Number:  8642
+Score-driven ATS sampling...
+Sampled frames:  [16, 752, 1504, 2304, 3056, 3824, 4592, 5392, 6192, 6992, 7808, 8624]
+  done  : The anomaly event involves a man in black and a man in white entering the room, and then a man in white and a man in black entering the room, with the man in wh
+[7/290] Arrest039_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Arrest/Arrest039_x264.mp4
+  score : /workspace/outputs/Arrest039_x264/fused.npy
+  prompt: Could you give a description of the anomaly events in the video?
+Frame Number:  15835
+Score-driven ATS sampling...
+Sampled frames:  [144, 3952, 7280, 8896, 9728, 11104, 12224, 12848, 13488, 14256, 14816, 15808]
+  done  : The anomaly event involves a man in black entering the room, engaging in a physical altercation with a man in gray, and then leaving the room, followed by a man
+[8/290] Arson007_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Arson/Arson007_x264.mp4
+  score : /workspace/outputs/Arson007_x264/fused.npy
+  prompt: How would you describe the particular anomaly events in the video?
+Frame Number:  6252
+Score-driven ATS sampling...
+Sampled frames:  [16, 560, 1120, 1664, 2224, 2784, 3328, 3904, 4464, 5056, 5680, 6224]
+  done  : The video depicts a series of nighttime scenes, showcasing a person walking across a street, a person walking across a street, and a person walking across a str
+[9/290] Arson009_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Arson/Arson009_x264.mp4
+  score : /workspace/outputs/Arson009_x264/fused.npy
+  prompt: Provide a summary of the anomaly events in the video.
+Frame Number:  743
+Score-driven ATS sampling...
+Sampled frames:  [16, 80, 128, 192, 256, 320, 400, 464, 528, 592, 656, 720]
+  done  : The anomaly event involves a man in white clothes and a helmet approaching the white van, and then a man in white clothes and a helmet approaches the white van,
+[10/290] Arson010_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Arson/Arson010_x264.mp4
+  score : /workspace/outputs/Arson010_x264/fused.npy
+  prompt: Give a description of the detected anomaly events in this video.
+Frame Number:  3159
+Score-driven ATS sampling...
+Sampled frames:  [48, 400, 640, 896, 1152, 1424, 1712, 1952, 2192, 2432, 2704, 3136]
+  done  : The anomaly event involves a man in black and blue clothes approaching the white van, and then a man in black clothes approaches the white van, and a man in bla
+[11/290] Arson011_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Arson/Arson011_x264.mp4
+  score : /workspace/outputs/Arson011_x264/fused.npy
+  prompt: What details can you provide about the anomaly in the video?
+Frame Number:  1266
+Score-driven ATS sampling...
+Sampled frames:  [16, 128, 256, 352, 480, 592, 720, 832, 944, 1040, 1152, 1248]
+  done  : The anomaly event involves a man in a blue hoodie and dark pants attempting to steal a bicycle from the elevator, followed by a man in a dark jacket and blue ho
+[12/290] Arson016_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Arson/Arson016_x264.mp4
+  score : /workspace/outputs/Arson016_x264/fused.npy
+  prompt: How would you detail the anomaly events found in the video?
+Frame Number:  1795
+Score-driven ATS sampling...
+Sampled frames:  [32, 320, 528, 704, 864, 1008, 1136, 1264, 1392, 1520, 1648, 1776]
+  done  : The anomaly event involves a sudden and unexpected occurrence of a fire in the bus, which is a sudden and unexpected event that deviates from the normal and exp
+[13/290] Arson018_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Arson/Arson018_x264.mp4
+  score : /workspace/outputs/Arson018_x264/fused.npy
+  prompt: Could you provide a summary of the anomaly events in this video?
+Frame Number:  842
+Score-driven ATS sampling...
+Sampled frames:  [16, 80, 144, 224, 288, 368, 432, 512, 592, 672, 736, 816]
+  done  : The anomaly event involves a man in a white shirt and black pants walking towards the car, and then a car suddenly appears in front of the man, causing a commot
+[14/290] Arson022_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Arson/Arson022_x264.mp4
+  score : /workspace/outputs/Arson022_x264/fused.npy
+  prompt: Could you give a description of the anomaly events in the video?
+Frame Number:  8640
+Score-driven ATS sampling...
+Sampled frames:  [144, 1280, 1904, 3472, 4272, 5968, 7296, 7696, 7952, 8192, 8432, 8624]
+  done  : The video depicts a mundane scene where a man in black clothes walks into the room, and the camera then moves to the right side of the room, where a man in blac
+[15/290] Arson035_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Arson/Arson035_x264.mp4
+  score : /workspace/outputs/Arson035_x264/fused.npy
+  prompt: Could you give a description of the anomaly events in the video?
+Frame Number:  1437
+Score-driven ATS sampling...
+Sampled frames:  [16, 256, 384, 496, 608, 704, 800, 912, 1008, 1120, 1216, 1408]
+  done  : The anomaly event involves a man in a dark jacket and hat running across the street, followed by a man in a white shirt and dark pants running across the street
+[16/290] Arson041_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Arson/Arson041_x264.mp4
+  score : /workspace/outputs/Arson041_x264/fused.npy
+  prompt: Give a description of the detected anomaly events in this video.
+Frame Number:  3754
+Score-driven ATS sampling...
+Sampled frames:  [16, 336, 656, 976, 1296, 1632, 1984, 2352, 2720, 3056, 3408, 3728]
+  done  : The anomaly event involves a man in white clothes and a hat entering the room, and then a man in white clothes and a hat enters the room, and then a man in whit
+[17/290] Assault006_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Assault/Assault006_x264.mp4
+  score : /workspace/outputs/Assault006_x264/fused.npy
+  prompt: Could you describe the anomaly events observed in the video?
+Frame Number:  8096
+Score-driven ATS sampling...
+Sampled frames:  [16, 704, 1408, 2192, 2880, 3600, 4336, 5056, 5728, 6480, 7280, 8080]
+  done  : The anomaly event involves a group of people, including a man in a white shirt, engaging in a physical altercation in a room with a counter, with the man in the
+[18/290] Assault010_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Assault/Assault010_x264.mp4
+  score : /workspace/outputs/Assault010_x264/fused.npy
+  prompt: Could you give a description of the anomaly events in the video?
+Frame Number:  16177
+Score-driven ATS sampling...
+Sampled frames:  [16, 1344, 2896, 4368, 5776, 7200, 9008, 10384, 11776, 13152, 14576, 16160]
+  done  : The anomaly event involves a man in striped clothes walking into the room, approaching the man in black clothes, and then leaving the room, suggesting a potenti
+[19/290] Assault011_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Assault/Assault011_x264.mp4
+  score : /workspace/outputs/Assault011_x264/fused.npy
+  prompt: Give a description of the detected anomaly events in this video.
+Frame Number:  2288
+Score-driven ATS sampling...
+Sampled frames:  [128, 320, 448, 656, 816, 912, 1024, 1152, 1296, 1456, 1856, 2272]
+  done  : The anomaly event involves a man in a pink shirt and black pants engaging in a physical altercation with another man in a blue shirt and black pants, which devi
+[20/290] Burglary005_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Burglary/Burglary005_x264.mp4
+  score : /workspace/outputs/Burglary005_x264/fused.npy
+  prompt: Provide a summary of the anomaly events in the video.
+Frame Number:  7729
+Score-driven ATS sampling...
+Sampled frames:  [16, 704, 1376, 2064, 2736, 3456, 4176, 4896, 5568, 6336, 7024, 7712]
+  done  : The anomaly event involves a man in white clothes and black pants entering the house and throwing a ball at the door, which is a suspicious and potentially harm
+[21/290] Burglary017_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Burglary/Burglary017_x264.mp4
+  score : /workspace/outputs/Burglary017_x264/fused.npy
+  prompt: How would you describe the particular anomaly events in the video?
+Frame Number:  2113
+Score-driven ATS sampling...
+Sampled frames:  [16, 224, 416, 608, 816, 960, 1136, 1328, 1504, 1712, 1920, 2096]
+  done  : The anomaly event involves a man in a white shirt and dark pants entering the room, pushing a woman in a white dress, and then leaving the room, suggesting a po
+[22/290] Burglary018_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Burglary/Burglary018_x264.mp4
+  score : /workspace/outputs/Burglary018_x264/fused.npy
+  prompt: Could you describe the anomaly events observed in the video?
+Frame Number:  1125
+Score-driven ATS sampling...
+Sampled frames:  [16, 112, 208, 320, 416, 512, 608, 720, 816, 912, 1008, 1104]
+  done  : The anomaly event involves a man in white clothes and a helmet climbing up the stairs, which is an unusual and potentially harmful behavior, deviating from the 
+[23/290] Burglary021_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Burglary/Burglary021_x264.mp4
+  score : /workspace/outputs/Burglary021_x264/fused.npy
+  prompt: Could you describe the anomaly events observed in the video?
+Frame Number:  1537
+Score-driven ATS sampling...
+Sampled frames:  [16, 160, 304, 432, 576, 704, 832, 976, 1104, 1248, 1376, 1520]
+  done  : The anomaly event involves a man in a green shirt and blue jeans entering the truck and taking a red object from the truck bed, which is an unusual and potentia
+[24/290] Burglary024_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Burglary/Burglary024_x264.mp4
+  score : /workspace/outputs/Burglary024_x264/fused.npy
+  prompt: How would you describe the particular anomaly events in the video?
+Frame Number:  3605
+Score-driven ATS sampling...
+Sampled frames:  [16, 336, 688, 1024, 1344, 1664, 2000, 2304, 2624, 2944, 3264, 3584]
+  done  : The video depicts a mundane scene where a man in white clothes is seen sitting at a desk, working on a computer, and then leaves the room, with no unusual or ou
+[25/290] Burglary032_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Burglary/Burglary032_x264.mp4
+  score : /workspace/outputs/Burglary032_x264/fused.npy
+  prompt: Give a description of the detected anomaly events in this video.
+Frame Number:  15795
+Score-driven ATS sampling...
+Sampled frames:  [16, 1408, 2816, 4256, 5680, 7120, 8528, 9936, 11328, 12768, 14272, 15776]
+  done  : The anomaly event involves a man in white clothes and a hat entering the room, and then leaving the room, suggesting a suspicious or unauthorized entry
+[26/290] Burglary033_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Burglary/Burglary033_x264.mp4
+  score : /workspace/outputs/Burglary033_x264/fused.npy
+  prompt: Provide a summary of the anomaly events in the video.
+Frame Number:  1259
+Score-driven ATS sampling...
+Sampled frames:  [16, 112, 224, 336, 432, 544, 656, 768, 880, 1008, 1120, 1232]
+  done  : The video depicts a normal and mundane scene where a person is seen opening a red door, followed by a person walking out of the door, and then a person walking 
+[27/290] Burglary035_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Burglary/Burglary035_x264.mp4
+  score : /workspace/outputs/Burglary035_x264/fused.npy
+  prompt: Describe the anomaly events observed in the video.
+Frame Number:  4050
+Score-driven ATS sampling...
+Sampled frames:  [16, 384, 752, 1136, 1504, 1856, 2224, 2592, 2960, 3328, 3680, 4032]
+  done  : The anomaly event involves a man in white clothes entering the house and then leaving, suggesting a potential burglary or theft
+[28/290] Burglary037_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Burglary/Burglary037_x264.mp4
+  score : /workspace/outputs/Burglary037_x264/fused.npy
+  prompt: Could you describe the anomaly events observed in the video?
+Frame Number:  1920
+Score-driven ATS sampling...
+Sampled frames:  [16, 176, 352, 512, 688, 880, 1056, 1232, 1392, 1568, 1744, 1904]
+  done  : The anomaly event involves a man in a white shirt and pants entering the room, holding a gun, and pointing it at the man in the white shirt and pants, who is ho
+[29/290] Burglary061_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Burglary/Burglary061_x264.mp4
+  score : /workspace/outputs/Burglary061_x264/fused.npy
+  prompt: Could you give a description of the anomaly events in the video?
+Frame Number:  8990
+Score-driven ATS sampling...
+Sampled frames:  [16, 896, 1760, 2608, 3456, 4304, 5056, 5856, 6656, 7424, 8208, 8960]
+  done  : The video depicts a mundane scene where a man in white clothes enters the room, and the man in white clothes leaves the room, with no unusual or out-of-the-ordi
+[30/290] Burglary076_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Burglary/Burglary076_x264.mp4
+  score : /workspace/outputs/Burglary076_x264/fused.npy
+  prompt: How would you detail the anomaly events found in the video?
+Frame Number:  12923
+Score-driven ATS sampling...
+Sampled frames:  [48, 1392, 2512, 3616, 4816, 5968, 7056, 8160, 9392, 10560, 11680, 12896]
+  done  : The anomaly event involves a man in black clothes and a hat running towards the house, suggesting a potential burglary or theft attempt
+[31/290] Burglary079_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Burglary/Burglary079_x264.mp4
+  score : /workspace/outputs/Burglary079_x264/fused.npy
+  prompt: Describe the anomaly events observed in the video.
+Frame Number:  14853
+Score-driven ATS sampling...
+Sampled frames:  [16, 1536, 3008, 4192, 5296, 6624, 7920, 9024, 10096, 11312, 13104, 14832]
+  done  : The anomaly event involves a group of men breaking into the car, which is a suspicious and illegal activity
+[32/290] Burglary092_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Burglary/Burglary092_x264.mp4
+  score : /workspace/outputs/Burglary092_x264/fused.npy
+  prompt: Describe the anomaly events observed in the video.
+Frame Number:  625
+Score-driven ATS sampling...
+Sampled frames:  [16, 64, 128, 176, 240, 288, 352, 400, 448, 512, 560, 608]
+  done  : The anomaly event involves a man in blue clothes walking towards the camera, and then a man in black clothes walking towards the camera, suggesting a potential 
+[33/290] Explosion002_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Explosion/Explosion002_x264.mp4
+  score : /workspace/outputs/Explosion002_x264/fused.npy
+  prompt: Could you specify the anomaly events present in the video?
+Frame Number:  4013
+Score-driven ATS sampling...
+Sampled frames:  [144, 672, 1008, 1328, 1664, 2000, 2336, 2656, 2992, 3328, 3664, 3984]
+  done  : The anomaly event involves a man in a red shirt and blue jeans entering the gas station, using the phone, and then leaving the gas station, with the man's actio
+[34/290] Explosion004_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Explosion/Explosion004_x264.mp4
+  score : /workspace/outputs/Explosion004_x264/fused.npy
+  prompt: How would you describe the particular anomaly events in the video?
+Frame Number:  1902
+Score-driven ATS sampling...
+Sampled frames:  [16, 176, 336, 512, 672, 832, 1008, 1184, 1360, 1536, 1712, 1872]
+  done  : The anomaly event involves a man in a black jacket and helmet breaking a window with a hammer, followed by a man in a black jacket and helmet breaking a window 
+[35/290] Explosion007_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Explosion/Explosion007_x264.mp4
+  score : /workspace/outputs/Explosion007_x264/fused.npy
+  prompt: Give a description of the detected anomaly events in this video.
+Frame Number:  16289
+Score-driven ATS sampling...
+Sampled frames:  [16, 1600, 2928, 4384, 5856, 7344, 8848, 10400, 11872, 13312, 14768, 16272]
+  done  : The anomaly event involves a man in a white shirt and black pants running towards the camera, and then a man in a white shirt and black pants running towards th
+[36/290] Explosion008_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Explosion/Explosion008_x264.mp4
+  score : /workspace/outputs/Explosion008_x264/fused.npy
+  prompt: What details can you provide about the anomaly in the video?
+Frame Number:  1748
+Score-driven ATS sampling...
+Sampled frames:  [16, 192, 352, 512, 672, 848, 1008, 1152, 1312, 1456, 1584, 1728]
+  done  : The anomaly event is a sudden and intense release of energy, characterized by a large plume of smoke rising into the sky, which is a sudden and unexpected occur
+[37/290] Explosion010_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Explosion/Explosion010_x264.mp4
+  score : /workspace/outputs/Explosion010_x264/fused.npy
+  prompt: How would you detail the anomaly events found in the video?
+Frame Number:  2498
+Score-driven ATS sampling...
+Sampled frames:  [128, 432, 608, 800, 1040, 1264, 1504, 1696, 1872, 2064, 2240, 2480]
+  done  : The anomaly event involves a sudden and intense release of energy, likely a fire or explosion, which is accompanied by thick smoke and debris, and is followed b
+[38/290] Explosion011_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Explosion/Explosion011_x264.mp4
+  score : /workspace/outputs/Explosion011_x264/fused.npy
+  prompt: Could you give a description of the anomaly events in the video?
+Frame Number:  1571
+Score-driven ATS sampling...
+Sampled frames:  [144, 448, 736, 928, 976, 1024, 1072, 1104, 1152, 1200, 1312, 1552]
+  done  : The anomaly event involves a sudden and unexpected occurrence of a fire, which is a sudden and intense release of energy, often accompanied by loud noise and sm
+[39/290] Explosion013_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Explosion/Explosion013_x264.mp4
+  score : /workspace/outputs/Explosion013_x264/fused.npy
+  prompt: How would you detail the anomaly events found in the video?
+Frame Number:  3317
+Score-driven ATS sampling...
+Sampled frames:  [48, 528, 800, 1216, 1504, 1712, 2272, 2624, 2800, 2960, 3136, 3296]
+  done  : The anomaly event involves a person in a white shirt and red cap engaging in destructive behavior, which is a clear deviation from normal and safe behavior in a
+[40/290] Explosion016_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Explosion/Explosion016_x264.mp4
+  score : /workspace/outputs/Explosion016_x264/fused.npy
+  prompt: Could you specify the anomaly events present in the video?
+Frame Number:  963
+Score-driven ATS sampling...
+Sampled frames:  [144, 320, 400, 448, 496, 560, 608, 656, 720, 768, 816, 944]
+  done  : The video depicts a series of scenes showcasing a large, historic building with a clock tower, surrounded by a parking lot filled with cars, and a clear sky wit
+[41/290] Explosion017_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Explosion/Explosion017_x264.mp4
+  score : /workspace/outputs/Explosion017_x264/fused.npy
+  prompt: Give a description of the detected anomaly events in this video.
+Frame Number:  1643
+Score-driven ATS sampling...
+Sampled frames:  [16, 160, 288, 448, 624, 832, 976, 1104, 1232, 1376, 1488, 1616]
+  done  : The anomaly event involves a man in white clothes and a woman in red clothes engaging in a physical altercation with a man in black clothes, which deviates from
+[42/290] Explosion020_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Explosion/Explosion020_x264.mp4
+  score : /workspace/outputs/Explosion020_x264/fused.npy
+  prompt: What details can you provide about the anomaly in the video?
+Frame Number:  1291
+Score-driven ATS sampling...
+Sampled frames:  [16, 112, 240, 368, 480, 608, 704, 816, 928, 1040, 1136, 1264]
+  done  : The anomaly event involves a physical altercation between two individuals, with one person being pushed and shoved by another, and the use of a weapon, which is
+[43/290] Explosion021_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Explosion/Explosion021_x264.mp4
+  score : /workspace/outputs/Explosion021_x264/fused.npy
+  prompt: How would you describe the particular anomaly events in the video?
+Frame Number:  782
+Score-driven ATS sampling...
+Sampled frames:  [16, 96, 160, 224, 288, 368, 432, 496, 560, 624, 688, 752]
+  done  : The anomaly event involves a sudden and intense release of energy, characterized by a bright flash of light, a loud noise, and a rapid expansion of air, which i
+[44/290] Explosion022_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Explosion/Explosion022_x264.mp4
+  score : /workspace/outputs/Explosion022_x264/fused.npy
+  prompt: How would you describe the particular anomaly events in the video?
+Frame Number:  3594
+Score-driven ATS sampling...
+Sampled frames:  [80, 528, 1008, 1392, 1824, 2176, 2256, 2336, 2416, 2768, 3024, 3568]
+  done  : The anomaly event involves a man in a white shirt and blue jeans walking into the room, and then a man in a white shirt and blue jeans walking out of the room, 
+[45/290] Explosion025_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Explosion/Explosion025_x264.mp4
+  score : /workspace/outputs/Explosion025_x264/fused.npy
+  prompt: How would you describe the particular anomaly events in the video?
+Frame Number:  505
+Score-driven ATS sampling...
+Sampled frames:  [0, 48, 80, 128, 176, 224, 256, 304, 352, 400, 432, 480]
+  done  : The video depicts a mundane scene where a man in a black hat and a woman in a black dress are seen walking down a street, with no unusual or out-of-the-ordinary
+[46/290] Explosion027_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Explosion/Explosion027_x264.mp4
+  score : /workspace/outputs/Explosion027_x264/fused.npy
+  prompt: What details can you provide about the anomaly in the video?
+Frame Number:  776
+Score-driven ATS sampling...
+Sampled frames:  [16, 80, 160, 224, 288, 352, 416, 480, 544, 624, 688, 752]
+  done  : The anomaly event involves a man in black entering the room, picking up a black object, and then leaving the room, suggesting a potential theft or unauthorized 
+[47/290] Explosion028_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Explosion/Explosion028_x264.mp4
+  score : /workspace/outputs/Explosion028_x264/fused.npy
+  prompt: Describe the anomaly events observed in the video.
+Frame Number:  1705
+Score-driven ATS sampling...
+Sampled frames:  [64, 336, 464, 608, 736, 864, 1008, 1152, 1280, 1424, 1552, 1680]
+  done  : The anomaly event involves a man in a white shirt and black pants running towards the camera, and then a man in a red shirt and black pants running towards the 
+[48/290] Explosion029_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Explosion/Explosion029_x264.mp4
+  score : /workspace/outputs/Explosion029_x264/fused.npy
+  prompt: Could you provide a summary of the anomaly events in this video?
+Frame Number:  2410
+Score-driven ATS sampling...
+Sampled frames:  [16, 224, 432, 672, 896, 1120, 1328, 1552, 1760, 1968, 2176, 2384]
+  done  : The anomaly event involves a woman in white entering the scene, interacting with the gas pump, and then leaving the scene, with no unusual or suspicious behavio
+[49/290] Explosion033_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Explosion/Explosion033_x264.mp4
+  score : /workspace/outputs/Explosion033_x264/fused.npy
+  prompt: What details can you provide about the anomaly in the video?
+Frame Number:  3154
+Score-driven ATS sampling...
+Sampled frames:  [32, 672, 992, 1216, 1456, 1744, 1968, 2208, 2448, 2672, 2912, 3136]
+  done  : The anomaly event involves a sudden and intense release of energy, characterized by a large plume of smoke and fire, which is a sudden and unexpected occurrence
+[50/290] Explosion035_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Explosion/Explosion035_x264.mp4
+  score : /workspace/outputs/Explosion035_x264/fused.npy
+  prompt: Could you give a description of the anomaly events in the video?
+Frame Number:  2865
+Score-driven ATS sampling...
+Sampled frames:  [32, 400, 608, 832, 1056, 1296, 1552, 1936, 2160, 2400, 2624, 2848]
+  done  : The anomaly event involves a man in white clothes and a man in black clothes engaging in a physical altercation in a room with tables and chairs, with the man i
+[51/290] Explosion036_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Explosion/Explosion036_x264.mp4
+  score : /workspace/outputs/Explosion036_x264/fused.npy
+  prompt: Provide a summary of the anomaly events in the video.
+Frame Number:  5327
+Score-driven ATS sampling...
+Sampled frames:  [16, 496, 992, 1472, 1968, 2432, 2912, 3376, 3856, 4336, 4816, 5296]
+  done  : The anomaly event involves a group of people, including children, engaging in a physical altercation, with one person being pushed to the ground, and the group 
+[52/290] Explosion039_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Explosion/Explosion039_x264.mp4
+  score : /workspace/outputs/Explosion039_x264/fused.npy
+  prompt: Could you describe the anomaly events observed in the video?
+Frame Number:  998
+Score-driven ATS sampling...
+Sampled frames:  [32, 128, 224, 304, 384, 464, 544, 640, 720, 800, 896, 976]
+  done  : The anomaly event involves a man in a blue shirt and pink hat entering the kitchen area, interacting with the counter, and then leaving the kitchen area, with n
+[53/290] Explosion043_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Explosion/Explosion043_x264.mp4
+  score : /workspace/outputs/Explosion043_x264/fused.npy
+  prompt: Give a description of the detected anomaly events in this video.
+Frame Number:  7646
+Score-driven ATS sampling...
+Sampled frames:  [32, 1392, 2992, 4192, 4688, 5120, 5504, 5920, 6320, 6752, 7184, 7616]
+  done  : The anomaly event involves a group of people engaging in a physical altercation, with one person being pushed and knocked to the ground, and another person bein
+[54/290] Fighting003_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Fighting/Fighting003_x264.mp4
+  score : /workspace/outputs/Fighting003_x264/fused.npy
+  prompt: Could you provide a summary of the anomaly events in this video?
+Frame Number:  3102
+Score-driven ATS sampling...
+Sampled frames:  [16, 288, 560, 816, 1104, 1392, 1696, 1968, 2256, 2544, 2800, 3072]
+  done  : The anomaly event involves a man in a red jacket and black pants approaching the camera, and then suddenly running away from the camera, suggesting a possible t
+[55/290] Fighting018_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Fighting/Fighting018_x264.mp4
+  score : /workspace/outputs/Fighting018_x264/fused.npy
+  prompt: Could you describe the anomaly events observed in the video?
+Frame Number:  1389
+Score-driven ATS sampling...
+Sampled frames:  [16, 144, 256, 384, 496, 624, 736, 864, 976, 1104, 1248, 1360]
+  done  : The anomaly event involves a man in a white shirt and black pants engaging in a physical altercation with another individual, who is wearing a black shirt and p
+[56/290] Fighting033_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Fighting/Fighting033_x264.mp4
+  score : /workspace/outputs/Fighting033_x264/fused.npy
+  prompt: Describe the anomaly events observed in the video.
+Frame Number:  1105
+Score-driven ATS sampling...
+Sampled frames:  [16, 112, 208, 304, 400, 512, 608, 704, 800, 896, 992, 1088]
+  done  : The anomaly event involves a group of people engaging in a physical altercation, with one person lying on the ground and others standing around them, suggesting
+[57/290] Fighting042_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Fighting/Fighting042_x264.mp4
+  score : /workspace/outputs/Fighting042_x264/fused.npy
+  prompt: Could you describe the anomaly events observed in the video?
+Frame Number:  2237
+Score-driven ATS sampling...
+Sampled frames:  [16, 224, 416, 624, 816, 1008, 1200, 1392, 1600, 1808, 2016, 2208]
+  done  : The anomaly event involves a man in black entering the room, holding a gun, and then leaving the room, suggesting a potential threat to the security of the room
+[58/290] Fighting047_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Fighting/Fighting047_x264.mp4
+  score : /workspace/outputs/Fighting047_x264/fused.npy
+  prompt: Describe the anomaly events observed in the video.
+Frame Number:  4459
+Score-driven ATS sampling...
+Sampled frames:  [16, 384, 1024, 1360, 1680, 2064, 2528, 2880, 3216, 3648, 4016, 4432]
+  done  : The anomaly event involves a man in a white shirt and black pants engaging in a physical altercation with another man in a gray shirt and black pants, followed 
+[59/290] Normal_Videos_003_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_003_x264.mp4
+  score : /workspace/outputs/Normal_Videos_003_x264/fused.npy
+  prompt: Could you specify the actions and subjects present in the video?
+Frame Number:  2822
+Score-driven ATS sampling...
+Sampled frames:  [0, 256, 512, 768, 1024, 1280, 1520, 1776, 2032, 2288, 2544, 2800]
+  done  : A brown and white dog walking on a tiled floor, passing by a red metal fence and a yellow and blue trash bin.
+[60/290] Normal_Videos_006_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_006_x264.mp4
+  score : /workspace/outputs/Normal_Videos_006_x264/fused.npy
+  prompt: Provide a detailed description of the actions in this video.
+Frame Number:  450
+Score-driven ATS sampling...
+Sampled frames:  [0, 32, 80, 112, 160, 192, 240, 272, 320, 352, 400, 432]
+  done  : A white car drove from the upper left to the lower right of the screen
+[61/290] Normal_Videos_010_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_010_x264.mp4
+  score : /workspace/outputs/Normal_Videos_010_x264/fused.npy
+  prompt: Provide a detailed description of the actions in this video.
+Frame Number:  1053
+Score-driven ATS sampling...
+Sampled frames:  [0, 96, 192, 272, 368, 464, 560, 656, 752, 832, 928, 1024]
+  done  : The man in the white shirt walked to the door and opened it.
+[62/290] Normal_Videos_014_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_014_x264.mp4
+  score : /workspace/outputs/Normal_Videos_014_x264/fused.npy
+  prompt: Describe the main activities unfolding in the video.
+Frame Number:  1499
+Score-driven ATS sampling...
+Sampled frames:  [0, 128, 272, 400, 528, 672, 800, 944, 1072, 1200, 1344, 1472]
+  done  : The man in the white shirt took out the money from the drawer and put it on the counter.
+[63/290] Normal_Videos_015_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_015_x264.mp4
+  score : /workspace/outputs/Normal_Videos_015_x264/fused.npy
+  prompt: Give a summary of what is happening in this video.
+Frame Number:  480
+Score-driven ATS sampling...
+Sampled frames:  [0, 48, 80, 128, 176, 208, 256, 288, 336, 384, 416, 464]
+  done  : The woman in black clothes walked to the right of the screen and walked to the right of the screen
+[64/290] Normal_Videos_018_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_018_x264.mp4
+  score : /workspace/outputs/Normal_Videos_018_x264/fused.npy
+  prompt: Could you specify the actions and subjects present in the video?
+Frame Number:  1181
+Score-driven ATS sampling...
+Sampled frames:  [0, 112, 208, 320, 416, 528, 624, 736, 832, 944, 1040, 1152]
+  done  : A bustling airport terminal with a wide, polished floor, surrounded by tall pillars and various electronic displays. people are seen walking around, some carryi
+[65/290] Normal_Videos_019_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_019_x264.mp4
+  score : /workspace/outputs/Normal_Videos_019_x264/fused.npy
+  prompt: Summarize the main subjects and key actions in this video.
+Frame Number:  2843
+Score-driven ATS sampling...
+Sampled frames:  [112, 528, 960, 1344, 1696, 1872, 2000, 2112, 2256, 2432, 2624, 2816]
+  done  : The man in the black jacket walked to the counter and looked at the computer.
+[66/290] Normal_Videos_024_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_024_x264.mp4
+  score : /workspace/outputs/Normal_Videos_024_x264/fused.npy
+  prompt: Describe the events occurring in this video.
+Frame Number:  1076
+Score-driven ATS sampling...
+Sampled frames:  [0, 96, 192, 288, 384, 480, 576, 672, 768, 864, 960, 1056]
+  done  : The man in white clothes walked to the right of the screen and walked to the left of the screen.
+[67/290] Normal_Videos_025_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_025_x264.mp4
+  score : /workspace/outputs/Normal_Videos_025_x264/fused.npy
+  prompt: Could you describe the events observed in the video?
+Frame Number:  602
+Score-driven ATS sampling...
+Sampled frames:  [0, 48, 112, 160, 208, 256, 320, 368, 416, 464, 528, 576]
+  done  : The woman in the white shirt and black pants walked to the right side of the room and left.
+[68/290] Normal_Videos_027_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_027_x264.mp4
+  score : /workspace/outputs/Normal_Videos_027_x264/fused.npy
+  prompt: Describe the main activities unfolding in the video.
+Frame Number:  4922
+Score-driven ATS sampling...
+Sampled frames:  [0, 448, 896, 1328, 1776, 2224, 2672, 3120, 3568, 4000, 4448, 4896]
+  done  : The man in the white shirt walked to the left side of the room and walked to the right side of the room
+[69/290] Normal_Videos_033_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_033_x264.mp4
+  score : /workspace/outputs/Normal_Videos_033_x264/fused.npy
+  prompt: Describe the events occurring in this video.
+Frame Number:  1680
+Score-driven ATS sampling...
+Sampled frames:  [0, 144, 304, 448, 608, 752, 912, 1056, 1216, 1360, 1520, 1664]
+  done  : A man in white clothes and a woman in black clothes walked out of the car and walked to the right side of the road
+[70/290] Normal_Videos_034_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_034_x264.mp4
+  score : /workspace/outputs/Normal_Videos_034_x264/fused.npy
+  prompt: Describe the events occurring in this video.
+Frame Number:  1318
+Score-driven ATS sampling...
+Sampled frames:  [0, 112, 240, 352, 464, 592, 704, 832, 944, 1056, 1184, 1296]
+  done  : A white car drives from the bottom of the screen to the top of the screen
+[71/290] Normal_Videos_041_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_041_x264.mp4
+  score : /workspace/outputs/Normal_Videos_041_x264/fused.npy
+  prompt: Could you describe the events observed in the video?
+Frame Number:  1269
+Score-driven ATS sampling...
+Sampled frames:  [0, 112, 224, 336, 448, 560, 688, 800, 912, 1024, 1136, 1248]
+  done  : A man in white clothes and a cap is seen picking up a bag of food from the table.
+[72/290] Normal_Videos_042_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_042_x264.mp4
+  score : /workspace/outputs/Normal_Videos_042_x264/fused.npy
+  prompt: Provide a video-level description of this video.
+Frame Number:  3154
+Score-driven ATS sampling...
+Sampled frames:  [0, 288, 576, 848, 1136, 1424, 1712, 2000, 2288, 2560, 2848, 3136]
+  done  : A bustling bakery with a counter where customers are seen purchasing items. the counter is stocked with various baked goods, and the employees are busy attendin
+[73/290] Normal_Videos_048_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_048_x264.mp4
+  score : /workspace/outputs/Normal_Videos_048_x264/fused.npy
+  prompt: Provide a detailed description of the actions in this video.
+Frame Number:  1650
+Score-driven ATS sampling...
+Sampled frames:  [0, 144, 304, 448, 592, 736, 896, 1040, 1184, 1328, 1488, 1632]
+  done  : A man in a white shirt walked to the woman in a white shirt and shook her hand.
+[74/290] Normal_Videos_050_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_050_x264.mp4
+  score : /workspace/outputs/Normal_Videos_050_x264/fused.npy
+  prompt: Give a summary of what is happening in this video.
+Frame Number:  4198
+Score-driven ATS sampling...
+Sampled frames:  [144, 544, 928, 1312, 1696, 2080, 2480, 2864, 3264, 3664, 4048, 4176]
+  done  : A busy highway with multiple lanes of traffic, including cars and buses. the vehicles are moving in various directions, and the road is marked with yellow lines
+[75/290] Normal_Videos_051_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_051_x264.mp4
+  score : /workspace/outputs/Normal_Videos_051_x264/fused.npy
+  prompt: What details can you provide about the events in the video?
+Frame Number:  2358
+Score-driven ATS sampling...
+Sampled frames:  [48, 192, 416, 640, 880, 1104, 1312, 1520, 1760, 1984, 2224, 2336]
+  done  : A white suv parked on the side of a street, with a black car driving by in the opposite direction. the timestamp on the video indicates it is 2014-07-29 19:19:0
+[76/290] Normal_Videos_056_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_056_x264.mp4
+  score : /workspace/outputs/Normal_Videos_056_x264/fused.npy
+  prompt: How would you describe the scene in this video?
+Frame Number:  1572
+Score-driven ATS sampling...
+Sampled frames:  [96, 272, 448, 624, 736, 832, 944, 1040, 1152, 1232, 1376, 1552]
+  done  : A man in a blue shirt walked to the counter and looked at the items on the counter.
+[77/290] Normal_Videos_059_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_059_x264.mp4
+  score : /workspace/outputs/Normal_Videos_059_x264/fused.npy
+  prompt: Provide a detailed description of the actions in this video.
+Frame Number:  1835
+Score-driven ATS sampling...
+Sampled frames:  [144, 432, 720, 896, 960, 1024, 1120, 1232, 1376, 1584, 1744, 1808]
+  done  : A man in a blue shirt and dark pants standing in a store, interacting with a woman who is wearing a white shirt and dark pants. the man appears to be engaged in
+[78/290] Normal_Videos_063_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_063_x264.mp4
+  score : /workspace/outputs/Normal_Videos_063_x264/fused.npy
+  prompt: Describe the main activities unfolding in the video.
+Frame Number:  355
+Score-driven ATS sampling...
+Sampled frames:  [0, 32, 64, 96, 128, 160, 176, 208, 240, 272, 304, 336]
+  done  : A busy supermarket with customers browsing and shopping. the scene is bustling with people of various ages and attire, some wearing jackets and others in casual
+[79/290] Normal_Videos_067_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_067_x264.mp4
+  score : /workspace/outputs/Normal_Videos_067_x264/fused.npy
+  prompt: Describe the main activities unfolding in the video.
+Frame Number:  1068
+Score-driven ATS sampling...
+Sampled frames:  [0, 96, 192, 288, 384, 480, 560, 656, 752, 848, 944, 1040]
+  done  : A man in a black uniform and a woman in a white shirt and black skirt walked out of the glass door.
+[80/290] Normal_Videos_070_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_070_x264.mp4
+  score : /workspace/outputs/Normal_Videos_070_x264/fused.npy
+  prompt: Provide a detailed description of the actions in this video.
+Frame Number:  993
+Score-driven ATS sampling...
+Sampled frames:  [0, 96, 176, 272, 352, 448, 528, 624, 704, 800, 880, 976]
+  done  : A bustling office environment with multiple desks arranged in rows. employees are engaged in various activities such as working on computers, interacting with c
+[81/290] Normal_Videos_100_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_100_x264.mp4
+  score : /workspace/outputs/Normal_Videos_100_x264/fused.npy
+  prompt: What details can you provide about the events in the video?
+Frame Number:  627
+Score-driven ATS sampling...
+Sampled frames:  [0, 48, 112, 160, 224, 272, 336, 384, 448, 496, 560, 608]
+  done  : A man in a blue shirt and a woman in a green top walked into the store and looked around.
+[82/290] Normal_Videos_129_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_129_x264.mp4
+  score : /workspace/outputs/Normal_Videos_129_x264/fused.npy
+  prompt: Could you describe the events observed in the video?
+Frame Number:  467
+Score-driven ATS sampling...
+Sampled frames:  [112, 160, 192, 224, 256, 288, 320, 336, 368, 400, 432, 448]
+  done  : A group of police officers in black uniforms and white helmets walking down a street at night. they are accompanied by a yellow construction vehicle with flashi
+[83/290] Normal_Videos_150_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_150_x264.mp4
+  score : /workspace/outputs/Normal_Videos_150_x264/fused.npy
+  prompt: Could you describe the events observed in the video?
+Frame Number:  864
+Score-driven ATS sampling...
+Sampled frames:  [0, 80, 160, 224, 304, 384, 464, 544, 624, 688, 768, 848]
+  done  : A man in a suit walking down a corridor with a suitcase, followed by a woman in a red top and black pants. the corridor has metal railings and tiled floors, and
+[84/290] Normal_Videos_168_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_168_x264.mp4
+  score : /workspace/outputs/Normal_Videos_168_x264/fused.npy
+  prompt: Could you describe the events observed in the video?
+Frame Number:  1740
+Score-driven ATS sampling...
+Sampled frames:  [0, 160, 304, 464, 624, 784, 928, 1088, 1248, 1408, 1552, 1712]
+  done  : A busy urban street with various vehicles, including trucks and cars, moving in different directions. the street is marked with arrows indicating traffic flow. 
+[85/290] Normal_Videos_175_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_175_x264.mp4
+  score : /workspace/outputs/Normal_Videos_175_x264/fused.npy
+  prompt: How would you describe the scene in this video?
+Frame Number:  8847
+Score-driven ATS sampling...
+Sampled frames:  [32, 384, 784, 1232, 2080, 3056, 4016, 4976, 5936, 6896, 7872, 8816]
+  done  : The man in the red shirt walked to the table and sat down.
+[86/290] Normal_Videos_182_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_182_x264.mp4
+  score : /workspace/outputs/Normal_Videos_182_x264/fused.npy
+  prompt: Provide a video-level description of this video.
+Frame Number:  4094
+Score-driven ATS sampling...
+Sampled frames:  [128, 848, 1552, 1936, 2064, 2176, 2560, 3024, 3152, 3296, 3568, 4064]
+  done  : The man in the red jacket walked to the counter and handed the man in black a small object.
+[87/290] Normal_Videos_189_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_189_x264.mp4
+  score : /workspace/outputs/Normal_Videos_189_x264/fused.npy
+  prompt: Could you describe the events observed in the video?
+Frame Number:  737
+Score-driven ATS sampling...
+Sampled frames:  [64, 128, 176, 240, 320, 400, 480, 560, 640, 672, 704, 720]
+  done  : A nighttime scene with multiple vehicles, including cars and a bus, moving along a road. the vehicles are illuminated by their headlights, and the road appears 
+[88/290] Normal_Videos_196_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_196_x264.mp4
+  score : /workspace/outputs/Normal_Videos_196_x264/fused.npy
+  prompt: Describe the events occurring in this video.
+Frame Number:  2004
+Score-driven ATS sampling...
+Sampled frames:  [0, 176, 368, 544, 720, 896, 1088, 1264, 1440, 1616, 1808, 1984]
+  done  : The man in the brown shirt walked to the table and sat down.
+[89/290] Normal_Videos_203_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_203_x264.mp4
+  score : /workspace/outputs/Normal_Videos_203_x264/fused.npy
+  prompt: Could you describe the events observed in the video?
+Frame Number:  2571
+Score-driven ATS sampling...
+Sampled frames:  [0, 224, 464, 688, 928, 1152, 1392, 1616, 1856, 2080, 2320, 2544]
+  done  : A black car drove into the parking lot and parked in the middle of the road
+[90/290] Normal_Videos_210_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_210_x264.mp4
+  score : /workspace/outputs/Normal_Videos_210_x264/fused.npy
+  prompt: How would you describe the scene in this video?
+Frame Number:  5408
+Score-driven ATS sampling...
+Sampled frames:  [0, 496, 976, 1472, 1968, 2448, 2944, 3424, 3920, 4416, 4896, 5392]
+  done  : A bustling street scene with multiple motorcycles and cars moving in different directions. pedestrians are seen walking on the sidewalks, and there are various 
+[91/290] Normal_Videos_217_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_217_x264.mp4
+  score : /workspace/outputs/Normal_Videos_217_x264/fused.npy
+  prompt: Provide a video-level description of this video.
+Frame Number:  1817
+Score-driven ATS sampling...
+Sampled frames:  [48, 112, 192, 288, 432, 608, 800, 1008, 1216, 1408, 1600, 1792]
+  done  : A man in a black jacket and blue jeans walked to the gas station, and then walked to the left side of the road.
+[92/290] Normal_Videos_224_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_224_x264.mp4
+  score : /workspace/outputs/Normal_Videos_224_x264/fused.npy
+  prompt: Give a summary of what is happening in this video.
+Frame Number:  6958
+Score-driven ATS sampling...
+Sampled frames:  [96, 480, 992, 1760, 2496, 3216, 3856, 4448, 5136, 5856, 6432, 6928]
+  done  : A man in a black shirt and helmet entered the room and looked around.
+[93/290] Normal_Videos_246_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_246_x264.mp4
+  score : /workspace/outputs/Normal_Videos_246_x264/fused.npy
+  prompt: Could you describe the events observed in the video?
+Frame Number:  4993
+Score-driven ATS sampling...
+Sampled frames:  [144, 608, 1072, 1536, 2000, 2448, 2848, 3168, 3600, 4064, 4512, 4976]
+  done  : The man in the red hat walked to the man in black and talked to him.
+[94/290] Normal_Videos_247_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_247_x264.mp4
+  score : /workspace/outputs/Normal_Videos_247_x264/fused.npy
+  prompt: Could you specify the actions and subjects present in the video?
+Frame Number:  8211
+Score-driven ATS sampling...
+Sampled frames:  [0, 752, 1488, 2240, 2976, 3728, 4464, 5216, 5952, 6704, 7440, 8192]
+  done  : The man in blue clothes walked to the counter and put the money on the counter
+[95/290] Normal_Videos_248_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_248_x264.mp4
+  score : /workspace/outputs/Normal_Videos_248_x264/fused.npy
+  prompt: Give a summary of what is happening in this video.
+Frame Number:  1140
+Score-driven ATS sampling...
+Sampled frames:  [0, 96, 208, 304, 400, 512, 608, 720, 816, 912, 1024, 1120]
+  done  : A man in white clothes and a man in red clothes walked up the stairs of a building.
+[96/290] Normal_Videos_251_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_251_x264.mp4
+  score : /workspace/outputs/Normal_Videos_251_x264/fused.npy
+  prompt: Provide a video-level description of this video.
+Frame Number:  405
+Score-driven ATS sampling...
+Sampled frames:  [0, 32, 64, 112, 144, 176, 208, 240, 272, 320, 352, 384]
+  done  : A red car parked on the side of the road, with a yellow metal basket on the ground. a man in a white shirt and black pants walks towards the car, and a man in a
+[97/290] Normal_Videos_289_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_289_x264.mp4
+  score : /workspace/outputs/Normal_Videos_289_x264/fused.npy
+  prompt: How would you describe the scene in this video?
+Frame Number:  863
+Score-driven ATS sampling...
+Sampled frames:  [0, 80, 144, 224, 304, 384, 448, 528, 608, 688, 752, 832]
+  done  : A classroom with students seated at desks, engaged in writing activities. the teacher is standing at the front of the room, possibly giving instructions or moni
+[98/290] Normal_Videos_310_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_310_x264.mp4
+  score : /workspace/outputs/Normal_Videos_310_x264/fused.npy
+  prompt: Give a summary of what is happening in this video.
+Frame Number:  2518
+Score-driven ATS sampling...
+Sampled frames:  [0, 224, 448, 688, 912, 1136, 1360, 1584, 1808, 2048, 2272, 2496]
+  done  : A group of people playing basketball on an outdoor court. the players are dressed in casual athletic wear, and the court is surrounded by a chain-link fence wit
+[99/290] Normal_Videos_312_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_312_x264.mp4
+  score : /workspace/outputs/Normal_Videos_312_x264/fused.npy
+  prompt: What details can you provide about the events in the video?
+Frame Number:  1261
+Score-driven ATS sampling...
+Sampled frames:  [0, 112, 224, 336, 448, 560, 672, 784, 896, 1008, 1120, 1232]
+  done  : A man in a green jacket and black pants standing in the aisle of a supermarket, looking around. he then walks towards the checkout counter and stands there for 
+[100/290] Normal_Videos_317_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_317_x264.mp4
+  score : /workspace/outputs/Normal_Videos_317_x264/fused.npy
+  prompt: Could you describe the events observed in the video?
+Frame Number:  929
+Score-driven ATS sampling...
+Sampled frames:  [0, 80, 160, 256, 336, 416, 496, 576, 656, 752, 832, 912]
+  done  : A man in a gray sweater and blue jeans walked into the reception area of a building, and then left the building.
+[101/290] Normal_Videos_345_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_345_x264.mp4
+  score : /workspace/outputs/Normal_Videos_345_x264/fused.npy
+  prompt: Provide a video-level description of this video.
+Frame Number:  209
+Score-driven ATS sampling...
+Sampled frames:  [0, 16, 32, 48, 64, 80, 112, 128, 144, 160, 176, 192]
+  done  : A man in black walked to the left side of the room
+[102/290] Normal_Videos_352_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_352_x264.mp4
+  score : /workspace/outputs/Normal_Videos_352_x264/fused.npy
+  prompt: Provide a detailed description of the actions in this video.
+Frame Number:  5403
+Score-driven ATS sampling...
+Sampled frames:  [0, 496, 976, 1472, 1952, 2448, 2928, 3424, 3904, 4400, 4880, 5376]
+  done  : A green car is being refueled at a gas station. a man in blue clothes is seen pumping gas into the car. the car is parked next to a black car, and there are sev
+[103/290] Normal_Videos_360_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_360_x264.mp4
+  score : /workspace/outputs/Normal_Videos_360_x264/fused.npy
+  prompt: Describe the events occurring in this video.
+Frame Number:  984
+Score-driven ATS sampling...
+Sampled frames:  [0, 80, 176, 256, 352, 432, 528, 608, 704, 784, 880, 960]
+  done  : The man in white clothes walked to the counter and looked at the counter.
+[104/290] Normal_Videos_365_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_365_x264.mp4
+  score : /workspace/outputs/Normal_Videos_365_x264/fused.npy
+  prompt: Summarize the main subjects and key actions in this video.
+Frame Number:  6626
+Score-driven ATS sampling...
+Sampled frames:  [0, 608, 1200, 1808, 2400, 3008, 3600, 4208, 4800, 5408, 6000, 6608]
+  done  : The man in white clothes walked to the table and took out a piece of paper and a pen and wrote something on it
+[105/290] Normal_Videos_401_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_401_x264.mp4
+  score : /workspace/outputs/Normal_Videos_401_x264/fused.npy
+  prompt: How would you describe the scene in this video?
+Frame Number:  1626
+Score-driven ATS sampling...
+Sampled frames:  [0, 144, 288, 432, 576, 720, 880, 1024, 1168, 1312, 1456, 1600]
+  done  : A man in a red shirt and black pants walked to the right side of the screen and walked to the left side of the screen
+[106/290] Normal_Videos_417_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_417_x264.mp4
+  score : /workspace/outputs/Normal_Videos_417_x264/fused.npy
+  prompt: What details can you provide about the events in the video?
+Frame Number:  1077
+Score-driven ATS sampling...
+Sampled frames:  [0, 96, 192, 288, 384, 480, 576, 672, 768, 864, 960, 1056]
+  done  : A man in a gray sweatshirt standing in front of a counter, interacting with a man in a dark shirt who is seated at a computer. the man in the gray sweatshirt ap
+[107/290] Normal_Videos_439_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_439_x264.mp4
+  score : /workspace/outputs/Normal_Videos_439_x264/fused.npy
+  prompt: Give a summary of what is happening in this video.
+Frame Number:  4226
+Score-driven ATS sampling...
+Sampled frames:  [144, 544, 928, 1312, 1696, 2064, 2448, 2768, 3120, 3488, 3872, 4208]
+  done  : The man in black clothes walked to the counter and looked at the items on the counter.
+[108/290] Normal_Videos_452_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_452_x264.mp4
+  score : /workspace/outputs/Normal_Videos_452_x264/fused.npy
+  prompt: What details can you provide about the events in the video?
+Frame Number:  443
+Score-driven ATS sampling...
+Sampled frames:  [0, 32, 80, 112, 144, 192, 224, 272, 304, 336, 384, 416]
+  done  : A bustling indoor setting, likely a shopping mall or public space, with people moving around and engaging in various activities. the scene is busy with individu
+[109/290] Normal_Videos_453_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_453_x264.mp4
+  score : /workspace/outputs/Normal_Videos_453_x264/fused.npy
+  prompt: Give a summary of what is happening in this video.
+Frame Number:  5322
+Score-driven ATS sampling...
+Sampled frames:  [0, 480, 960, 1440, 1920, 2400, 2896, 3376, 3856, 4336, 4816, 5296]
+  done  : The man in white walked to the counter and talked to the woman in black.
+[110/290] Normal_Videos_478_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_478_x264.mp4
+  score : /workspace/outputs/Normal_Videos_478_x264/fused.npy
+  prompt: Provide a video-level description of this video.
+Frame Number:  4502
+Score-driven ATS sampling...
+Sampled frames:  [128, 496, 848, 1248, 1680, 2128, 2544, 2960, 3392, 3808, 4208, 4480]
+  done  : A nighttime scene on a city street with multiple vehicles, including cars and a bus. the street is wet, likely from rain, and there are streetlights illuminatin
+[111/290] Normal_Videos_576_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_576_x264.mp4
+  score : /workspace/outputs/Normal_Videos_576_x264/fused.npy
+  prompt: Could you describe the events observed in the video?
+Frame Number:  11275
+Score-driven ATS sampling...
+Sampled frames:  [144, 1232, 2368, 3504, 4624, 5776, 6912, 7872, 8512, 9456, 10512, 11248]
+  done  : A bustling street scene with various vehicles, including a red bus and a white van, moving along the road. pedestrians are seen walking on the sidewalks, and th
+[112/290] Normal_Videos_597_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_597_x264.mp4
+  score : /workspace/outputs/Normal_Videos_597_x264/fused.npy
+  prompt: Provide a video-level description of this video.
+Frame Number:  2229
+Score-driven ATS sampling...
+Sampled frames:  [0, 208, 400, 608, 800, 1008, 1200, 1408, 1600, 1808, 2000, 2208]
+  done  : A man in a pink shirt and blue jeans entered the bar and walked to the counter.
+[113/290] Normal_Videos_603_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_603_x264.mp4
+  score : /workspace/outputs/Normal_Videos_603_x264/fused.npy
+  prompt: How would you describe the scene in this video?
+Frame Number:  3277
+Score-driven ATS sampling...
+Sampled frames:  [0, 288, 592, 880, 1184, 1472, 1776, 2064, 2368, 2656, 2960, 3248]
+  done  : A series of images from a surveillance camera at a gas station. the timestamp on the images indicates they were taken on the 26th of september 2014 at 19:28:49 
+[114/290] Normal_Videos_606_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_606_x264.mp4
+  score : /workspace/outputs/Normal_Videos_606_x264/fused.npy
+  prompt: How would you describe the scene in this video?
+Frame Number:  1233
+Score-driven ATS sampling...
+Sampled frames:  [0, 112, 224, 336, 448, 560, 656, 768, 880, 992, 1104, 1216]
+  done  : A man in black clothes walked to the right side of the road, and a man in brown clothes walked to the left side of the road.
+[115/290] Normal_Videos_621_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_621_x264.mp4
+  score : /workspace/outputs/Normal_Videos_621_x264/fused.npy
+  prompt: Summarize the main subjects and key actions in this video.
+Frame Number:  4802
+Score-driven ATS sampling...
+Sampled frames:  [0, 432, 864, 1312, 1744, 2176, 2608, 3040, 3472, 3920, 4352, 4784]
+  done  : A man in a black shirt and blue jeans is seen pumping gas at a gas station. the man is standing next to a silver car, which is parked next to a gas pump. the ba
+[116/290] Normal_Videos_634_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_634_x264.mp4
+  score : /workspace/outputs/Normal_Videos_634_x264/fused.npy
+  prompt: Describe the events occurring in this video.
+Frame Number:  13459
+Score-driven ATS sampling...
+Sampled frames:  [0, 1216, 2448, 3664, 4880, 6112, 7328, 8560, 9776, 10992, 12224, 13440]
+  done  : A busy urban street with various vehicles, including cars and buses, moving in different directions. the street is lined with shops and buildings, and there are
+[117/290] Normal_Videos_641_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_641_x264.mp4
+  score : /workspace/outputs/Normal_Videos_641_x264/fused.npy
+  prompt: Could you specify the actions and subjects present in the video?
+Frame Number:  3600
+Score-driven ATS sampling...
+Sampled frames:  [0, 320, 656, 976, 1296, 1632, 1952, 2288, 2608, 2928, 3264, 3584]
+  done  : A man in a blue shirt and jeans walked into the store, and a woman in a black coat and white skirt walked out of the store.
+[118/290] Normal_Videos_656_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_656_x264.mp4
+  score : /workspace/outputs/Normal_Videos_656_x264/fused.npy
+  prompt: Describe the events occurring in this video.
+Frame Number:  1815
+Score-driven ATS sampling...
+Sampled frames:  [0, 160, 320, 496, 656, 816, 976, 1136, 1296, 1472, 1632, 1792]
+  done  : A white car drove to the right side of the road
+[119/290] Normal_Videos_686_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_686_x264.mp4
+  score : /workspace/outputs/Normal_Videos_686_x264/fused.npy
+  prompt: Give a summary of what is happening in this video.
+Frame Number:  2410
+Score-driven ATS sampling...
+Sampled frames:  [0, 224, 432, 656, 864, 1088, 1296, 1520, 1728, 1952, 2160, 2384]
+  done  : A man in a blue shirt and gray pants walked to the right side of the road, and a woman in a red top and blue jeans walked to the left side of the road.
+[120/290] Normal_Videos_696_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_696_x264.mp4
+  score : /workspace/outputs/Normal_Videos_696_x264/fused.npy
+  prompt: Could you specify the actions and subjects present in the video?
+Frame Number:  3625
+Score-driven ATS sampling...
+Sampled frames:  [144, 480, 800, 1120, 1456, 1776, 2096, 2432, 2768, 3088, 3408, 3600]
+  done  : A street scene with raindrops on the road, a person in a blue jacket walking on the sidewalk, and a motorcycle passing by.
+[121/290] Normal_Videos_702_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_702_x264.mp4
+  score : /workspace/outputs/Normal_Videos_702_x264/fused.npy
+  prompt: Provide a video-level description of this video.
+Frame Number:  2523
+Score-driven ATS sampling...
+Sampled frames:  [0, 224, 448, 688, 912, 1136, 1360, 1584, 1808, 2048, 2272, 2496]
+  done  : A man in a black shirt and glasses walked to the right side of the screen, and a woman in a purple top walked to the left side of the screen.
+[122/290] Normal_Videos_704_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_704_x264.mp4
+  score : /workspace/outputs/Normal_Videos_704_x264/fused.npy
+  prompt: Provide a video-level description of this video.
+Frame Number:  1694
+Score-driven ATS sampling...
+Sampled frames:  [32, 128, 224, 416, 672, 944, 1216, 1344, 1424, 1504, 1600, 1664]
+  done  : A woman in red walked to the door and opened it.
+[123/290] Normal_Videos_710_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_710_x264.mp4
+  score : /workspace/outputs/Normal_Videos_710_x264/fused.npy
+  prompt: Describe the main activities unfolding in the video.
+Frame Number:  1797
+Score-driven ATS sampling...
+Sampled frames:  [0, 160, 320, 480, 640, 800, 976, 1136, 1296, 1456, 1616, 1776]
+  done  : A man in a red jacket and black pants standing outside a gate, interacting with another person who is wearing a yellow jacket. the man in the red jacket appears
+[124/290] Normal_Videos_717_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_717_x264.mp4
+  score : /workspace/outputs/Normal_Videos_717_x264/fused.npy
+  prompt: Summarize the main subjects and key actions in this video.
+Frame Number:  1255
+Score-driven ATS sampling...
+Sampled frames:  [0, 112, 224, 336, 448, 560, 672, 784, 896, 1008, 1120, 1232]
+  done  : The man in blue walked to the right of the man in black and walked to the right of the man in black and walked to the right of the man in black and walked to th
+[125/290] Normal_Videos_722_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_722_x264.mp4
+  score : /workspace/outputs/Normal_Videos_722_x264/fused.npy
+  prompt: Summarize the main subjects and key actions in this video.
+Frame Number:  8731
+Score-driven ATS sampling...
+Sampled frames:  [0, 784, 1584, 2368, 3168, 3952, 4752, 5536, 6336, 7120, 7920, 8704]
+  done  : The man in black clothes walked to the left of the screen and walked to the right of the screen.
+[126/290] Normal_Videos_725_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_725_x264.mp4
+  score : /workspace/outputs/Normal_Videos_725_x264/fused.npy
+  prompt: Provide a video-level description of this video.
+Frame Number:  920
+Score-driven ATS sampling...
+Sampled frames:  [32, 80, 128, 176, 224, 304, 432, 576, 688, 768, 848, 896]
+  done  : A silver suv parked on the side of a road, with raindrops visible on the windshield. the vehicle is stationary and appears to be stationary for a period of time
+[127/290] Normal_Videos_745_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_745_x264.mp4
+  score : /workspace/outputs/Normal_Videos_745_x264/fused.npy
+  prompt: Could you specify the actions and subjects present in the video?
+Frame Number:  305
+Score-driven ATS sampling...
+Sampled frames:  [0, 32, 48, 80, 112, 128, 160, 176, 208, 240, 256, 288]
+  done  : A bowling alley with multiple lanes, where players are actively engaged in the game. the lanes are marked with blue and white stripes, and the players are seen 
+[128/290] Normal_Videos_758_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_758_x264.mp4
+  score : /workspace/outputs/Normal_Videos_758_x264/fused.npy
+  prompt: Could you specify the actions and subjects present in the video?
+Frame Number:  1589
+Score-driven ATS sampling...
+Sampled frames:  [0, 144, 288, 432, 576, 720, 848, 992, 1136, 1280, 1424, 1568]
+  done  : A bustling indoor event with numerous people walking around, some standing in groups and others moving through the space. the setting appears to be a trade show
+[129/290] Normal_Videos_778_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_778_x264.mp4
+  score : /workspace/outputs/Normal_Videos_778_x264/fused.npy
+  prompt: How would you describe the scene in this video?
+Frame Number:  1262
+Score-driven ATS sampling...
+Sampled frames:  [0, 112, 224, 336, 448, 560, 672, 784, 896, 1008, 1120, 1232]
+  done  : A series of images depicting a large warehouse with multiple rows of tables and shelves stocked with various items. the tables are covered with blue cloths, and
+[130/290] Normal_Videos_780_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_780_x264.mp4
+  score : /workspace/outputs/Normal_Videos_780_x264/fused.npy
+  prompt: Could you specify the actions and subjects present in the video?
+Frame Number:  2021
+Score-driven ATS sampling...
+Sampled frames:  [0, 176, 368, 544, 720, 912, 1088, 1280, 1456, 1632, 1824, 2000]
+  done  : A man in a black shirt and red pants walked to the left side of the road, and a woman in a black skirt and red top walked to the right side of the road.
+[131/290] Normal_Videos_781_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_781_x264.mp4
+  score : /workspace/outputs/Normal_Videos_781_x264/fused.npy
+  prompt: Could you describe the events observed in the video?
+Frame Number:  3975
+Score-driven ATS sampling...
+Sampled frames:  [0, 352, 720, 1072, 1440, 1792, 2160, 2512, 2880, 3232, 3600, 3952]
+  done  : A busy street scene with pedestrians and vehicles. a man in a red shirt is seen walking towards the camera, followed by a woman in a red dress. they are engaged
+[132/290] Normal_Videos_782_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_782_x264.mp4
+  score : /workspace/outputs/Normal_Videos_782_x264/fused.npy
+  prompt: Could you describe the events observed in the video?
+Frame Number:  5543
+Score-driven ATS sampling...
+Sampled frames:  [0, 496, 1008, 1504, 2000, 2512, 3008, 3520, 4016, 4512, 5024, 5520]
+  done  : A man in a red shirt and black pants walked out of the door and walked to the right side of the room
+[133/290] Normal_Videos_783_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_783_x264.mp4
+  score : /workspace/outputs/Normal_Videos_783_x264/fused.npy
+  prompt: Could you specify the actions and subjects present in the video?
+Frame Number:  9590
+Score-driven ATS sampling...
+Sampled frames:  [0, 864, 1744, 2608, 3472, 4352, 5216, 6096, 6960, 7824, 8704, 9568]
+  done  : A group of people standing in front of an elevator, with one person in a white shirt and another in a pink shirt. the elevator doors are open, and the group app
+[134/290] Normal_Videos_798_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_798_x264.mp4
+  score : /workspace/outputs/Normal_Videos_798_x264/fused.npy
+  prompt: Summarize the main subjects and key actions in this video.
+Frame Number:  6001
+Score-driven ATS sampling...
+Sampled frames:  [0, 544, 1088, 1632, 2176, 2720, 3264, 3808, 4352, 4896, 5440, 5984]
+  done  : A view from inside a vehicle, looking out onto a street lined with buildings and parked cars. the sky is partly cloudy, and the timestamp on the video indicates
+[135/290] Normal_Videos_801_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_801_x264.mp4
+  score : /workspace/outputs/Normal_Videos_801_x264/fused.npy
+  prompt: Could you describe the events observed in the video?
+Frame Number:  2744
+Score-driven ATS sampling...
+Sampled frames:  [0, 240, 496, 736, 992, 1232, 1488, 1728, 1984, 2224, 2480, 2720]
+  done  : The woman in blue clothes took out a bag of chips and put it on the counter.
+[136/290] Normal_Videos_828_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_828_x264.mp4
+  score : /workspace/outputs/Normal_Videos_828_x264/fused.npy
+  prompt: How would you describe the scene in this video?
+Frame Number:  930
+Score-driven ATS sampling...
+Sampled frames:  [0, 80, 160, 256, 336, 416, 496, 576, 656, 752, 832, 912]
+  done  : A white car enters the parking garage, followed by a blue car. the white car drives forward and then turns left, while the blue car follows behind.
+[137/290] Normal_Videos_831_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_831_x264.mp4
+  score : /workspace/outputs/Normal_Videos_831_x264/fused.npy
+  prompt: Provide a video-level description of this video.
+Frame Number:  448
+Score-driven ATS sampling...
+Sampled frames:  [0, 32, 80, 112, 160, 192, 240, 272, 320, 352, 400, 432]
+  done  : A white van drives into the frame from the right side, and then a white car drives out from the left side.
+[138/290] Normal_Videos_866_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_866_x264.mp4
+  score : /workspace/outputs/Normal_Videos_866_x264/fused.npy
+  prompt: Provide a video-level description of this video.
+Frame Number:  1198
+Score-driven ATS sampling...
+Sampled frames:  [0, 112, 208, 320, 432, 528, 640, 736, 848, 960, 1056, 1168]
+  done  : A man in a black jacket and a man in a red shirt are seen walking through a room filled with boxes and furniture. the man in the black jacket is carrying a bag 
+[139/290] Normal_Videos_867_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_867_x264.mp4
+  score : /workspace/outputs/Normal_Videos_867_x264/fused.npy
+  prompt: Could you specify the actions and subjects present in the video?
+Frame Number:  624
+Score-driven ATS sampling...
+Sampled frames:  [0, 48, 112, 160, 224, 272, 336, 384, 448, 496, 560, 608]
+  done  : A man in white clothes walked out from the right side of the screen and walked to the left side of the screen
+[140/290] Normal_Videos_868_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_868_x264.mp4
+  score : /workspace/outputs/Normal_Videos_868_x264/fused.npy
+  prompt: Describe the events occurring in this video.
+Frame Number:  2401
+Score-driven ATS sampling...
+Sampled frames:  [128, 352, 576, 800, 1024, 1248, 1472, 1680, 1856, 2064, 2288, 2384]
+  done  : A man in black clothes walked out of the door and walked to the motorcycle
+[141/290] Normal_Videos_869_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_869_x264.mp4
+  score : /workspace/outputs/Normal_Videos_869_x264/fused.npy
+  prompt: Describe the main activities unfolding in the video.
+Frame Number:  2401
+Score-driven ATS sampling...
+Sampled frames:  [0, 224, 432, 656, 864, 1088, 1296, 1520, 1728, 1952, 2160, 2384]
+  done  : A man in a purple shirt walked out of the door and walked to the table
+[142/290] Normal_Videos_870_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_870_x264.mp4
+  score : /workspace/outputs/Normal_Videos_870_x264/fused.npy
+  prompt: Summarize the main subjects and key actions in this video.
+Frame Number:  601
+Score-driven ATS sampling...
+Sampled frames:  [0, 48, 112, 160, 208, 256, 320, 368, 416, 464, 528, 576]
+  done  : A man in black clothes walked out of the door and walked to the door
+[143/290] Normal_Videos_871_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_871_x264.mp4
+  score : /workspace/outputs/Normal_Videos_871_x264/fused.npy
+  prompt: Summarize the main subjects and key actions in this video.
+Frame Number:  4358
+Score-driven ATS sampling...
+Sampled frames:  [0, 400, 784, 1184, 1584, 1968, 2368, 2752, 3152, 3552, 3936, 4336]
+  done  : A man in a purple shirt walked into the room and walked out.
+[144/290] Normal_Videos_872_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_872_x264.mp4
+  score : /workspace/outputs/Normal_Videos_872_x264/fused.npy
+  prompt: Could you specify the actions and subjects present in the video?
+Frame Number:  530
+Score-driven ATS sampling...
+Sampled frames:  [0, 48, 96, 144, 192, 240, 272, 320, 368, 416, 464, 512]
+  done  : A series of images depicting a busy urban street scene. the first image shows a street with various vehicles, including cars and buses, moving in different dire
+[145/290] Normal_Videos_873_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_873_x264.mp4
+  score : /workspace/outputs/Normal_Videos_873_x264/fused.npy
+  prompt: Could you describe the events observed in the video?
+Frame Number:  1799
+Score-driven ATS sampling...
+Sampled frames:  [0, 160, 320, 480, 640, 800, 976, 1136, 1296, 1456, 1616, 1776]
+  done  : A man in black walked to the right side of the video, and then walked to the left side of the video.
+[146/290] Normal_Videos_874_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_874_x264.mp4
+  score : /workspace/outputs/Normal_Videos_874_x264/fused.npy
+  prompt: Describe the main activities unfolding in the video.
+Frame Number:  4226
+Score-driven ATS sampling...
+Sampled frames:  [144, 608, 1072, 1536, 1968, 2400, 2688, 3008, 3168, 3488, 3920, 4208]
+  done  : The man in black clothes walked to the counter and looked at the items on the counter.
+[147/290] Normal_Videos_875_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_875_x264.mp4
+  score : /workspace/outputs/Normal_Videos_875_x264/fused.npy
+  prompt: Could you specify the actions and subjects present in the video?
+Frame Number:  2565
+Score-driven ATS sampling...
+Sampled frames:  [0, 224, 464, 688, 928, 1152, 1392, 1616, 1856, 2080, 2320, 2544]
+  done  : A bustling urban street scene with various vehicles, including cars, buses, and trucks, navigating through the intersection. the street is lined with trees and 
+[148/290] Normal_Videos_876_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_876_x264.mp4
+  score : /workspace/outputs/Normal_Videos_876_x264/fused.npy
+  prompt: Could you specify the actions and subjects present in the video?
+Frame Number:  351
+Score-driven ATS sampling...
+Sampled frames:  [0, 32, 64, 80, 112, 144, 176, 208, 240, 256, 288, 320]
+  done  : A busy supermarket with customers and employees moving around. the shelves are stocked with various items, and the checkout counters are occupied by customers a
+[149/290] Normal_Videos_877_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_877_x264.mp4
+  score : /workspace/outputs/Normal_Videos_877_x264/fused.npy
+  prompt: Describe the main activities unfolding in the video.
+Frame Number:  10025
+Score-driven ATS sampling...
+Sampled frames:  [96, 1040, 1840, 2784, 3744, 4640, 5568, 6496, 7456, 8208, 9024, 10000]
+  done  : A white car drove from the bottom of the screen to the top of the screen
+[150/290] Normal_Videos_878_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_878_x264.mp4
+  score : /workspace/outputs/Normal_Videos_878_x264/fused.npy
+  prompt: Describe the main activities unfolding in the video.
+Frame Number:  265
+Score-driven ATS sampling...
+Sampled frames:  [16, 48, 64, 80, 96, 112, 144, 160, 176, 192, 224, 240]
+  done  : A black car drove into the parking lot and drove out
+[151/290] Normal_Videos_879_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_879_x264.mp4
+  score : /workspace/outputs/Normal_Videos_879_x264/fused.npy
+  prompt: Give a summary of what is happening in this video.
+Frame Number:  1143
+Score-driven ATS sampling...
+Sampled frames:  [0, 96, 208, 304, 400, 512, 608, 720, 816, 912, 1024, 1120]
+  done  : The woman in orange clothes is sitting on the chair and typing on the laptop.
+[152/290] Normal_Videos_880_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_880_x264.mp4
+  score : /workspace/outputs/Normal_Videos_880_x264/fused.npy
+  prompt: What details can you provide about the events in the video?
+Frame Number:  18054
+Score-driven ATS sampling...
+Sampled frames:  [48, 1424, 2992, 4656, 6368, 8000, 9600, 11312, 13136, 14928, 16496, 18032]
+  done  : A woman sitting at a desk in a room with pink walls. she is wearing a blue top and has a computer on the desk in front of her. the room has a whiteboard on the 
+[153/290] Normal_Videos_881_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_881_x264.mp4
+  score : /workspace/outputs/Normal_Videos_881_x264/fused.npy
+  prompt: Give a summary of what is happening in this video.
+Frame Number:  224
+Score-driven ATS sampling...
+Sampled frames:  [0, 16, 32, 64, 80, 96, 112, 128, 144, 176, 192, 208]
+  done  : A man in black clothes walked to the right of the screen
+[154/290] Normal_Videos_882_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_882_x264.mp4
+  score : /workspace/outputs/Normal_Videos_882_x264/fused.npy
+  prompt: Summarize the main subjects and key actions in this video.
+Frame Number:  1654
+Score-driven ATS sampling...
+Sampled frames:  [0, 144, 304, 448, 592, 736, 896, 1040, 1184, 1328, 1488, 1632]
+  done  : A man in a red shirt walked to the left side of the room, then sat on the floor, and then stood up and walked to the right side of the room.
+[155/290] Normal_Videos_883_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_883_x264.mp4
+  score : /workspace/outputs/Normal_Videos_883_x264/fused.npy
+  prompt: Describe the main activities unfolding in the video.
+Frame Number:  326
+Score-driven ATS sampling...
+Sampled frames:  [0, 32, 48, 80, 112, 144, 160, 192, 224, 256, 272, 304]
+  done  : A blue car parked on the side of a road, with a person in white clothes and a child in pink clothes walking towards the car.
+[156/290] Normal_Videos_884_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_884_x264.mp4
+  score : /workspace/outputs/Normal_Videos_884_x264/fused.npy
+  prompt: What details can you provide about the events in the video?
+Frame Number:  9029
+Score-driven ATS sampling...
+Sampled frames:  [64, 1168, 1744, 2208, 2992, 3968, 4576, 5120, 5888, 7104, 8048, 9008]
+  done  : The woman in the blue shirt walked out of the store and walked to the door.
+[157/290] Normal_Videos_885_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_885_x264.mp4
+  score : /workspace/outputs/Normal_Videos_885_x264/fused.npy
+  prompt: Give a summary of what is happening in this video.
+Frame Number:  474
+Score-driven ATS sampling...
+Sampled frames:  [0, 48, 80, 128, 160, 208, 240, 288, 320, 368, 400, 448]
+  done  : The man in white clothes and the man in yellow clothes are working on the machine.
+[158/290] Normal_Videos_886_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_886_x264.mp4
+  score : /workspace/outputs/Normal_Videos_886_x264/fused.npy
+  prompt: Summarize the main subjects and key actions in this video.
+Frame Number:  2747
+Score-driven ATS sampling...
+Sampled frames:  [0, 240, 496, 736, 992, 1232, 1488, 1728, 1984, 2224, 2480, 2720]
+  done  : The man in white clothes and the man in black clothes are working on the table.
+[159/290] Normal_Videos_887_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_887_x264.mp4
+  score : /workspace/outputs/Normal_Videos_887_x264/fused.npy
+  prompt: Could you specify the actions and subjects present in the video?
+Frame Number:  7630
+Score-driven ATS sampling...
+Sampled frames:  [32, 624, 1744, 3648, 4512, 5008, 5440, 5872, 6416, 6864, 7248, 7600]
+  done  : The video shows a nighttime scene with a street illuminated by streetlights and a building in the background. The camera moves across the scene, capturing the l
+[160/290] Normal_Videos_888_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_888_x264.mp4
+  score : /workspace/outputs/Normal_Videos_888_x264/fused.npy
+  prompt: Provide a video-level description of this video.
+Frame Number:  574
+Score-driven ATS sampling...
+Sampled frames:  [0, 48, 96, 144, 192, 240, 304, 352, 400, 448, 496, 544]
+  done  : A woman in a blue top and black pants walked to the counter and handed over a card to the man in black clothes.
+[161/290] Normal_Videos_889_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_889_x264.mp4
+  score : /workspace/outputs/Normal_Videos_889_x264/fused.npy
+  prompt: Describe the main activities unfolding in the video.
+Frame Number:  314
+Score-driven ATS sampling...
+Sampled frames:  [0, 32, 48, 80, 112, 128, 160, 176, 208, 240, 256, 288]
+  done  : The man in black walked to the counter and looked at the items on the counter.
+[162/290] Normal_Videos_890_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_890_x264.mp4
+  score : /workspace/outputs/Normal_Videos_890_x264/fused.npy
+  prompt: Provide a video-level description of this video.
+Frame Number:  3579
+Score-driven ATS sampling...
+Sampled frames:  [0, 320, 640, 976, 1296, 1616, 1936, 2256, 2576, 2912, 3232, 3552]
+  done  : A bustling indoor setting, likely a trade show or exhibition, with various stalls and booths. the main focus is on a stall with a blue tablecloth and a sign tha
+[163/290] Normal_Videos_891_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_891_x264.mp4
+  score : /workspace/outputs/Normal_Videos_891_x264/fused.npy
+  prompt: How would you describe the scene in this video?
+Frame Number:  1800
+Score-driven ATS sampling...
+Sampled frames:  [0, 160, 320, 480, 640, 800, 976, 1136, 1296, 1456, 1616, 1776]
+  done  : A bustling trade show or exhibition hall with various booths and attendees. the floor is covered with red carpet, and there are several white tables with comput
+[164/290] Normal_Videos_892_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_892_x264.mp4
+  score : /workspace/outputs/Normal_Videos_892_x264/fused.npy
+  prompt: Summarize the main subjects and key actions in this video.
+Frame Number:  1770
+Score-driven ATS sampling...
+Sampled frames:  [0, 160, 320, 480, 640, 800, 944, 1104, 1264, 1424, 1584, 1744]
+  done  : A man in a striped shirt and shorts walked to the door of a house and opened the door.
+[165/290] Normal_Videos_893_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_893_x264.mp4
+  score : /workspace/outputs/Normal_Videos_893_x264/fused.npy
+  prompt: Provide a video-level description of this video.
+Frame Number:  6374
+Score-driven ATS sampling...
+Sampled frames:  [0, 576, 1152, 1728, 2304, 2880, 3472, 4048, 4624, 5200, 5776, 6352]
+  done  : A man in a blue jacket and black pants walked to the bottom of the shelf and looked at the magazines.
+[166/290] Normal_Videos_894_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_894_x264.mp4
+  score : /workspace/outputs/Normal_Videos_894_x264/fused.npy
+  prompt: Could you describe the events observed in the video?
+Frame Number:  2575
+Score-driven ATS sampling...
+Sampled frames:  [144, 384, 640, 896, 1120, 1328, 1568, 1808, 2064, 2304, 2480, 2544]
+  done  : The man in black walked to the counter and put the money in his pocket.
+[167/290] Normal_Videos_895_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_895_x264.mp4
+  score : /workspace/outputs/Normal_Videos_895_x264/fused.npy
+  prompt: Could you describe the events observed in the video?
+Frame Number:  3030
+Score-driven ATS sampling...
+Sampled frames:  [48, 288, 608, 848, 1072, 1200, 1312, 1472, 1792, 2096, 2704, 3008]
+  done  : A man in black clothes and white shoes walked out of the house and walked to the door.
+[168/290] Normal_Videos_896_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_896_x264.mp4
+  score : /workspace/outputs/Normal_Videos_896_x264/fused.npy
+  prompt: Provide a detailed description of the actions in this video.
+Frame Number:  2303
+Score-driven ATS sampling...
+Sampled frames:  [32, 144, 256, 352, 496, 720, 944, 1248, 1456, 1760, 2032, 2272]
+  done  : A silver car with its front wheels lifted off the ground, parked on the side of a road. the car is surrounded by various vehicles, including a red car and a whi
+[169/290] Normal_Videos_897_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_897_x264.mp4
+  score : /workspace/outputs/Normal_Videos_897_x264/fused.npy
+  prompt: What details can you provide about the events in the video?
+Frame Number:  875
+Score-driven ATS sampling...
+Sampled frames:  [0, 80, 160, 224, 304, 384, 464, 544, 624, 688, 768, 848]
+  done  : The man in white clothes walked to the right side of the screen
+[170/290] Normal_Videos_898_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_898_x264.mp4
+  score : /workspace/outputs/Normal_Videos_898_x264/fused.npy
+  prompt: Describe the main activities unfolding in the video.
+Frame Number:  1005
+Score-driven ATS sampling...
+Sampled frames:  [0, 96, 176, 272, 352, 448, 528, 624, 704, 800, 880, 976]
+  done  : A group of people walking through a public space, possibly a shopping mall or a similar venue. the individuals are dressed in casual attire, with some wearing h
+[171/290] Normal_Videos_899_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_899_x264.mp4
+  score : /workspace/outputs/Normal_Videos_899_x264/fused.npy
+  prompt: Give a summary of what is happening in this video.
+Frame Number:  1380
+Score-driven ATS sampling...
+Sampled frames:  [0, 128, 240, 368, 496, 624, 736, 864, 992, 1120, 1232, 1360]
+  done  : A woman in black walked out of the store and walked to the right side of the screen
+[172/290] Normal_Videos_900_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_900_x264.mp4
+  score : /workspace/outputs/Normal_Videos_900_x264/fused.npy
+  prompt: Could you describe the events observed in the video?
+Frame Number:  1455
+Score-driven ATS sampling...
+Sampled frames:  [128, 256, 384, 512, 640, 768, 880, 976, 1072, 1200, 1312, 1424]
+  done  : A group of people walking in front of a line of cars, some of which are parked and others are moving. the individuals are holding umbrellas, suggesting it might
+[173/290] Normal_Videos_901_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_901_x264.mp4
+  score : /workspace/outputs/Normal_Videos_901_x264/fused.npy
+  prompt: Could you specify the actions and subjects present in the video?
+Frame Number:  1170
+Score-driven ATS sampling...
+Sampled frames:  [32, 144, 224, 288, 368, 432, 496, 560, 624, 704, 912, 1152]
+  done  : A view of a palm tree and a white truck parked on the side of a road. the scene then shifts to a white car driving on the road, followed by a silver car. the vi
+[174/290] Normal_Videos_902_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_902_x264.mp4
+  score : /workspace/outputs/Normal_Videos_902_x264/fused.npy
+  prompt: Provide a detailed description of the actions in this video.
+Frame Number:  1384
+Score-driven ATS sampling...
+Sampled frames:  [112, 256, 400, 528, 656, 800, 928, 1040, 1152, 1248, 1312, 1360]
+  done  : A blue-tinted view of an empty road, transitioning to a daytime scene where a white truck is parked on the side of the road. the truck has a green dumpster atta
+[175/290] Normal_Videos_903_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_903_x264.mp4
+  score : /workspace/outputs/Normal_Videos_903_x264/fused.npy
+  prompt: Could you specify the actions and subjects present in the video?
+Frame Number:  790
+Score-driven ATS sampling...
+Sampled frames:  [0, 64, 144, 208, 272, 352, 416, 496, 560, 624, 704, 768]
+  done  : A view of a gas station with a sign that reads "7-11" and a digital display showing "3:00." the scene then transitions to a busy intersection where multiple veh
+[176/290] Normal_Videos_904_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_904_x264.mp4
+  score : /workspace/outputs/Normal_Videos_904_x264/fused.npy
+  prompt: Summarize the main subjects and key actions in this video.
+Frame Number:  908
+Score-driven ATS sampling...
+Sampled frames:  [0, 80, 160, 240, 320, 400, 480, 560, 640, 720, 800, 880]
+  done  : A red car drove into the intersection and stopped.
+[177/290] Normal_Videos_905_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_905_x264.mp4
+  score : /workspace/outputs/Normal_Videos_905_x264/fused.npy
+  prompt: Could you specify the actions and subjects present in the video?
+Frame Number:  1196
+Score-driven ATS sampling...
+Sampled frames:  [0, 112, 208, 320, 432, 528, 640, 736, 848, 960, 1056, 1168]
+  done  : A black car drove from the upper left to the lower right of the screen, and then a white car drove from the upper right to the lower left of the screen.
+[178/290] Normal_Videos_906_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_906_x264.mp4
+  score : /workspace/outputs/Normal_Videos_906_x264/fused.npy
+  prompt: Provide a video-level description of this video.
+Frame Number:  676
+Score-driven ATS sampling...
+Sampled frames:  [0, 64, 112, 176, 240, 304, 352, 416, 480, 544, 592, 656]
+  done  : A red car drives from the bottom of the screen to the top of the screen, then a black car drives from the bottom of the screen to the top of the screen, and fin
+[179/290] Normal_Videos_907_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_907_x264.mp4
+  score : /workspace/outputs/Normal_Videos_907_x264/fused.npy
+  prompt: Provide a video-level description of this video.
+Frame Number:  598
+Score-driven ATS sampling...
+Sampled frames:  [0, 48, 112, 160, 208, 256, 320, 368, 416, 464, 528, 576]
+  done  : A busy intersection with multiple vehicles, including cars and trucks, moving in various directions. the scene is set in an urban environment with palm trees an
+[180/290] Normal_Videos_908_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_908_x264.mp4
+  score : /workspace/outputs/Normal_Videos_908_x264/fused.npy
+  prompt: How would you describe the scene in this video?
+Frame Number:  889
+Score-driven ATS sampling...
+Sampled frames:  [0, 80, 160, 240, 320, 400, 464, 544, 624, 704, 784, 864]
+  done  : A busy intersection with multiple lanes of traffic, including cars and trucks. the traffic is moving in both directions, with some vehicles turning left and oth
+[181/290] Normal_Videos_909_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_909_x264.mp4
+  score : /workspace/outputs/Normal_Videos_909_x264/fused.npy
+  prompt: Could you describe the events observed in the video?
+Frame Number:  870
+Score-driven ATS sampling...
+Sampled frames:  [0, 80, 160, 224, 304, 384, 464, 544, 624, 688, 768, 848]
+  done  : A series of aerial views of a city street, showcasing various vehicles and pedestrians. the first scene shows a busy intersection with multiple lanes of traffic
+[182/290] Normal_Videos_910_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_910_x264.mp4
+  score : /workspace/outputs/Normal_Videos_910_x264/fused.npy
+  prompt: Provide a video-level description of this video.
+Frame Number:  567
+Score-driven ATS sampling...
+Sampled frames:  [0, 48, 96, 144, 192, 240, 304, 352, 400, 448, 496, 544]
+  done  : A series of aerial views of a city street, showcasing various vehicles and construction barriers. the first scene shows a highway with multiple lanes of traffic
+[183/290] Normal_Videos_911_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_911_x264.mp4
+  score : /workspace/outputs/Normal_Videos_911_x264/fused.npy
+  prompt: What details can you provide about the events in the video?
+Frame Number:  776
+Score-driven ATS sampling...
+Sampled frames:  [112, 176, 240, 304, 352, 416, 480, 528, 592, 656, 704, 752]
+  done  : A car driving on a city street, passing by a building with a sign that reads "2nd ave." the street is lined with trees and lamp posts, and the car moves in a st
+[184/290] Normal_Videos_912_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_912_x264.mp4
+  score : /workspace/outputs/Normal_Videos_912_x264/fused.npy
+  prompt: Provide a video-level description of this video.
+Frame Number:  746
+Score-driven ATS sampling...
+Sampled frames:  [80, 144, 224, 288, 352, 416, 464, 512, 576, 624, 688, 720]
+  done  : A street scene with a black suv driving on the right side of the road, passing by a white car and a red car. the street is lined with trees and buildings, and t
+[185/290] Normal_Videos_913_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_913_x264.mp4
+  score : /workspace/outputs/Normal_Videos_913_x264/fused.npy
+  prompt: Summarize the main subjects and key actions in this video.
+Frame Number:  609
+Score-driven ATS sampling...
+Sampled frames:  [80, 144, 192, 256, 304, 368, 416, 480, 512, 544, 576, 592]
+  done  : A white pickup truck drives down the road, followed by a silver car. the scene then shifts to a view from a higher vantage point, showing a residential area wit
+[186/290] Normal_Videos_914_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_914_x264.mp4
+  score : /workspace/outputs/Normal_Videos_914_x264/fused.npy
+  prompt: Describe the events occurring in this video.
+Frame Number:  880
+Score-driven ATS sampling...
+Sampled frames:  [0, 80, 160, 240, 320, 400, 464, 544, 624, 704, 784, 864]
+  done  : A series of images from a moving vehicle's perspective, capturing various cars and trucks navigating through an intersection. the vehicles are moving in differe
+[187/290] Normal_Videos_915_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_915_x264.mp4
+  score : /workspace/outputs/Normal_Videos_915_x264/fused.npy
+  prompt: What details can you provide about the events in the video?
+Frame Number:  1245
+Score-driven ATS sampling...
+Sampled frames:  [0, 112, 224, 336, 448, 560, 656, 768, 880, 992, 1104, 1216]
+  done  : A busy intersection with multiple vehicles, including cars and buses, moving in various directions. the scene is set in a sunny day with clear skies and palm tr
+[188/290] Normal_Videos_923_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_923_x264.mp4
+  score : /workspace/outputs/Normal_Videos_923_x264/fused.npy
+  prompt: Could you specify the actions and subjects present in the video?
+Frame Number:  18224
+Score-driven ATS sampling...
+Sampled frames:  [144, 1792, 3456, 5072, 6720, 8368, 10016, 11648, 13280, 14928, 16560, 18208]
+  done  : The man in white clothes walked to the counter and sat down.
+[189/290] Normal_Videos_924_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_924_x264.mp4
+  score : /workspace/outputs/Normal_Videos_924_x264/fused.npy
+  prompt: Could you describe the events observed in the video?
+Frame Number:  107997
+Score-driven ATS sampling...
+Sampled frames:  [144, 11184, 16672, 25824, 35648, 42176, 51568, 63392, 74784, 86096, 96896, 107984]
+  done  : The man in the white shirt walked to the left side of the screen and walked to the right side of the screen.
+[190/290] Normal_Videos_925_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_925_x264.mp4
+  score : /workspace/outputs/Normal_Videos_925_x264/fused.npy
+  prompt: Could you specify the actions and subjects present in the video?
+Frame Number:  7726
+Score-driven ATS sampling...
+Sampled frames:  [16, 672, 1344, 2032, 2704, 3376, 4064, 4752, 5488, 6208, 6928, 7696]
+  done  : A black and white surveillance camera footage of a parking lot at night. the camera is positioned above the parking lot, capturing the movement of cars and peop
+[191/290] Normal_Videos_926_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_926_x264.mp4
+  score : /workspace/outputs/Normal_Videos_926_x264/fused.npy
+  prompt: Could you specify the actions and subjects present in the video?
+Frame Number:  1796
+Score-driven ATS sampling...
+Sampled frames:  [0, 160, 320, 480, 640, 800, 976, 1136, 1296, 1456, 1616, 1776]
+  done  : A man in a white shirt walked out of the door and walked to the right side of the room.
+[192/290] Normal_Videos_927_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_927_x264.mp4
+  score : /workspace/outputs/Normal_Videos_927_x264/fused.npy
+  prompt: Provide a detailed description of the actions in this video.
+Frame Number:  1633
+Score-driven ATS sampling...
+Sampled frames:  [48, 160, 240, 320, 400, 544, 720, 976, 1136, 1248, 1424, 1616]
+  done  : The woman in the blue shirt and the woman in the white shirt are sitting on the left side of the bus, and the woman in the black shirt is sitting on the right s
+[193/290] Normal_Videos_928_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_928_x264.mp4
+  score : /workspace/outputs/Normal_Videos_928_x264/fused.npy
+  prompt: How would you describe the scene in this video?
+Frame Number:  918
+Score-driven ATS sampling...
+Sampled frames:  [0, 80, 160, 240, 320, 400, 496, 576, 656, 736, 816, 896]
+  done  : A man in a black shirt and orange trim, who is seen interacting with a woman in a purple top and a child in a yellow shirt. the man is engaged in a conversation
+[194/290] Normal_Videos_929_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_929_x264.mp4
+  score : /workspace/outputs/Normal_Videos_929_x264/fused.npy
+  prompt: Provide a video-level description of this video.
+Frame Number:  924
+Score-driven ATS sampling...
+Sampled frames:  [0, 80, 160, 240, 320, 400, 496, 576, 656, 736, 816, 896]
+  done  : A man in a black shirt walked to the counter and looked at the items on the counter
+[195/290] Normal_Videos_930_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_930_x264.mp4
+  score : /workspace/outputs/Normal_Videos_930_x264/fused.npy
+  prompt: How would you describe the scene in this video?
+Frame Number:  3187
+Score-driven ATS sampling...
+Sampled frames:  [0, 288, 576, 864, 1152, 1440, 1728, 2016, 2304, 2592, 2880, 3168]
+  done  : A man in a red shirt sitting at a desk in a store, looking at a computer screen. the store has a glass table, orange chairs, and various items on shelves.
+[196/290] Normal_Videos_931_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_931_x264.mp4
+  score : /workspace/outputs/Normal_Videos_931_x264/fused.npy
+  prompt: Provide a detailed description of the actions in this video.
+Frame Number:  1765
+Score-driven ATS sampling...
+Sampled frames:  [0, 160, 320, 480, 640, 800, 944, 1104, 1264, 1424, 1584, 1744]
+  done  : A man in a red shirt walked to the right side of the road
+[197/290] Normal_Videos_932_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_932_x264.mp4
+  score : /workspace/outputs/Normal_Videos_932_x264/fused.npy
+  prompt: Could you describe the events observed in the video?
+Frame Number:  1784
+Score-driven ATS sampling...
+Sampled frames:  [16, 144, 288, 432, 576, 736, 896, 1072, 1232, 1424, 1600, 1760]
+  done  : The man in red clothes walked to the door and opened it.
+[198/290] Normal_Videos_933_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_933_x264.mp4
+  score : /workspace/outputs/Normal_Videos_933_x264/fused.npy
+  prompt: Provide a detailed description of the actions in this video.
+Frame Number:  1771
+Score-driven ATS sampling...
+Sampled frames:  [0, 160, 320, 480, 640, 800, 944, 1104, 1264, 1424, 1584, 1744]
+  done  : A man in a green shirt and black shorts walked to the right side of the screen and looked at the shelf
+[199/290] Normal_Videos_934_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_934_x264.mp4
+  score : /workspace/outputs/Normal_Videos_934_x264/fused.npy
+  prompt: Describe the events occurring in this video.
+Frame Number:  1765
+Score-driven ATS sampling...
+Sampled frames:  [0, 160, 320, 480, 640, 800, 944, 1104, 1264, 1424, 1584, 1744]
+  done  : A man in a blue shirt walked out of the store and walked to the right side of the screen
+[200/290] Normal_Videos_935_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_935_x264.mp4
+  score : /workspace/outputs/Normal_Videos_935_x264/fused.npy
+  prompt: What details can you provide about the events in the video?
+Frame Number:  107994
+Score-driven ATS sampling...
+Sampled frames:  [144, 9936, 19744, 29536, 39344, 49152, 58944, 68768, 78560, 88368, 98176, 107984]
+  done  : A bustling indoor shopping mall with various shops and people walking around. the floor is tiled, and there are signs and advertisements visible.
+[201/290] Normal_Videos_936_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_936_x264.mp4
+  score : /workspace/outputs/Normal_Videos_936_x264/fused.npy
+  prompt: Provide a detailed description of the actions in this video.
+Frame Number:  1150
+Score-driven ATS sampling...
+Sampled frames:  [0, 96, 208, 304, 400, 512, 608, 720, 816, 912, 1024, 1120]
+  done  : A group of people walking on a sidewalk, with some individuals carrying backpacks and others wearing casual clothing. the scene is set in an urban area with par
+[202/290] Normal_Videos_937_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_937_x264.mp4
+  score : /workspace/outputs/Normal_Videos_937_x264/fused.npy
+  prompt: Provide a video-level description of this video.
+Frame Number:  1150
+Score-driven ATS sampling...
+Sampled frames:  [0, 96, 208, 304, 400, 512, 608, 720, 816, 912, 1024, 1120]
+  done  : A group of people walking on a sidewalk, with some individuals carrying backpacks and others wearing casual clothing. the scene is set in an urban area with par
+[203/290] Normal_Videos_938_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_938_x264.mp4
+  score : /workspace/outputs/Normal_Videos_938_x264/fused.npy
+  prompt: Describe the main activities unfolding in the video.
+Frame Number:  4827
+Score-driven ATS sampling...
+Sampled frames:  [0, 432, 880, 1312, 1744, 2176, 2624, 3056, 3488, 3920, 4368, 4800]
+  done  : The man in white walked to the counter and talked to the woman in white.
+[204/290] Normal_Videos_939_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_939_x264.mp4
+  score : /workspace/outputs/Normal_Videos_939_x264/fused.npy
+  prompt: Summarize the main subjects and key actions in this video.
+Frame Number:  801
+Score-driven ATS sampling...
+Sampled frames:  [0, 64, 144, 208, 288, 352, 432, 496, 576, 640, 720, 784]
+  done  : The man in the pink shirt took out a box of cigarettes and put it on the counter.
+[205/290] Normal_Videos_940_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_940_x264.mp4
+  score : /workspace/outputs/Normal_Videos_940_x264/fused.npy
+  prompt: What details can you provide about the events in the video?
+Frame Number:  36017
+Score-driven ATS sampling...
+Sampled frames:  [144, 4192, 8128, 12032, 15856, 19744, 20992, 22112, 25536, 29264, 32368, 36016]
+  done  : A man in a white shirt walked to the counter and looked at the items on the counter.
+[206/290] Normal_Videos_941_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_941_x264.mp4
+  score : /workspace/outputs/Normal_Videos_941_x264/fused.npy
+  prompt: Describe the events occurring in this video.
+Frame Number:  2020
+Score-driven ATS sampling...
+Sampled frames:  [0, 176, 368, 544, 720, 912, 1088, 1280, 1456, 1632, 1824, 2000]
+  done  : A yellow car parked on the left side of the road, followed by a silver car. a person wearing a red shirt and black pants walked to the right side of the road.
+[207/290] Normal_Videos_943_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_943_x264.mp4
+  score : /workspace/outputs/Normal_Videos_943_x264/fused.npy
+  prompt: Could you describe the events observed in the video?
+Frame Number:  1020
+Score-driven ATS sampling...
+Sampled frames:  [48, 160, 224, 320, 400, 480, 544, 592, 640, 688, 768, 992]
+  done  : The man in black walked to the bottom of the stairs and walked to the bottom of the stairs.
+[208/290] Normal_Videos_944_x264
+  video : /workspace/test/Testing_Normal_Videos_Anomaly/Normal_Videos_944_x264.mp4
+  score : /workspace/outputs/Normal_Videos_944_x264/fused.npy
+  prompt: Give a summary of what is happening in this video.
+Frame Number:  7170
+Score-driven ATS sampling...
+Sampled frames:  [0, 656, 1296, 1952, 2608, 3248, 3904, 4544, 5200, 5856, 6496, 7152]
+  done  : A group of people in an indoor setting, possibly at an exhibition or trade show. the individuals are engaged in various activities such as talking, walking, and
+[209/290] RoadAccidents001_x264
+  video : /workspace/test/Testing_Anomaly_Videos/RoadAccidents/RoadAccidents001_x264.mp4
+  score : /workspace/outputs/RoadAccidents001_x264/fused.npy
+  prompt: Could you specify the anomaly events present in the video?
+Frame Number:  1366
+Score-driven ATS sampling...
+Sampled frames:  [16, 128, 256, 368, 480, 608, 736, 848, 976, 1104, 1232, 1344]
+  done  : The anomaly event involves a man in blue clothes and a man in black clothes engaging in a physical altercation with a man in black clothes, which is a clear and
+[210/290] RoadAccidents002_x264
+  video : /workspace/test/Testing_Anomaly_Videos/RoadAccidents/RoadAccidents002_x264.mp4
+  score : /workspace/outputs/RoadAccidents002_x264/fused.npy
+  prompt: Provide a summary of the anomaly events in the video.
+Frame Number:  347
+Score-driven ATS sampling...
+Sampled frames:  [112, 192, 224, 240, 256, 272, 272, 288, 304, 304, 320, 320]
+  done  : The anomaly event involves a bus suddenly veering off the road, causing a collision with a pedestrian, resulting in the pedestrian being thrown to the ground an
+[211/290] RoadAccidents004_x264
+  video : /workspace/test/Testing_Anomaly_Videos/RoadAccidents/RoadAccidents004_x264.mp4
+  score : /workspace/outputs/RoadAccidents004_x264/fused.npy
+  prompt: How would you describe the particular anomaly events in the video?
+Frame Number:  389
+Score-driven ATS sampling...
+Sampled frames:  [112, 160, 208, 240, 272, 288, 320, 336, 336, 352, 368, 368]
+  done  : The video depicts a normal traffic scene with cars moving in both directions, with no unusual or unexpected events occurring.
+[212/290] RoadAccidents009_x264
+  video : /workspace/test/Testing_Anomaly_Videos/RoadAccidents/RoadAccidents009_x264.mp4
+  score : /workspace/outputs/RoadAccidents009_x264/fused.npy
+  prompt: Could you provide a summary of the anomaly events in this video?
+Frame Number:  918
+Score-driven ATS sampling...
+Sampled frames:  [32, 160, 272, 352, 416, 480, 544, 608, 672, 752, 816, 896]
+  done  : The video shows a normal traffic scene where a white pickup truck drives past a pedestrian crossing, with no unusual or unexpected events occurring.
+[213/290] RoadAccidents010_x264
+  video : /workspace/test/Testing_Anomaly_Videos/RoadAccidents/RoadAccidents010_x264.mp4
+  score : /workspace/outputs/RoadAccidents010_x264/fused.npy
+  prompt: Describe the anomaly events observed in the video.
+Frame Number:  528
+Score-driven ATS sampling...
+Sampled frames:  [16, 80, 128, 176, 224, 256, 304, 352, 400, 432, 480, 512]
+  done  : The anomaly event involves a white car driving into the scene, colliding with a red bus, and then driving away from the scene, with the bus's front end being da
+[214/290] RoadAccidents011_x264
+  video : /workspace/test/Testing_Anomaly_Videos/RoadAccidents/RoadAccidents011_x264.mp4
+  score : /workspace/outputs/RoadAccidents011_x264/fused.npy
+  prompt: Could you provide a summary of the anomaly events in this video?
+Frame Number:  2159
+Score-driven ATS sampling...
+Sampled frames:  [64, 288, 464, 640, 848, 1104, 1360, 1648, 1824, 1968, 2064, 2128]
+  done  : The video depicts a normal traffic scene with multiple vehicles, including cars, trucks, and motorcycles, moving in a typical traffic flow, with no unusual or u
+[215/290] RoadAccidents012_x264
+  video : /workspace/test/Testing_Anomaly_Videos/RoadAccidents/RoadAccidents012_x264.mp4
+  score : /workspace/outputs/RoadAccidents012_x264/fused.npy
+  prompt: How would you describe the particular anomaly events in the video?
+Frame Number:  468
+Score-driven ATS sampling...
+Sampled frames:  [64, 112, 160, 208, 256, 288, 320, 352, 384, 416, 432, 448]
+  done  : The video depicts a normal traffic scene where a white car is driving on the road, and a red car is driving on the road, with no unusual or unexpected events oc
+[216/290] RoadAccidents016_x264
+  video : /workspace/test/Testing_Anomaly_Videos/RoadAccidents/RoadAccidents016_x264.mp4
+  score : /workspace/outputs/RoadAccidents016_x264/fused.npy
+  prompt: Give a description of the detected anomaly events in this video.
+Frame Number:  2192
+Score-driven ATS sampling...
+Sampled frames:  [128, 528, 656, 736, 800, 912, 1088, 1200, 1344, 1584, 1824, 2176]
+  done  : The video depicts a normal scene where a group of people, including children, walk across the street, with no unusual or out-of-the-ordinary events occurring. T
+[217/290] RoadAccidents017_x264
+  video : /workspace/test/Testing_Anomaly_Videos/RoadAccidents/RoadAccidents017_x264.mp4
+  score : /workspace/outputs/RoadAccidents017_x264/fused.npy
+  prompt: How would you describe the particular anomaly events in the video?
+Frame Number:  243
+Score-driven ATS sampling...
+Sampled frames:  [48, 64, 80, 96, 112, 128, 144, 160, 176, 192, 208, 224]
+  done  : The anomaly event involves a car colliding with another vehicle, resulting in a significant amount of smoke and debris being released from the vehicle, indicati
+[218/290] RoadAccidents019_x264
+  video : /workspace/test/Testing_Anomaly_Videos/RoadAccidents/RoadAccidents019_x264.mp4
+  score : /workspace/outputs/RoadAccidents019_x264/fused.npy
+  prompt: Give a description of the detected anomaly events in this video.
+Frame Number:  1314
+Score-driven ATS sampling...
+Sampled frames:  [16, 144, 304, 528, 720, 816, 896, 976, 1072, 1152, 1232, 1296]
+  done  : The anomaly event involves a man in a red shirt and black pants walking towards the car, and then a man in a black shirt and red pants walking towards the car, 
+[219/290] RoadAccidents020_x264
+  video : /workspace/test/Testing_Anomaly_Videos/RoadAccidents/RoadAccidents020_x264.mp4
+  score : /workspace/outputs/RoadAccidents020_x264/fused.npy
+  prompt: Could you give a description of the anomaly events in the video?
+Frame Number:  1773
+Score-driven ATS sampling...
+Sampled frames:  [16, 208, 400, 576, 720, 864, 1008, 1152, 1296, 1456, 1600, 1744]
+  done  : The anomaly event involves a man in white clothes and a red cap riding a motorcycle and then stopping on the road, followed by a man in black clothes and a red 
+[220/290] RoadAccidents021_x264
+  video : /workspace/test/Testing_Anomaly_Videos/RoadAccidents/RoadAccidents021_x264.mp4
+  score : /workspace/outputs/RoadAccidents021_x264/fused.npy
+  prompt: What details can you provide about the anomaly in the video?
+Frame Number:  155
+Uniform Sampling...
+  done  : The anomaly event involves a man in black clothes and a woman in black clothes approaching the black car, and then the man in black clothes and the woman in bla
+[221/290] RoadAccidents022_x264
+  video : /workspace/test/Testing_Anomaly_Videos/RoadAccidents/RoadAccidents022_x264.mp4
+  score : /workspace/outputs/RoadAccidents022_x264/fused.npy
+  prompt: Could you describe the anomaly events observed in the video?
+Frame Number:  716
+Score-driven ATS sampling...
+Sampled frames:  [64, 160, 224, 288, 352, 448, 544, 592, 624, 656, 672, 688]
+  done  : The anomaly event involves a car accident, where a black car is involved in a collision with a motorcycle, resulting in the motorcycle being flipped over and th
+[222/290] RoadAccidents121_x264
+  video : /workspace/test/Testing_Anomaly_Videos/RoadAccidents/RoadAccidents121_x264.mp4
+  score : /workspace/outputs/RoadAccidents121_x264/fused.npy
+  prompt: Could you describe the anomaly events observed in the video?
+Frame Number:  1835
+Score-driven ATS sampling...
+Sampled frames:  [16, 176, 336, 496, 656, 832, 992, 1152, 1328, 1504, 1664, 1808]
+  done  : The anomaly event involves a car accident where a black car collides with a red car, resulting in debris scattered on the road, and people running away from the
+[223/290] RoadAccidents122_x264
+  video : /workspace/test/Testing_Anomaly_Videos/RoadAccidents/RoadAccidents122_x264.mp4
+  score : /workspace/outputs/RoadAccidents122_x264/fused.npy
+  prompt: Could you provide a summary of the anomaly events in this video?
+Frame Number:  647
+Score-driven ATS sampling...
+Sampled frames:  [64, 160, 240, 288, 352, 384, 432, 480, 512, 544, 592, 624]
+  done  : The video shows a normal and uneventful scene where a man in black walks out of the building, and a man in black walks out of the building, with no unusual or s
+[224/290] RoadAccidents123_x264
+  video : /workspace/test/Testing_Anomaly_Videos/RoadAccidents/RoadAccidents123_x264.mp4
+  score : /workspace/outputs/RoadAccidents123_x264/fused.npy
+  prompt: Could you give a description of the anomaly events in the video?
+Frame Number:  1005
+Score-driven ATS sampling...
+Sampled frames:  [32, 160, 256, 336, 416, 480, 560, 640, 704, 784, 880, 976]
+  done  : The anomaly event involves a white car suddenly veering off the road and crashing into a bus, causing the bus to overturn and crash into a pole, resulting in a 
+[225/290] RoadAccidents124_x264
+  video : /workspace/test/Testing_Anomaly_Videos/RoadAccidents/RoadAccidents124_x264.mp4
+  score : /workspace/outputs/RoadAccidents124_x264/fused.npy
+  prompt: What details can you provide about the anomaly in the video?
+Frame Number:  1495
+Score-driven ATS sampling...
+Sampled frames:  [16, 192, 352, 480, 608, 736, 864, 992, 1120, 1248, 1376, 1472]
+  done  : The anomaly event involves a person in white running across the road, potentially indicating a sudden and unexpected event that deviates from the normal flow of
+[226/290] RoadAccidents125_x264
+  video : /workspace/test/Testing_Anomaly_Videos/RoadAccidents/RoadAccidents125_x264.mp4
+  score : /workspace/outputs/RoadAccidents125_x264/fused.npy
+  prompt: Could you provide a summary of the anomaly events in this video?
+Frame Number:  1771
+Score-driven ATS sampling...
+Sampled frames:  [16, 192, 384, 544, 688, 832, 976, 1120, 1280, 1456, 1600, 1744]
+  done  : The anomaly event involves a car suddenly veering off the road, deviating from the expected traffic flow, and potentially causing a collision with the train, wh
+[227/290] RoadAccidents127_x264
+  video : /workspace/test/Testing_Anomaly_Videos/RoadAccidents/RoadAccidents127_x264.mp4
+  score : /workspace/outputs/RoadAccidents127_x264/fused.npy
+  prompt: What details can you provide about the anomaly in the video?
+Frame Number:  2580
+Score-driven ATS sampling...
+Sampled frames:  [112, 400, 576, 752, 1024, 1312, 1584, 1888, 2176, 2304, 2400, 2560]
+  done  : The anomaly event involves a red truck suddenly veering off the road and crashing into a train, causing a significant impact that disrupts the normal flow of tr
+[228/290] RoadAccidents128_x264
+  video : /workspace/test/Testing_Anomaly_Videos/RoadAccidents/RoadAccidents128_x264.mp4
+  score : /workspace/outputs/RoadAccidents128_x264/fused.npy
+  prompt: What details can you provide about the anomaly in the video?
+Frame Number:  565
+Score-driven ATS sampling...
+Sampled frames:  [16, 64, 128, 176, 224, 272, 320, 368, 416, 464, 512, 544]
+  done  : The anomaly event involves a man in black walking towards the white car, and then a man in black and white clothes running towards the white car, suggesting a p
+[229/290] RoadAccidents131_x264
+  video : /workspace/test/Testing_Anomaly_Videos/RoadAccidents/RoadAccidents131_x264.mp4
+  score : /workspace/outputs/RoadAccidents131_x264/fused.npy
+  prompt: Describe the anomaly events observed in the video.
+Frame Number:  1524
+Score-driven ATS sampling...
+Sampled frames:  [16, 176, 288, 416, 528, 640, 768, 880, 1024, 1168, 1328, 1504]
+  done  : The anomaly event involves a white car driving from the bottom of the screen to the top of the screen, and then driving back to the bottom of the screen, with n
+[230/290] RoadAccidents132_x264
+  video : /workspace/test/Testing_Anomaly_Videos/RoadAccidents/RoadAccidents132_x264.mp4
+  score : /workspace/outputs/RoadAccidents132_x264/fused.npy
+  prompt: Could you give a description of the anomaly events in the video?
+Frame Number:  1862
+Score-driven ATS sampling...
+Sampled frames:  [48, 208, 336, 480, 688, 880, 1072, 1264, 1440, 1648, 1792, 1840]
+  done  : The video shows a normal traffic scene with multiple vehicles, including cars and a bus, moving in a straight line on a road, with no unusual or unexpected even
+[231/290] RoadAccidents133_x264
+  video : /workspace/test/Testing_Anomaly_Videos/RoadAccidents/RoadAccidents133_x264.mp4
+  score : /workspace/outputs/RoadAccidents133_x264/fused.npy
+  prompt: What details can you provide about the anomaly in the video?
+Frame Number:  673
+Score-driven ATS sampling...
+Sampled frames:  [16, 96, 160, 224, 272, 336, 384, 448, 496, 560, 608, 656]
+  done  : The anomaly event involves a motorcycle rider crashing into a person on the road, resulting in the person falling to the ground, and subsequently, a car driving
+[232/290] Robbery048_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Robbery/Robbery048_x264.mp4
+  score : /workspace/outputs/Robbery048_x264/fused.npy
+  prompt: How would you describe the particular anomaly events in the video?
+Frame Number:  1409
+Score-driven ATS sampling...
+Sampled frames:  [16, 144, 288, 416, 528, 640, 768, 880, 1008, 1136, 1264, 1392]
+  done  : The anomaly event involves a man in a striped shirt and jeans entering the store, holding a gun, and pointing it at the man in a suit, indicating a potential th
+[233/290] Robbery050_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Robbery/Robbery050_x264.mp4
+  score : /workspace/outputs/Robbery050_x264/fused.npy
+  prompt: Could you give a description of the anomaly events in the video?
+Frame Number:  1701
+Score-driven ATS sampling...
+Sampled frames:  [128, 304, 464, 608, 720, 816, 912, 1024, 1168, 1344, 1520, 1680]
+  done  : The video depicts a normal and mundane scene where a man in a red shirt and black pants approaches a white car with a black roof, opens the trunk, and then leav
+[234/290] Robbery102_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Robbery/Robbery102_x264.mp4
+  score : /workspace/outputs/Robbery102_x264/fused.npy
+  prompt: Could you provide a summary of the anomaly events in this video?
+Frame Number:  1827
+Score-driven ATS sampling...
+Sampled frames:  [16, 160, 304, 448, 624, 784, 960, 1136, 1312, 1472, 1648, 1808]
+  done  : The anomaly event involves a man in black and a woman in purple engaging in a physical altercation, with the man pushing the woman to the ground and the woman a
+[235/290] Robbery106_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Robbery/Robbery106_x264.mp4
+  score : /workspace/outputs/Robbery106_x264/fused.npy
+  prompt: Describe the anomaly events observed in the video.
+Frame Number:  1197
+Score-driven ATS sampling...
+Sampled frames:  [16, 112, 208, 304, 400, 480, 544, 624, 704, 800, 992, 1168]
+  done  : The anomaly event involves a man in a white shirt and black pants approaching a silver car, and then a man in a blue shirt and black pants approaching a red car
+[236/290] Robbery137_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Robbery/Robbery137_x264.mp4
+  score : /workspace/outputs/Robbery137_x264/fused.npy
+  prompt: Give a description of the detected anomaly events in this video.
+Frame Number:  2193
+Score-driven ATS sampling...
+Sampled frames:  [16, 208, 400, 592, 768, 960, 1152, 1328, 1520, 1712, 1904, 2176]
+  done  : The anomaly event involves a man in black wearing a black hoodie and a black cap, who is seen taking money from the cashier, and then leaves the store, suggesti
+[237/290] Shooting002_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shooting/Shooting002_x264.mp4
+  score : /workspace/outputs/Shooting002_x264/fused.npy
+  prompt: How would you detail the anomaly events found in the video?
+Frame Number:  1206
+Score-driven ATS sampling...
+Sampled frames:  [16, 128, 240, 336, 448, 560, 656, 768, 864, 976, 1088, 1184]
+  done  : The anomaly event involves a group of people engaging in a physical altercation, with one person being pushed to the ground by another individual, and the group
+[238/290] Shooting004_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shooting/Shooting004_x264.mp4
+  score : /workspace/outputs/Shooting004_x264/fused.npy
+  prompt: What details can you provide about the anomaly in the video?
+Frame Number:  1793
+Score-driven ATS sampling...
+Sampled frames:  [144, 416, 560, 704, 848, 992, 1120, 1264, 1392, 1520, 1648, 1776]
+  done  : The anomaly event involves a man in a black shirt and white pants running towards the car, suggesting a potential threat or disturbance
+[239/290] Shooting007_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shooting/Shooting007_x264.mp4
+  score : /workspace/outputs/Shooting007_x264/fused.npy
+  prompt: What details can you provide about the anomaly in the video?
+Frame Number:  1430
+Score-driven ATS sampling...
+Sampled frames:  [16, 144, 272, 400, 512, 656, 784, 896, 1040, 1168, 1280, 1408]
+  done  : The anomaly event involves a man in blue clothes running across the yard, and later, a man in black clothes running across the yard, suggesting a potential burg
+[240/290] Shooting008_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shooting/Shooting008_x264.mp4
+  score : /workspace/outputs/Shooting008_x264/fused.npy
+  prompt: How would you describe the particular anomaly events in the video?
+Frame Number:  1625
+Score-driven ATS sampling...
+Sampled frames:  [16, 64, 112, 176, 224, 288, 352, 400, 512, 816, 1168, 1600]
+  done  : The anomaly event involves a man in black clothes and black shoes entering the scene, picking up a black suitcase, and then leaving the scene, with no unusual o
+[241/290] Shooting010_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shooting/Shooting010_x264.mp4
+  score : /workspace/outputs/Shooting010_x264/fused.npy
+  prompt: Could you give a description of the anomaly events in the video?
+Frame Number:  2641
+Score-driven ATS sampling...
+Sampled frames:  [16, 304, 528, 768, 992, 1248, 1504, 1760, 2016, 2208, 2416, 2624]
+  done  : The anomaly event involves a man in black entering the building and then leaving, with the man in black later seen walking out of the building, suggesting a sus
+[242/290] Shooting011_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shooting/Shooting011_x264.mp4
+  score : /workspace/outputs/Shooting011_x264/fused.npy
+  prompt: How would you detail the anomaly events found in the video?
+Frame Number:  4003
+Score-driven ATS sampling...
+Sampled frames:  [16, 368, 688, 1008, 1344, 1696, 2080, 2448, 2832, 3216, 3616, 3984]
+  done  : The anomaly event involves a man in black clothes and a hat entering the room, holding a gun, and pointing it at the man in white clothes, who is lying on the f
+[243/290] Shooting013_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shooting/Shooting013_x264.mp4
+  score : /workspace/outputs/Shooting013_x264/fused.npy
+  prompt: Could you describe the anomaly events observed in the video?
+Frame Number:  1073
+Score-driven ATS sampling...
+Sampled frames:  [16, 96, 192, 288, 384, 480, 576, 672, 768, 864, 960, 1056]
+  done  : The anomaly event involves a man in a white hoodie and dark pants walking up the stairs, then running down the stairs, and eventually leaving the scene, suggest
+[244/290] Shooting015_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shooting/Shooting015_x264.mp4
+  score : /workspace/outputs/Shooting015_x264/fused.npy
+  prompt: Could you describe the anomaly events observed in the video?
+Frame Number:  1713
+Score-driven ATS sampling...
+Sampled frames:  [16, 160, 304, 528, 720, 864, 1008, 1184, 1312, 1440, 1568, 1696]
+  done  : The anomaly event involves a man in white clothes and a man in black clothes engaging in a physical altercation, with the man in white clothes holding a gun and
+[245/290] Shooting018_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shooting/Shooting018_x264.mp4
+  score : /workspace/outputs/Shooting018_x264/fused.npy
+  prompt: Could you describe the anomaly events observed in the video?
+Frame Number:  1799
+Score-driven ATS sampling...
+Sampled frames:  [16, 192, 352, 512, 672, 832, 992, 1152, 1312, 1472, 1632, 1776]
+  done  : The anomaly event involves a man in a white shirt and black pants holding a gun and pointing it at the man in green clothes, who is lying on the ground, suggest
+[246/290] Shooting019_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shooting/Shooting019_x264.mp4
+  score : /workspace/outputs/Shooting019_x264/fused.npy
+  prompt: How would you describe the particular anomaly events in the video?
+Frame Number:  2756
+Score-driven ATS sampling...
+Sampled frames:  [16, 272, 512, 752, 1008, 1264, 1504, 1760, 2000, 2256, 2496, 2736]
+  done  : The anomaly event involves a man in blue clothes and a white hat taking out a gun and pointing it at the man in black clothes, indicating a potential shooting i
+[247/290] Shooting021_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shooting/Shooting021_x264.mp4
+  score : /workspace/outputs/Shooting021_x264/fused.npy
+  prompt: How would you detail the anomaly events found in the video?
+Frame Number:  1275
+Score-driven ATS sampling...
+Sampled frames:  [16, 128, 256, 368, 480, 576, 688, 800, 912, 1024, 1136, 1248]
+  done  : The anomaly event involves a man in blue clothes entering the car, opening the door, and then leaving the car, which is a suspicious and potentially illegal act
+[248/290] Shooting022_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shooting/Shooting022_x264.mp4
+  score : /workspace/outputs/Shooting022_x264/fused.npy
+  prompt: Give a description of the detected anomaly events in this video.
+Frame Number:  4554
+Score-driven ATS sampling...
+Sampled frames:  [112, 1280, 2416, 2864, 3024, 3200, 3376, 3536, 3712, 3936, 4192, 4528]
+  done  : The anomaly event involves a man in a red shirt and blue jeans entering the room, pushing a woman in a white dress to the ground, and then leaving the room, whi
+[249/290] Shooting024_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shooting/Shooting024_x264.mp4
+  score : /workspace/outputs/Shooting024_x264/fused.npy
+  prompt: Provide a summary of the anomaly events in the video.
+Frame Number:  2003
+Score-driven ATS sampling...
+Sampled frames:  [16, 192, 368, 528, 704, 864, 1040, 1200, 1360, 1520, 1696, 1984]
+  done  : The anomaly event involves a man in blue clothes running from the bottom of the screen to the top of the screen, and then a man in white clothes running from th
+[250/290] Shooting026_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shooting/Shooting026_x264.mp4
+  score : /workspace/outputs/Shooting026_x264/fused.npy
+  prompt: How would you describe the particular anomaly events in the video?
+Frame Number:  1403
+Score-driven ATS sampling...
+Sampled frames:  [16, 144, 256, 384, 512, 624, 752, 880, 992, 1120, 1248, 1376]
+  done  : The anomaly event involves a man in white clothes walking towards the house, and then a man in white clothes and a white hat walks towards the house, suggesting
+[251/290] Shooting028_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shooting/Shooting028_x264.mp4
+  score : /workspace/outputs/Shooting028_x264/fused.npy
+  prompt: Give a description of the detected anomaly events in this video.
+Frame Number:  1898
+Score-driven ATS sampling...
+Sampled frames:  [48, 368, 528, 672, 800, 944, 1088, 1248, 1408, 1552, 1696, 1872]
+  done  : The anomaly event involves a man in black and white clothes running out of the room, and a man in black clothes running out of the room, suggesting a potential 
+[252/290] Shooting032_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shooting/Shooting032_x264.mp4
+  score : /workspace/outputs/Shooting032_x264/fused.npy
+  prompt: Could you give a description of the anomaly events in the video?
+Frame Number:  21681
+Score-driven ATS sampling...
+Sampled frames:  [112, 5712, 8656, 9664, 10832, 11792, 12864, 14096, 15184, 16384, 19248, 21680]
+  done  : The anomaly event involves a man in a white shirt and black pants walking towards the camera, and then a man in a green shirt and black pants walking towards th
+[253/290] Shooting033_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shooting/Shooting033_x264.mp4
+  score : /workspace/outputs/Shooting033_x264/fused.npy
+  prompt: Could you describe the anomaly events observed in the video?
+Frame Number:  3630
+Score-driven ATS sampling...
+Sampled frames:  [16, 320, 608, 928, 1248, 1552, 1904, 2256, 2576, 2896, 3248, 3600]
+  done  : The anomaly event involves a man in white clothes and a woman in white clothes entering the house and then leaving the house, with the man in white clothes late
+[254/290] Shooting034_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shooting/Shooting034_x264.mp4
+  score : /workspace/outputs/Shooting034_x264/fused.npy
+  prompt: Could you specify the anomaly events present in the video?
+Frame Number:  1409
+Score-driven ATS sampling...
+Sampled frames:  [16, 160, 352, 560, 752, 896, 976, 1056, 1120, 1200, 1296, 1392]
+  done  : The anomaly event involves a man in black walking across the road, and later, a man in black and white clothes walking across the road, suggesting a potential t
+[255/290] Shooting037_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shooting/Shooting037_x264.mp4
+  score : /workspace/outputs/Shooting037_x264/fused.npy
+  prompt: How would you detail the anomaly events found in the video?
+Frame Number:  305
+Score-driven ATS sampling...
+Sampled frames:  [16, 32, 64, 96, 112, 144, 160, 192, 208, 240, 272, 288]
+  done  : The anomaly event involves a car suddenly stopping and then driving away from the scene, which is an unusual and potentially hazardous behavior that deviates fr
+[256/290] Shooting043_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shooting/Shooting043_x264.mp4
+  score : /workspace/outputs/Shooting043_x264/fused.npy
+  prompt: Provide a summary of the anomaly events in the video.
+Frame Number:  1874
+Score-driven ATS sampling...
+Sampled frames:  [16, 176, 336, 512, 672, 848, 1008, 1184, 1360, 1536, 1696, 1856]
+  done  : The anomaly event involves a man in blue clothes and a man in black clothes entering the car, and then the man in black clothes takes out a gun and points it at
+[257/290] Shooting046_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shooting/Shooting046_x264.mp4
+  score : /workspace/outputs/Shooting046_x264/fused.npy
+  prompt: Could you provide a summary of the anomaly events in this video?
+Frame Number:  5088
+Score-driven ATS sampling...
+Sampled frames:  [112, 608, 1056, 1488, 1936, 2368, 2816, 3248, 3696, 4112, 4592, 5072]
+  done  : The anomaly event involves a man in a blue and white striped shirt and a man in a black shirt engaging in a physical altercation with a man in a black hat and a
+[258/290] Shooting047_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shooting/Shooting047_x264.mp4
+  score : /workspace/outputs/Shooting047_x264/fused.npy
+  prompt: How would you detail the anomaly events found in the video?
+Frame Number:  8287
+Score-driven ATS sampling...
+Sampled frames:  [144, 1024, 1728, 2448, 3168, 3872, 4624, 5328, 6016, 6688, 7360, 8256]
+  done  : The anomaly event involves a man in a blue shirt and black pants approaching a white car, and then running away from the scene, suggesting a potential theft or 
+[259/290] Shooting048_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shooting/Shooting048_x264.mp4
+  score : /workspace/outputs/Shooting048_x264/fused.npy
+  prompt: How would you detail the anomaly events found in the video?
+Frame Number:  2741
+Score-driven ATS sampling...
+Sampled frames:  [144, 416, 688, 944, 1200, 1408, 1520, 1696, 1920, 2192, 2448, 2720]
+  done  : The video depicts a normal and mundane scene where a man in white clothes enters the office, walks to the counter, and then leaves the office, with no unusual o
+[260/290] Shoplifting001_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shoplifting/Shoplifting001_x264.mp4
+  score : /workspace/outputs/Shoplifting001_x264/fused.npy
+  prompt: How would you describe the particular anomaly events in the video?
+Frame Number:  4344
+Score-driven ATS sampling...
+Sampled frames:  [16, 432, 800, 1168, 1552, 1920, 2304, 2736, 3184, 3568, 3936, 4320]
+  done  : The video depicts a mundane scene where a man in an orange shirt and black pants walks to the right side of the screen, and a woman in black clothes walks to th
+[261/290] Shoplifting004_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shoplifting/Shoplifting004_x264.mp4
+  score : /workspace/outputs/Shoplifting004_x264/fused.npy
+  prompt: Provide a summary of the anomaly events in the video.
+Frame Number:  6673
+Score-driven ATS sampling...
+Sampled frames:  [16, 656, 1280, 1856, 2448, 3040, 3632, 4224, 4832, 5440, 6032, 6656]
+  done  : The anomaly event involves a man in white clothes and a man in black clothes engaging in a conversation, and later, a man in white clothes and a man in black cl
+[262/290] Shoplifting005_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shoplifting/Shoplifting005_x264.mp4
+  score : /workspace/outputs/Shoplifting005_x264/fused.npy
+  prompt: Describe the anomaly events observed in the video.
+Frame Number:  1967
+Score-driven ATS sampling...
+Sampled frames:  [32, 176, 336, 512, 736, 960, 1248, 1392, 1520, 1616, 1728, 1936]
+  done  : The anomaly event involves a man in a green jacket and black pants entering the store, approaching a man in a black jacket, and then leaving the store, suggesti
+[263/290] Shoplifting007_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shoplifting/Shoplifting007_x264.mp4
+  score : /workspace/outputs/Shoplifting007_x264/fused.npy
+  prompt: Give a description of the detected anomaly events in this video.
+Frame Number:  5124
+Score-driven ATS sampling...
+Sampled frames:  [16, 416, 848, 1328, 2032, 2608, 3024, 3440, 3856, 4272, 4672, 5104]
+  done  : The anomaly event involves a woman in a yellow dress and a man in black entering the room, and then a man in black enters the room, followed by a woman in a yel
+[264/290] Shoplifting010_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shoplifting/Shoplifting010_x264.mp4
+  score : /workspace/outputs/Shoplifting010_x264/fused.npy
+  prompt: Describe the anomaly events observed in the video.
+Frame Number:  2736
+Score-driven ATS sampling...
+Sampled frames:  [80, 304, 512, 720, 976, 1232, 1488, 1728, 1984, 2240, 2480, 2720]
+  done  : The anomaly event involves a man in yellow entering the store, pushing a woman in white to the ground, and then leaving the store, which is a suspicious and pot
+[265/290] Shoplifting015_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shoplifting/Shoplifting015_x264.mp4
+  score : /workspace/outputs/Shoplifting015_x264/fused.npy
+  prompt: What details can you provide about the anomaly in the video?
+Frame Number:  2256
+Score-driven ATS sampling...
+Sampled frames:  [16, 144, 272, 416, 608, 912, 1264, 1440, 1600, 1760, 2016, 2240]
+  done  : The video depicts a mundane scene where a man in white clothes walks into the store, and a woman in white clothes enters the store, and then leaves the store, w
+[266/290] Shoplifting016_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shoplifting/Shoplifting016_x264.mp4
+  score : /workspace/outputs/Shoplifting016_x264/fused.npy
+  prompt: Could you give a description of the anomaly events in the video?
+Frame Number:  1483
+Score-driven ATS sampling...
+Sampled frames:  [16, 128, 240, 400, 560, 688, 800, 928, 1056, 1200, 1360, 1456]
+  done  : The video depicts a mundane scene where a woman in a pink top and purple skirt enters a room, walks to a table, and then leaves the room, with no unusual or out
+[267/290] Shoplifting017_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shoplifting/Shoplifting017_x264.mp4
+  score : /workspace/outputs/Shoplifting017_x264/fused.npy
+  prompt: Could you give a description of the anomaly events in the video?
+Frame Number:  457
+Score-driven ATS sampling...
+Sampled frames:  [16, 48, 96, 144, 176, 208, 256, 288, 320, 368, 400, 432]
+  done  : The video depicts a mundane scene where a man in blue clothes enters the store, walks to the counter, and then leaves the store, with no unusual or suspicious e
+[268/290] Shoplifting020_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shoplifting/Shoplifting020_x264.mp4
+  score : /workspace/outputs/Shoplifting020_x264/fused.npy
+  prompt: Could you specify the anomaly events present in the video?
+Frame Number:  5770
+Score-driven ATS sampling...
+Sampled frames:  [16, 608, 1248, 1792, 2256, 2704, 3248, 3744, 4240, 4800, 5280, 5744]
+  done  : The video depicts a mundane scene where a woman in pink clothes enters the store, and a man in white clothes enters the store, and then leaves the store, with n
+[269/290] Shoplifting021_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shoplifting/Shoplifting021_x264.mp4
+  score : /workspace/outputs/Shoplifting021_x264/fused.npy
+  prompt: Could you describe the anomaly events observed in the video?
+Frame Number:  3551
+Score-driven ATS sampling...
+Sampled frames:  [16, 304, 592, 912, 1280, 1568, 1840, 2112, 2416, 2880, 3168, 3520]
+  done  : The anomaly event involves a man in a purple shirt and a woman in a purple hijab engaging in a physical altercation, with the man pushing the woman away from th
+[270/290] Shoplifting022_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shoplifting/Shoplifting022_x264.mp4
+  score : /workspace/outputs/Shoplifting022_x264/fused.npy
+  prompt: Could you provide a summary of the anomaly events in this video?
+Frame Number:  2191
+Score-driven ATS sampling...
+Sampled frames:  [144, 320, 448, 624, 848, 1040, 1200, 1392, 1568, 1872, 2048, 2160]
+  done  : The anomaly event involves a man in black pushing a woman in blue to the ground, causing her to fall to the ground, and then walking away from the scene
+[271/290] Shoplifting027_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shoplifting/Shoplifting027_x264.mp4
+  score : /workspace/outputs/Shoplifting027_x264/fused.npy
+  prompt: Could you describe the anomaly events observed in the video?
+Frame Number:  1873
+Score-driven ATS sampling...
+Sampled frames:  [0, 176, 336, 512, 672, 848, 1008, 1184, 1344, 1520, 1680, 1856]
+  done  : The anomaly event involves a man in a black shirt and white shorts entering the store, looking around, and then leaving the store, suggesting a suspicious or un
+[272/290] Shoplifting028_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shoplifting/Shoplifting028_x264.mp4
+  score : /workspace/outputs/Shoplifting028_x264/fused.npy
+  prompt: Give a description of the detected anomaly events in this video.
+Frame Number:  1357
+Score-driven ATS sampling...
+Sampled frames:  [128, 272, 352, 432, 528, 608, 704, 784, 864, 944, 1040, 1328]
+  done  : The anomaly event involves a man in white clothes and a woman in green clothes entering the store, and then a man in white clothes and a woman in green clothes 
+[273/290] Shoplifting029_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shoplifting/Shoplifting029_x264.mp4
+  score : /workspace/outputs/Shoplifting029_x264/fused.npy
+  prompt: Describe the anomaly events observed in the video.
+Frame Number:  2176
+Score-driven ATS sampling...
+Sampled frames:  [128, 512, 848, 1008, 1120, 1232, 1360, 1456, 1568, 1696, 1808, 2160]
+  done  : The video depicts a normal and mundane scene where a man in a black coat walks into a store, looks around, and then leaves, with no unusual or out-of-the-ordina
+[274/290] Shoplifting031_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shoplifting/Shoplifting031_x264.mp4
+  score : /workspace/outputs/Shoplifting031_x264/fused.npy
+  prompt: Give a description of the detected anomaly events in this video.
+Frame Number:  447
+Score-driven ATS sampling...
+Sampled frames:  [64, 96, 128, 176, 208, 256, 288, 336, 368, 384, 400, 416]
+  done  : The video depicts a mundane scene where a man in a blue shirt and black pants is seen sitting at a counter in a store, with a man in a white shirt and black pan
+[275/290] Shoplifting033_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shoplifting/Shoplifting033_x264.mp4
+  score : /workspace/outputs/Shoplifting033_x264/fused.npy
+  prompt: Could you specify the anomaly events present in the video?
+Frame Number:  899
+Score-driven ATS sampling...
+Sampled frames:  [128, 224, 304, 368, 416, 480, 528, 592, 656, 736, 800, 880]
+  done  : The video depicts a mundane scene where a man in a blue shirt and khaki shorts walks into a store, engages in conversation with a woman in black, and then leave
+[276/290] Shoplifting034_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shoplifting/Shoplifting034_x264.mp4
+  score : /workspace/outputs/Shoplifting034_x264/fused.npy
+  prompt: Could you give a description of the anomaly events in the video?
+Frame Number:  11937
+Score-driven ATS sampling...
+Sampled frames:  [16, 1216, 2304, 3248, 4176, 5120, 6256, 7248, 8208, 9168, 10272, 11920]
+  done  : The video depicts a mundane scene where a man in a white shirt and glasses enters the store, and a woman in a floral dress and black bag walks out of the store,
+[277/290] Shoplifting037_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shoplifting/Shoplifting037_x264.mp4
+  score : /workspace/outputs/Shoplifting037_x264/fused.npy
+  prompt: Could you give a description of the anomaly events in the video?
+Frame Number:  1386
+Score-driven ATS sampling...
+Sampled frames:  [112, 288, 448, 608, 752, 880, 1008, 1104, 1184, 1248, 1296, 1360]
+  done  : The anomaly event involves a man in a dark jacket and a woman in a red dress engaging in a conversation and exchanging items, which may be suspicious or illegal
+[278/290] Shoplifting039_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shoplifting/Shoplifting039_x264.mp4
+  score : /workspace/outputs/Shoplifting039_x264/fused.npy
+  prompt: Describe the anomaly events observed in the video.
+Frame Number:  2803
+Score-driven ATS sampling...
+Sampled frames:  [64, 256, 512, 768, 1024, 1280, 1520, 1776, 2032, 2288, 2544, 2784]
+  done  : The anomaly event involves a man in a red shirt and black shorts entering the store, picking up a box, and then leaving the store, suggesting a potential theft 
+[279/290] Shoplifting044_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shoplifting/Shoplifting044_x264.mp4
+  score : /workspace/outputs/Shoplifting044_x264/fused.npy
+  prompt: What details can you provide about the anomaly in the video?
+Frame Number:  14555
+Score-driven ATS sampling...
+Sampled frames:  [48, 1984, 3328, 4528, 5696, 6832, 7968, 9168, 10896, 12224, 13392, 14528]
+  done  : The anomaly event involves a man in a brown jacket and black pants entering the store, approaching the counter, and then leaving the store, suggesting a suspici
+[280/290] Shoplifting049_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Shoplifting/Shoplifting049_x264.mp4
+  score : /workspace/outputs/Shoplifting049_x264/fused.npy
+  prompt: Give a description of the detected anomaly events in this video.
+Frame Number:  2149
+Score-driven ATS sampling...
+Sampled frames:  [16, 208, 384, 576, 768, 960, 1152, 1344, 1536, 1728, 1920, 2128]
+  done  : The video depicts a mundane scene where a man in a blue shirt and khaki shorts enters the store, takes out a box, and then leaves the store, with no unusual or 
+[281/290] Stealing019_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Stealing/Stealing019_x264.mp4
+  score : /workspace/outputs/Stealing019_x264/fused.npy
+  prompt: Give a description of the detected anomaly events in this video.
+Frame Number:  4911
+Score-driven ATS sampling...
+Sampled frames:  [80, 576, 976, 1392, 1792, 2208, 2624, 3008, 3424, 3872, 4272, 4880]
+  done  : The anomaly event involves a man in a white shirt and yellow pants attempting to steal a white car, which is a clear and intentional act of theft, deviating fro
+[282/290] Stealing036_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Stealing/Stealing036_x264.mp4
+  score : /workspace/outputs/Stealing036_x264/fused.npy
+  prompt: Could you specify the anomaly events present in the video?
+Frame Number:  2503
+Score-driven ATS sampling...
+Sampled frames:  [32, 400, 624, 896, 1136, 1328, 1472, 1632, 1856, 2064, 2304, 2480]
+  done  : The anomaly event involves a man in a blue shirt and black pants approaching a woman in a red dress and black headscarf, and then grabbing her by the hair, whic
+[283/290] Stealing058_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Stealing/Stealing058_x264.mp4
+  score : /workspace/outputs/Stealing058_x264/fused.npy
+  prompt: Provide a summary of the anomaly events in the video.
+Frame Number:  4991
+Score-driven ATS sampling...
+Sampled frames:  [64, 512, 944, 1392, 1840, 2288, 2736, 3168, 3600, 4016, 4432, 4960]
+  done  : The anomaly event involves a group of men breaking into a car, which is a suspicious and illegal activity
+[284/290] Stealing062_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Stealing/Stealing062_x264.mp4
+  score : /workspace/outputs/Stealing062_x264/fused.npy
+  prompt: Could you provide a summary of the anomaly events in this video?
+Frame Number:  1560
+Score-driven ATS sampling...
+Sampled frames:  [16, 160, 304, 432, 576, 704, 848, 976, 1120, 1264, 1408, 1536]
+  done  : The anomaly event involves a man in purple clothes walking towards the white car, and then a man in blue clothes walking towards the white car, suggesting a pot
+[285/290] Stealing079_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Stealing/Stealing079_x264.mp4
+  score : /workspace/outputs/Stealing079_x264/fused.npy
+  prompt: How would you detail the anomaly events found in the video?
+Frame Number:  5846
+Score-driven ATS sampling...
+Sampled frames:  [16, 592, 1152, 1712, 2320, 2848, 3344, 3840, 4336, 4832, 5344, 5824]
+  done  : The anomaly event involves a man in white clothes and a helmet entering the gate and then leaving the gate, which is an unusual and suspicious behavior, potenti
+[286/290] Vandalism007_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Vandalism/Vandalism007_x264.mp4
+  score : /workspace/outputs/Vandalism007_x264/fused.npy
+  prompt: Could you provide a summary of the anomaly events in this video?
+Frame Number:  1146
+Score-driven ATS sampling...
+Sampled frames:  [16, 128, 240, 352, 448, 544, 624, 720, 816, 912, 1024, 1120]
+  done  : The anomaly event involves a man in a black shirt and white pants running across the road, and a man in a black shirt and white pants running across the road, w
+[287/290] Vandalism015_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Vandalism/Vandalism015_x264.mp4
+  score : /workspace/outputs/Vandalism015_x264/fused.npy
+  prompt: Could you specify the anomaly events present in the video?
+Frame Number:  2982
+Score-driven ATS sampling...
+Sampled frames:  [16, 288, 544, 800, 1072, 1344, 1616, 1888, 2160, 2432, 2704, 2960]
+  done  : The anomaly event involves the man in gray entering the store and then leaving, which is an unusual and suspicious behavior that deviates from the normal and ex
+[288/290] Vandalism017_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Vandalism/Vandalism017_x264.mp4
+  score : /workspace/outputs/Vandalism017_x264/fused.npy
+  prompt: How would you detail the anomaly events found in the video?
+Frame Number:  1011
+Score-driven ATS sampling...
+Sampled frames:  [16, 96, 192, 272, 368, 464, 544, 640, 720, 816, 912, 992]
+  done  : The anomaly event involves a man in a brown jacket and black pants walking out of the store and then running out of the store, suggesting a potential theft or s
+[289/290] Vandalism028_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Vandalism/Vandalism028_x264.mp4
+  score : /workspace/outputs/Vandalism028_x264/fused.npy
+  prompt: How would you detail the anomaly events found in the video?
+Frame Number:  4495
+Score-driven ATS sampling...
+Sampled frames:  [16, 416, 784, 1168, 1552, 1920, 2272, 2672, 3120, 3568, 4016, 4464]
+  done  : The anomaly event involves a man in white clothes walking towards the car, and then a man in white clothes and a white hat walks towards the car, suggesting a p
+[290/290] Vandalism036_x264
+  video : /workspace/test/Testing_Anomaly_Videos/Vandalism/Vandalism036_x264.mp4
+  score : /workspace/outputs/Vandalism036_x264/fused.npy
+  prompt: How would you describe the particular anomaly events in the video?
+Frame Number:  1443
+Score-driven ATS sampling...
+Sampled frames:  [16, 128, 256, 368, 496, 624, 752, 880, 1008, 1152, 1296, 1424]
+  done  : The anomaly event involves a man in a white shirt and black pants entering the store, picking up a box, and then leaving the store, which is a suspicious and un
+
+================================================================================
+Final Report
+================================================================================
+Total jobs              : 290
+Successful descriptions : 290
+Missing videos          : 0
+Failed videos           : 0
+JSON saved to           : /workspace/outputs/holmesvau_video_descriptions_290.json

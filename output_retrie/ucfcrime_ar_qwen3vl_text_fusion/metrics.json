@@ -1,0 +1,104 @@
+{
+  "text_only": {
+    "recall@1": 0.1896551724137931,
+    "recall@5": 0.3310344827586207,
+    "recall@10": 0.44482758620689655,
+    "median_rank": 13.5,
+    "mean_rank": 28.751724137931035
+  },
+  "visual_only_from_top10": {
+    "recall@1": 0.5206896551724138,
+    "recall@5": 0.7551724137931034,
+    "recall@10": 0.8758620689655172,
+    "median_rank": 1.0,
+    "mean_rank": 24.313793103448276
+  },
+  "fusion": {
+    "0.0000": {
+      "recall@1": 0.1896551724137931,
+      "recall@5": 0.3310344827586207,
+      "recall@10": 0.44482758620689655,
+      "median_rank": 13.5,
+      "mean_rank": 28.751724137931035
+    },
+    "0.1000": {
+      "recall@1": 0.23793103448275862,
+      "recall@5": 0.4862068965517241,
+      "recall@10": 0.6379310344827587,
+      "median_rank": 6.0,
+      "mean_rank": 15.66551724137931
+    },
+    "0.2000": {
+      "recall@1": 0.2517241379310345,
+      "recall@5": 0.5758620689655173,
+      "recall@10": 0.7862068965517242,
+      "median_rank": 4.0,
+      "mean_rank": 11.13448275862069
+    },
+    "0.3000": {
+      "recall@1": 0.2793103448275862,
+      "recall@5": 0.6448275862068965,
+      "recall@10": 0.8620689655172413,
+      "median_rank": 4.0,
+      "mean_rank": 9.9
+    },
+    "0.4000": {
+      "recall@1": 0.3,
+      "recall@5": 0.6620689655172414,
+      "recall@10": 0.8724137931034482,
+      "median_rank": 3.0,
+      "mean_rank": 9.641379310344828
+    },
+    "0.5000": {
+      "recall@1": 0.3310344827586207,
+      "recall@5": 0.7,
+      "recall@10": 0.8758620689655172,
+      "median_rank": 3.0,
+      "mean_rank": 9.406896551724138
+    },
+    "0.6000": {
+      "recall@1": 0.3724137931034483,
+      "recall@5": 0.7103448275862069,
+      "recall@10": 0.8758620689655172,
+      "median_rank": 2.0,
+      "mean_rank": 9.203448275862069
+    },
+    "0.7000": {
+      "recall@1": 0.43103448275862066,
+      "recall@5": 0.7172413793103448,
+      "recall@10": 0.8758620689655172,
+      "median_rank": 2.0,
+      "mean_rank": 8.979310344827587
+    },
+    "0.8000": {
+      "recall@1": 0.47586206896551725,
+      "recall@5": 0.7379310344827587,
+      "recall@10": 0.8758620689655172,
+      "median_rank": 2.0,
+      "mean_rank": 8.841379310344827
+    },
+    "0.9000": {
+      "recall@1": 0.503448275862069,
+      "recall@5": 0.7517241379310344,
+      "recall@10": 0.8758620689655172,
+      "median_rank": 1.0,
+      "mean_rank": 8.710344827586207
+    },
+    "1.0000": {
+      "recall@1": 0.5206896551724138,
+      "recall@5": 0.7551724137931034,
+      "recall@10": 0.8758620689655172,
+      "median_rank": 1.0,
+      "mean_rank": 24.313793103448276
+    }
+  },
+  "best_alpha_by_recall@1": "1.0000",
+  "notes": {
+    "visual_score_source": "/workspace/score_fuse/output/ucfcrime_ar_retrieval_run/topk_results.json",
+    "fusion_rule": "alpha * visual_score + (1 - alpha) * text_score",
+    "visual_score_assumption": "Only top-k visual scores were available. Missing visual scores were filled with 0.0.",
+    "query_instruction": "Represent the query text for retrieving the most relevant video description.",
+    "document_instruction": "Represent the video description for retrieval against natural-language crime queries.",
+    "model_name_or_path": "Qwen/Qwen3-VL-Embedding-2B"
+  }
+}

@@ -9,7 +9,7 @@ from holmesvau.ATS.Temporal_Sampler import Temporal_Sampler
 from holmesvau.internvl_utils import build_transform, get_index, dynamic_preprocess
 
 
-def load_model(mllm_path, sampler_path, device):
+def load_model(mllm_path, sampler_path=None, device="cuda:0", sampler_tau=0.1):
     model = AutoModel.from_pretrained(
         mllm_path,
         torch_dtype=torch.bfloat16,
@@ -20,7 +20,7 @@ def load_model(mllm_path, sampler_path, device):
     tokenizer = AutoTokenizer.from_pretrained(mllm_path, trust_remote_code=True, use_fast=False)
     model = model.to(device)
     generation_config = dict(max_new_tokens=1024, do_sample=False)
-    sampler = Temporal_Sampler(sampler_path, device)
+    sampler = Temporal_Sampler(sampler_path, device, tau=sampler_tau)
     return model, tokenizer, generation_config, sampler
 
 def get_pixel_values(vr, frame_indices, input_size=448, max_num=1):
@@ -36,18 +36,61 @@ def get_pixel_values(vr, frame_indices, input_size=448, max_num=1):
     pixel_values = torch.cat(pixel_values_list)
     return pixel_values, num_patches_list
 
-def generate(video_path, prompt, model, tokenizer, generation_config, sampler, dense_sample_freq=16, select_frames=12, use_ATS=False):
+def generate(
+    video_path,
+    prompt,
+    model,
+    tokenizer,
+    generation_config,
+    sampler,
+    dense_sample_freq=16,
+    select_frames=12,
+    use_ATS=False,
+    external_scores=None,
+    external_score_frame_indices=None,
+):
     vr = VideoReader(video_path, ctx=cpu(0), num_threads=1)
     print("Frame Number: ", len(vr))
-    if use_ATS and len(vr) > dense_sample_freq * select_frames:
+    score_driven_ats = use_ATS and external_scores is not None and len(np.asarray(external_scores).reshape(-1)) > select_frames
+    frame_driven_ats = use_ATS and external_scores is None and len(vr) > dense_sample_freq * select_frames
+
+    if score_driven_ats or frame_driven_ats:
         # dense sampling 
-        print("Anomaly-fouced Temporal Sampling...")
         dense_frame_indices = list(range(len(vr)))[::dense_sample_freq]
-        pixel_values, num_patches_list = get_pixel_values(vr, dense_frame_indices)
-        # anomaly-focused sampling
-        anomaly_score, sampled_idxs = sampler.density_aware_sample(pixel_values, model, select_frames)
-        sparse_pixel_values = pixel_values[sampled_idxs]
-        frame_indices, num_patches_list = [dense_frame_indices[i] for i in sampled_idxs], [num_patches_list[i] for i in sampled_idxs]
+        if external_scores is not None:
+            print("Score-driven ATS sampling...")
+            anomaly_score, sampled_idxs = sampler.sample_from_scores(
+                external_scores,
+                select_frames=select_frames,
+                return_scores=True,
+            )
+            if external_score_frame_indices is not None:
+                score_frame_indices = list(map(int, np.asarray(external_score_frame_indices).tolist()))
+                if len(anomaly_score) != len(score_frame_indices):
+                    raise ValueError(
+                        "Expected external_score_frame_indices length to match external_scores length "
+                        f"({len(anomaly_score)}), but got {len(score_frame_indices)}."
+                    )
+            else:
+                score_frame_indices = dense_frame_indices
+                if len(anomaly_score) == len(score_frame_indices) - 1:
+                    score_frame_indices = score_frame_indices[:len(anomaly_score)]
+                elif len(anomaly_score) != len(score_frame_indices):
+                    raise ValueError(
+                        "Expected external_scores length to match dense sampled frames "
+                        f"({len(score_frame_indices)}), but got {len(anomaly_score)}. "
+                        "If your score exporter also saved frame indices, pass them via "
+                        "external_score_frame_indices."
+                    )
+            frame_indices = [score_frame_indices[i] for i in sampled_idxs]
+            sparse_pixel_values, num_patches_list = get_pixel_values(vr, frame_indices)
+        else:
+            print("Anomaly-fouced Temporal Sampling...")
+            pixel_values, num_patches_list = get_pixel_values(vr, dense_frame_indices)
+            anomaly_score, sampled_idxs = sampler.density_aware_sample(pixel_values, model, select_frames)
+            sparse_pixel_values = pixel_values[sampled_idxs]
+            frame_indices = [dense_frame_indices[i] for i in sampled_idxs]
+            num_patches_list = [num_patches_list[i] for i in sampled_idxs]
         print('Sampled frames: ', frame_indices)
     else:
         # uniform sampling

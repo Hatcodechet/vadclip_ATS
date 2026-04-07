@@ -1,0 +1,22 @@
+{
+  "video_path": "/workspace/test/Testing_Anomaly_Videos/Arrest/Arrest007_x264.mp4",
+  "score_path": "/workspace/outputs/Arrest007_x264/fused.npy",
+  "select_frames": 12,
+  "dense_sample_freq": 16,
+  "tau": 0.1,
+  "sampled_frame_indices": [
+    16,
+    304,
+    624,
+    880,
+    1216,
+    1472,
+    1712,
+    1952,
+    2192,
+    2448,
+    2672,
+    3120
+  ],
+  "description": "The anomaly event involves a man in white clothes and black shorts entering the room, bending over, and then lying on the floor, suggesting a possible violent or aggressive act"
+}
